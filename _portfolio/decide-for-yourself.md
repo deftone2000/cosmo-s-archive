@@ -16,6 +16,10 @@ category:
 tags:
   - 자기계발
   - 리더십
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
 last_modified_at: 2020-03-14T06:30:00+09:00
 ---
 
