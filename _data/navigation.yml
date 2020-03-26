@@ -22,7 +22,7 @@ foo:
 main:
   #- title: "Quick-Start Guide"
   #  url: /docs/quick-start-guide/
-  - title: "소개합니다"
+  - title: "소개"
     url: /about/
   - title: "포스트"
     url: /year-archive/

@@ -93,8 +93,8 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/jungsoo-lim-photo.jpg"
-  bio              : "책 좋아하는 게으른 공돌이."
-  location         : "경기도 어딘가, 한국"
+  bio              : "한가로운 독서를 좋아하는 철없는 공돌이"
+  location         : "경기도, 한국"
   links:
     - label: "COSMO'S Lib"
       icon: "fas fa-fw fa-link"
@@ -115,13 +115,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+      url: "https://twitter.com/deftone2000"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
+      url: "https://github.com/deftone2000"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://instagram.com/deftone2000"
 
 
 # Reading Files
