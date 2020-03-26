@@ -1,9 +1,8 @@
 ---
 title: 창백한 푸른 점
-image: 
-  path: https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/pia23645_pbd_main-16.jpg?itok=GSe4gFx2
-  thumbnail: https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/pia23645_pbd_main-16.jpg?itok=GSe4gFx2
-  caption: "Photo from [NASA](https://www.nasa.gov/feature/jpl/pale-blue-dot-revisited)"
+header:
+  image: https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/pia23645_pbd_main-16.jpg?itok=GSe4gFx2
+  caption: "Photo credit: [**NASA**](https://www.nasa.gov/feature/jpl/pale-blue-dot-revisited)"
 excerpt_separator: "<!--more-->"
 category:
   - 인용
