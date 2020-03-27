@@ -93,8 +93,8 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/jungsoo-lim-photo.jpg"
-  bio              : "한가로운 독서를 좋아하는 철없는 공돌이"
-  location         : "경기도, 한국"
+  bio              : "마음을 비우고 한가롭게 읽을 수 있는 책을 좋아합니다. 효과적인 삶을 핑계로 게으른 생활을 지향하는 공돌이"
+  location         : "Seoul, South Korea"
   links:
     - label: "COSMO'S Lib"
       icon: "fas fa-fw fa-link"
