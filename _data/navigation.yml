@@ -28,7 +28,7 @@ main:
     url: /tags/
   #- title: "페이지"
   #  url: /page-archive/
-  - title: "지은이"
+  - title: "소개"
     url: /about/
   - title: "글 꾸러미"
     url: /collection-archive/
