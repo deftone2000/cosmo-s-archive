@@ -20,15 +20,15 @@ foo:
 
 # main links
 main:
-  - title: "포스트"
+  - title: "최근 글"
     url: /year-archive/
-  - title: "카테고리"
+  - title: "범주"
     url: /categories/
-  - title: "Tags"
+  - title: "태그"
     url: /tags/
   #- title: "페이지"
   #  url: /page-archive/
-  - title: "소개"
+  - title: "지은이"
     url: /about/
   - title: "글 꾸러미"
     url: /collection-archive/
