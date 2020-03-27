@@ -20,16 +20,16 @@ foo:
 
 # main links
 main:
-  - title: "소개"
-    url: /about/
   - title: "포스트"
     url: /year-archive/
   - title: "카테고리"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "페이지"
-    url: /page-archive/
+  #- title: "페이지"
+  #  url: /page-archive/
+  - title: "소개"
+    url: /about/
   - title: "글 꾸러미"
     url: /collection-archive/
 
