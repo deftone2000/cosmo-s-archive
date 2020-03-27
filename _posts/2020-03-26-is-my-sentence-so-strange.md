@@ -1,6 +1,8 @@
 ---
 title: "내가 쓴 문장이 이상한 이유"
 excerpt_separator: "<!--more-->"
+header:
+  teaser: /assets/images/내문장이그렇게.jpg
 category:
   - 책리뷰
 tags:

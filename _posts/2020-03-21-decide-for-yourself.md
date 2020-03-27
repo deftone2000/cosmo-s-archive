@@ -1,6 +1,8 @@
 ---
 title: "결정장애 극복 프로세스"
 excerpt_separator: "<!--more-->"
+header:
+  teaser: /assets/images/자신있게결정하라.jpg
 category:
   - 책리뷰
 tags:
