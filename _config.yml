@@ -93,7 +93,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/jungsoo-lim-photo.jpg"
-  bio              : "마음을 비우고 한가롭게 읽을 수 있는 책을 좋아합니다. 효과적인 삶을 핑계로 게으른 생활을 지향하는 공돌이"
+  bio              : "바쁜 일상 중에도 마음을 비우고 한가롭게 책을 읽으려 노력합니다. 효과적인 삶을 핑계로 게으른 삶을 선택한 엔지니어"
   location         : "Seoul, South Korea"
   links:
     - label: "COSMO'S Lib"
