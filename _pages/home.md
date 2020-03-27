@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#3b9cba"
   overlay_image: /assets/images/home-page-feature.jpg
   actions:
     - label: "<i class='fa fa-info-circle'></i> 자세히 읽기"
