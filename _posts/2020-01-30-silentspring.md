@@ -1,21 +1,31 @@
 ---
 title: 침묵의 봄
-image: 
-  path: /images/dummyimg.png
-  thumbnail: /images/침묵의봄.jpg
+excerpt: "레이첼 카슨이 말하는 현실은 그야말로 참혹했다. 『침묵의 봄』에 등장하는 화학 방역제의 무분별한 남용으로 인한 자연파괴의 사례들은 충격을 넘어 공포로 다가왔다. 지저귀는 새소리, 바람에 너울대는 나뭇잎 소리처럼 숲을 산책할 때 듣던 익숙한 소리가 없는 ‘침묵의 숲’은 상상만으로도 끔찍하다."
+header:
+  teaser: /assets/images/침묵의봄.jpg
+author_profile: false
+sidebar:
+  - title: "침묵의 봄"
+    text: "The Theory of the Leisure Class"
+    image: https://img.ridicdn.net/cover/754023439/xxlarge
+  - title: "저자"
+    text: "레이첼 카슨"
+  - title: "출판"
+    text: "에코리브르"
+  - title: "출간 정보"
+    text: "2012.09.25. 종이책 출간"
 category:
   - 책리뷰
 tags:
   - 과학
   - 환경
 last_modified_at:
+toc: true
 ---
-
- <kbd>#레이첼 카슨</kbd> <kbd>#에코리브르</kbd> <kbd>#1962</kbd>
 
 ### 침묵의 숲
 
-<img src="https://img.ridicdn.net/cover/754023439/xxlarge" style="width: 140px" class="align-right" alt=""/>해석하기 힘든 데이터와 복잡한 그래프가 뒤섞여 있기 때문에 읽기 어렵고 난해한 고전일 것이라는 나의 예상과는 다르게 책의 시작은 따뜻한 문학작품처럼 서정적이었다. 하지만 책의 내용이 전개될수록 독자들의 표정은 점점 어두워질 것이다. 
+해석하기 힘든 데이터와 복잡한 그래프가 뒤섞여 있기 때문에 읽기 어렵고 난해한 고전일 것이라는 나의 예상과는 다르게 책의 시작은 따뜻한 문학작품처럼 서정적이었다. 하지만 책의 내용이 전개될수록 독자들의 표정은 점점 어두워질 것이다. 
 
 레이첼 카슨이 말하는 현실은 그야말로 참혹했다. 『침묵의 봄』에 등장하는 화학 방역제의 무분별한 남용으로 인한 자연파괴의 사례들은 충격을 넘어 공포로 다가왔다. 지저귀는 새소리, 바람에 너울대는 나뭇잎 소리처럼 숲을 산책할 때 듣던 익숙한 소리가 없는 ‘침묵의 숲’은 상상만으로도 끔찍하다.
 
