@@ -1,8 +1,19 @@
 ---
 title: 이제는 말할 수 있다.
-image: 
-  path: /images/dummyimg.png
-  thumbnail: /images/현대침묵사.jpg
+excerpt: "'행동하지 않는 양심은 악이다.' 김대중 대통령의 명언이다. 역설적이게도 동서고금을 막론하고 이 구절의 힘을 두려워한 독재자, 지배층, 수구 세력은 민중의 침묵을 잔인하게 강요해왔다."
+header:
+  teaser: /assets/images/현대침묵사.jpg
+author_profile: false
+sidebar:
+  - title: "우리들의 현대 침묵사"
+    text:
+    image: https://img.ridicdn.net/cover/754003402/xxlarge
+  - title: "저자"
+    text: "정길화"
+  - title: "출판"
+    text: "해냄"
+  - title: "출간 정보"
+    text: "2012.07.31. 전자책 출간"
 category:
   - 책리뷰
 tags:
@@ -11,9 +22,7 @@ tags:
 last_modified_at:
 ---
 
-<kbd>#정길화</kbd> <kbd>#해냄 출판</kbd> 
-
-<img src="https://img.ridicdn.net/cover/754003402/xxlarge" style="width: 140px" class="align-left" alt=""/>'행동하지 않는 양심은 악이다.' 김대중 대통령의 명언이다. 역설적이게도 동서고금을 막론하고 이 구절의 힘을 두려워한 독재자, 지배층, 수구 세력은 민중의 침묵을 잔인하게 강요해왔다.
+'행동하지 않는 양심은 악이다.' 김대중 대통령의 명언이다. 역설적이게도 동서고금을 막론하고 이 구절의 힘을 두려워한 독재자, 지배층, 수구 세력은 민중의 침묵을 잔인하게 강요해왔다.
 
 우리들의 현대사도 침묵으로 얼룩져있다고 해도 과언이 아니다. 진실을 요구하거나 떠드는 세력의 마지막 모습은 언제나 비슷했다. 
 

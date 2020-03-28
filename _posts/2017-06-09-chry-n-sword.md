@@ -1,8 +1,18 @@
 ---
-title: 국화와 칼
-image: 
-  path: /images/dummyimg.png
-  thumbnail: https://img.ridicdn.net/cover/998000271/xxlarge?dpi=xxhdpi
+title: 미국 인류학자의 일본 보고서
+author_profile: false
+sidebar:
+  - title: "국화와 칼"
+    text:
+    image: https://img.ridicdn.net/cover/998000271/xxlarge
+  - title: "저자"
+    text: "루스 베네딕트"
+  - title: "번역"
+    text: "박규태 "
+  - title: "출판"
+    text: "문예출판사"
+  - title: "출간 정보"
+    text: "2008.02.15. 전자책 출간"
 category:
   - 책리뷰
 tags:
@@ -10,9 +20,7 @@ tags:
 last_modified_at:
 ---
 
-<kbd>#루스 베네딕트</kbd> <kbd>#문예출판사</kbd> 
-
-<img src="https://img.ridicdn.net/cover/998000271/xxlarge?dpi=xxhdpi" style="width: 140px" class="align-left" alt=""/>의, 충, 인과 같은 도덕적이고 윤리적인 인간을 지향하는 모습으로 대변되는 **국화**. 할복, 제국주의, 군국주의 등 잔학한 인간의 모습을 대변하는 **칼**. 이처럼 일본의 너무나 모순되는 성향과 기회주의적인 윤리관을 어떻게 설명할 것인지에 대한 보고서이다. 그래서 일본을 이해하는 데 중요한 고전이다. 
+의, 충, 인과 같은 도덕적이고 윤리적인 인간을 지향하는 모습으로 대변되는 **국화**. 할복, 제국주의, 군국주의 등 잔학한 인간의 모습을 대변하는 **칼**. 이처럼 일본의 너무나 모순되는 성향과 기회주의적인 윤리관을 어떻게 설명할 것인지에 대한 보고서이다. 그래서 일본을 이해하는 데 중요한 고전이다. 
 
 미국의 원폭투하 후 무조건 항복을 받아낸 미국의 상식에서 이해할 수 없는 일본인들의 이중적인 대응과 변화를 인류학자의 시선에서 기발하게 풀어낸다. **서구적인 편견과 선입관**을 버리고 진정한 일본의 속내를 이해해 보려는 저자의 노력을 느낄 수 있었다. 
 

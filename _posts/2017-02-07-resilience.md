@@ -1,8 +1,17 @@
 ---
-title: 회복 탄력성
-image: 
-  path: /images/dummyimg.png
-  thumbnail: http://image.yes24.com/Goods/71743513/800x0
+title: "성공한 사람들의 특징"
+excerpt: "성공한 사람들의 특징은 무엇일까? 일반적인 상식으로는 타고난 재능과 유전적인 요소, 인내와 성실성, 주변 사람들과의 관계 등이 떠오른다."
+author_profile: false
+sidebar:
+  - title: "회복 탄력성"
+    text:
+    image: https://img.ridicdn.net/cover/734001747/xxlarge
+  - title: "저자"
+    text: "김주환"
+  - title: "출판"
+    text: "위즈덤하우스"
+  - title: "출간 정보"
+    text: "2019.03.29. 종이책 출간"
 category:
   - 책리뷰
 tags:
@@ -10,9 +19,7 @@ tags:
 last_modified_at:
 ---
 
-<kbd>#김주환</kbd> <kbd>#위즈덤하우스</kbd> 
-
-<img src="http://image.yes24.com/Goods/71743513/800x0" style="width: 140px" class="align-right" alt=""/>회복탄력성
+회복탄력성
 : 변화하는 환경에 적응하고 그 환경을 스스로에게 유리한 방향으로 이용하는 인간의 총체적 능력.
 
 성공한 사람들의 특징은 무엇일까? 일반적인 상식으로는 타고난 재능과 유전적인 요소, 인내와 성실성, 주변 사람들과의 관계 등이 떠오른다. 여러 가지 요인을 생각할 수 있겠지만 이 책에서 성공의 중요한 키워드는 **회복 탄력성**[^1]이다. 저자는 실패와 좌절을 극복하는 과정이 중요하다고 말하고 있다. 이러한 인생의 난관을 이겨내는데 큰 영향을 미치는 것이 바로 회복 탄력성이기 때문이다. 

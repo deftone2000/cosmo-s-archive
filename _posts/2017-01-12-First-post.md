@@ -1,9 +1,8 @@
 ---
 title: "새로운 시작을 위하여"
 excerpt_separator: "<!--more-->"
-image: 
-  path: http://dl.dropbox.com/s/hm0pd02a7kxvi83/first.jpg
-  thumbnail: http://dl.dropbox.com/s/hm0pd02a7kxvi83/first.jpg
+header:
+  image:  http://dl.dropbox.com/s/hm0pd02a7kxvi83/first.jpg
   caption: "Photo from [**COSMO**](https://www.instagram.com/p/BQsx6JuBIAq/?utm_source=ig_web_copy_link)"
 category:
   - 블로그

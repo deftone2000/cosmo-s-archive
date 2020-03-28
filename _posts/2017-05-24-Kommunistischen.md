@@ -1,8 +1,18 @@
 ---
 title: 마르크스 사상의 정수
-image: 
-  path: /images/dummyimg.png
-  thumbnail: https://img.ridicdn.net/cover/1508001721/xxlarge
+author_profile: false
+sidebar:
+  - title: "공산당 선언"
+    text: "Manifest der Kommunistischen Partei"
+    image: https://img.ridicdn.net/cover/1508001721/xxlarge
+  - title: "저자"
+    text: "칼 마르크스, 프리드리히 엥겔스"
+  - title: "번역"
+    text: "저권혁"
+  - title: "출판"
+    text: "돋을새김"
+  - title: "출간 정보"
+    text: "2015.08.10. 전자책 출간"
 category:
   - 책리뷰
 tags:
@@ -10,9 +20,7 @@ tags:
 last_modified_at:
 ---
 
-<kbd>#마르크스</kbd> <kbd>#엥겔스</kbd> <kbd>#돋을새김</kbd> 
-
-<img src="https://img.ridicdn.net/cover/1508001721/xxlarge" style="width: 140px" class="align-right" alt=""/>마르크스의 프롤레타리아들의 대한 애절하고 강력한 선언문이다. 이 책이 쓰일 사회의 상황을 파악하지 않으면 전혀 이해되지 않는 내용이지만 궁금하여 그때의 상황을 알아보고 읽게 되었는데 매우 공감이 가는 책이 되었다. 경제학적 측면에서 지주, 자본가, 노동자 계층에서 이제 지주는 커튼 뒤로 사라지고 자본가 부르주아와 노동자 프롤레타리아의 계급투쟁이 본격적으로 시작되고 있었다. 
+마르크스의 프롤레타리아들의 대한 애절하고 강력한 선언문이다. 이 책이 쓰일 사회의 상황을 파악하지 않으면 전혀 이해되지 않는 내용이지만 궁금하여 그때의 상황을 알아보고 읽게 되었는데 매우 공감이 가는 책이 되었다. 경제학적 측면에서 지주, 자본가, 노동자 계층에서 이제 지주는 커튼 뒤로 사라지고 자본가 부르주아와 노동자 프롤레타리아의 계급투쟁이 본격적으로 시작되고 있었다. 
 
 물론 자본주의의 필연의 결과는 계급투쟁이라고 마르크스는 주장했다. 사회주의 혹은 공산주의의 출현은 자본주의 진보에 있어서 유물론적 변증법의 결과로 해석하는 것인데 마르크스의 헤겔 철학에 대한 애착이 반영된 것이기도 하다. 
 

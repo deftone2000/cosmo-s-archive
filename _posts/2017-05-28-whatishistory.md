@@ -1,8 +1,18 @@
 ---
 title: 역사학의 고전
-image: 
-  path: /images/dummyimg.png
-  thumbnail: https://img.ridicdn.net/cover/1669000013/xxlarge
+author_profile: false
+sidebar:
+  - title: "역사란 무엇인가"
+    text: "What Is History?"
+    image: https://img.ridicdn.net/cover/1669000013/xxlarge
+  - title: "저자"
+    text: "에드워드 H. 카"
+  - title: "번역"
+    text: "김택현"
+  - title: "출판"
+    text: "까치글방"
+  - title: "출간 정보"
+    text: "2015.03.16. 종이책 출간"
 category:
   - 책리뷰
 tags:
@@ -10,9 +20,7 @@ tags:
 last_modified_at:
 ---
 
-<kbd>#에드워드 H. 카</kbd> <kbd>#까치글방</kbd> 
-
-<img src="https://img.ridicdn.net/cover/1669000013/xxlarge" style="width: 140px" class="align-left" alt=""/>의무감으로 읽게 되었지만 기대 이상의 현학적 만족을 주었다. 물론 E. H. 카(Edward Hallett Carr)의 논리와 사료들을 모두 이해하기는 어려웠지만 이런 강좌를 왜 하는지 그리고 책까지 내면서 독자들에게 하고 싶은 말이 무엇인지는 알게 되었다.
+의무감으로 읽게 되었지만 기대 이상의 현학적 만족을 주었다. 물론 E. H. 카(Edward Hallett Carr)의 논리와 사료들을 모두 이해하기는 어려웠지만 이런 강좌를 왜 하는지 그리고 책까지 내면서 독자들에게 하고 싶은 말이 무엇인지는 알게 되었다.
 
 **그래도 지구는 돈다. 그래도 역사는 움직인다.** 시대에 굴복하듯 작게 속삭이던 갈릴레오의 심정은 경험주의의 타성에 젖어있던 기득권들의 역사의식을 향해 소리쳤던 카의 심정과도 같을 것이다. 
 

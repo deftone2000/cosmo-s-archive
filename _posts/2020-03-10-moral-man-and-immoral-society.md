@@ -20,7 +20,6 @@ category:
   - 책리뷰
 tags:
   - 사회
-  - 라인홀드 니버
 last_modified_at:
 toc: true
 ---

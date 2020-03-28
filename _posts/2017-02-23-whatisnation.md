@@ -1,8 +1,16 @@
 ---
 title: 국가란 무엇인가
-image: 
-  path: /images/dummyimg.png
-  thumbnail: https://img.ridicdn.net/cover/1568000040/xxlarge
+author_profile: false
+sidebar:
+  - title: "국가란 무엇인가"
+    text:
+    image: https://img.ridicdn.net/cover/1568000040/xxlarge
+  - title: "저자"
+    text: "유시민"
+  - title: "출판"
+    text: "돌베개"
+  - title: "출간 정보"
+    text: "2017.01.23. 종이책 출간"
 category:
   - 책리뷰
 tags:
@@ -10,9 +18,7 @@ tags:
 last_modified_at:
 ---
 
-<kbd>#유시민</kbd> <kbd>#돌베개</kbd> 
-
-<img src="https://img.ridicdn.net/cover/1568000040/xxlarge" style="width: 140px" class="align-right" alt=""/>**이게 나라냐?!!** 세월호 사건은 피해 가족뿐만 아니라 전 국민을 트라우마로 몰아넣은 참혹한 경험이었다. TV로 송출되는 장면들은 믿기 어려울 정도로 끔찍했다. 사고 직후 언론들의 오보로 인한 난장판은 생지옥을 방불케 했다. 이러한 국가적 재난을 대하는 정부의 무책임한 자세는 시민들을 분노를 넘어 내가 살아가는 국가의 의미를 다시 생각하게 만드는 각성의 기회가 되기도 했다. 
+**이게 나라냐?!!** 세월호 사건은 피해 가족뿐만 아니라 전 국민을 트라우마로 몰아넣은 참혹한 경험이었다. TV로 송출되는 장면들은 믿기 어려울 정도로 끔찍했다. 사고 직후 언론들의 오보로 인한 난장판은 생지옥을 방불케 했다. 이러한 국가적 재난을 대하는 정부의 무책임한 자세는 시민들을 분노를 넘어 내가 살아가는 국가의 의미를 다시 생각하게 만드는 각성의 기회가 되기도 했다. 
 
 이처럼 국가란 ‘과연’ 무엇인가? 란 질문에 정치인이었던 유시민의 대답을 알 수 있는 책이다. 국가론의 이론적 배경과 주요한 사상가들을 소개하고 저자의 해설을 추가하는 형식으로 책은 전개된다. 
 

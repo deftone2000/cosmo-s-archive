@@ -1,8 +1,16 @@
 ---
 title: 글쓰기 안내서
-image: 
-  path: /images/dummyimg.png
-  thumbnail: https://img.ridicdn.net/cover/169000120/xxlarge
+author_profile: false
+sidebar:
+  - title: "표현의 기술"
+    text:
+    image: https://img.ridicdn.net/cover/169000120/xxlarge
+  - title: "저자"
+    text: "유시민 글, 정훈이 그림"
+  - title: "출판"
+    text: "아름다운사람들"
+  - title: "출간 정보"
+    text: "2016.06.08. 종이책 출간"
 category:
   - 책리뷰
 tags:
@@ -11,9 +19,7 @@ tags:
 last_modified_at:
 ---
 
-<kbd>#유시민</kbd> <kbd>#정훈이</kbd> <kbd>#아름다운사람들</kbd> 
-
-<img src="https://img.ridicdn.net/cover/169000120/xxlarge" style="width: 140px" class="align-right" alt=""/>서로를 이해하는 방법에는 여러 가지가 있겠지만 기술의 발전과 사회구조의 변화로 인해 우리는 ‘글’이라는 도구를 많이 사용하고 있다. 인터넷 댓글, SNS, 사설, 일기, 메일 등 자의든 타의든 우리는 살아가면서 많은 글을 읽고 또 쓰고 있다. 이제는 작가로 활동하고 있는 유시민이 전문적인 글쟁이로 활동하면서 글을 대하는 우리에게 해주고 싶은 **조언**을 친절하게 정리해주는 책이다. 
+서로를 이해하는 방법에는 여러 가지가 있겠지만 기술의 발전과 사회구조의 변화로 인해 우리는 ‘글’이라는 도구를 많이 사용하고 있다. 인터넷 댓글, SNS, 사설, 일기, 메일 등 자의든 타의든 우리는 살아가면서 많은 글을 읽고 또 쓰고 있다. 이제는 작가로 활동하고 있는 유시민이 전문적인 글쟁이로 활동하면서 글을 대하는 우리에게 해주고 싶은 **조언**을 친절하게 정리해주는 책이다. 
 
 잠시 언급했지만 글 자체는 수단이지 목적일 수 없다. 글을 통해 서로의 마음을 이해하는 것이 가장 중요한 것이다. 읽으면 좋은 글들의 공통된 특징은 읽는 사람의 **마음을 움직이게 한다**는 것이 아닐까? 
 

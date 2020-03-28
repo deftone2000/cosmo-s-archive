@@ -1,8 +1,19 @@
 ---
 title: 시민 입문서
-image: 
-  path: /images/dummyimg.png
-  thumbnail: /images/시민의교양.jpg
+excerpt: "살면서 배운 어떤 교과서보다 효과적으로 인문학 지식을 가르쳐준 책이다. 투표는 단순한 취향 선택의 문제가 아니다. 시민으로 살아가는 나에게 적절하고 합리적인 세력을 제도적으로 지지하는 것이다."
+header:
+  teaser: /assets/images/시민의교양.jpg
+author_profile: false
+sidebar:
+  - title: "시민의 교양"
+    text:
+    image: https://img.ridicdn.net/cover/2127000001/xxlarge
+  - title: "저자"
+    text: "채사장"
+  - title: "출판"
+    text: "웨일북"
+  - title: "출간 정보"
+    text: "2015.12.24. 종이책 출간"
 category:
   - 책리뷰
 tags:
@@ -10,9 +21,7 @@ tags:
 last_modified_at:
 ---
 
-<kbd>#채사장</kbd> <kbd>#웨일북 출판</kbd> 
-
-<img src="https://img.ridicdn.net/cover/2127000001/xxlarge" style="width: 140px" class="align-right" alt=""/>시민(市民, citizen)
+시민(市民, citizen)
 : 도시 지역 및 국가 구성원으로서 정치적인 권리를 갖고 있는 주체를 말하거나 민주주의 사회의 백성을 뜻하는 용어이다. 이 시민으로서 행사할 수 있는 권리를 시민권(市民權, 영어: citizenship)이라고 한다.
 
 시민권은 공직에 대한 선거권, 피선거권을 통해 정치에 참여하는 지위, 자격, 공무원으로 임용되는 권리 등의 총칭으로, 시민적 자유권에 해당한다. 일반적으로 어떤 국가의 시민권을 가지고 있다 함은 그 나라의 국적을 가지고 있다는 것과 같은 의미로 사용된다.

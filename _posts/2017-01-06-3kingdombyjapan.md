@@ -1,8 +1,18 @@
 ---
 title: "일본감성 삼국지"
-image: 
-  path: /images/dummyimg.png
-  thumbnail: https://img.ridicdn.net/cover/111013534/xxlarge
+author_profile: false
+sidebar:
+  - title: "삼국지"
+    text:
+    image: https://img.ridicdn.net/cover/111013534/xxlarge
+  - title: "저자"
+    text: "나관중"
+  - title: "번역"
+    text: "요시카와 에이지"
+  - title: "출판"
+    text: "지우"
+  - title: "출간 정보"
+    text: "2015.01.08. 전자책 출간"
 category:
   - 책리뷰
 tags:
@@ -10,9 +20,7 @@ tags:
 last_modified_at:
 ---
 
- <kbd>#나관중</kbd> <kbd>#요시카와 에이지</kbd> <kbd>#지우</kbd>
-
-<img src="https://img.ridicdn.net/cover/111013534/xxlarge" style="width: 140px" class="align-left" alt=""/>삼국지는 읽을 때 마다 다른 느낌이다. 고전의 의미를 제대로 느낄 수 있는 몇 안 되는 책이다. 등장하는 인물들의 행적을 볼 때마다 다양한 감정을 느낄 수 있어서 그런지 항상 신선하다. 
+삼국지는 읽을 때 마다 다른 느낌이다. 고전의 의미를 제대로 느낄 수 있는 몇 안 되는 책이다. 등장하는 인물들의 행적을 볼 때마다 다양한 감정을 느낄 수 있어서 그런지 항상 신선하다. 
 
 이번에 읽게 된 일본판 삼국지는 교과서적인 흐름으로 전개되고 인물묘사가 무난했다. 개인적으로는 김구용의 삼국지가 가장 재미있었는데, 비교하면서 읽는 것도 재미였다. 삼국지의 감상평은 읽을 때 마다 다르게 느껴지기 때문에 쉽게 이야기하기 힘들지만, 이번의 경우는 ‘삼국지에 등장한는 인물들에게 **삶의 목표**는 어떤 의미인가?’라고 하고 싶다. 그런 의미에서 관우는 항상 나의 마음을 끌어당긴다. 요즘 같은 척박한 세상에 꼭 필요한 인물이며 닮고 싶은 인물이다. 특히 관우가 항상 손에서 놓지 않았던 춘추[^1]는 꼭 읽어보고 싶다. 
 

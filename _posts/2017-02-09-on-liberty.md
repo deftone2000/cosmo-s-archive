@@ -1,8 +1,16 @@
 ---
 title: 자유론
-image: 
-  path: /images/dummyimg.png
-  thumbnail: https://img.ridicdn.net/cover/1883000025/xxlarge
+author_profile: false
+sidebar:
+  - title: "자유론"
+    text: "On Liberty"
+    image: https://img.ridicdn.net/cover/1883000025/xxlarge
+  - title: "저자"
+    text: "존 스튜어트 밀"
+  - title: "출판"
+    text: "현대지성"
+  - title: "출간 정보"
+    text: "2018.06.01. 종이책 출간"
 category:
   - 책리뷰
 tags:
@@ -10,9 +18,7 @@ tags:
 last_modified_at:
 ---
 
-<kbd>#존 스튜어트 밀</kbd> <kbd>#현대지성</kbd> 
-
-<img src="https://img.ridicdn.net/cover/1883000025/xxlarge" style="width: 140px" class="align-left" alt=""/>21세기 우리는 끝을 알 수 없을 정도로 쏟아지는 정보들과 사건들 속에 살고 있다. 지구 반대편에서 일어나는 일을 실시간으로 파악할 수 있는 상황을 넘어 지구 밖 우주의 일마저 쉽게 알 수 있다.
+21세기 우리는 끝을 알 수 없을 정도로 쏟아지는 정보들과 사건들 속에 살고 있다. 지구 반대편에서 일어나는 일을 실시간으로 파악할 수 있는 상황을 넘어 지구 밖 우주의 일마저 쉽게 알 수 있다.
 
 이렇게 많은 정보를 빠른 속도로 접하고 있는 인류는 이제 나와 다른 계층/나이/성별/인종 사람들의 정보를 시간과 공간의 제약 없이 공유할 수 있게 되었다. (얼마 전 덴마크에서 잡힌 한 여성에 관한 일을 SNS 통해 뉴스보다 빨리 접할 수 있었다) 물론 편하고 좋은 세상이다. 하지만 감당하기 힘든 부피와 전파속도로 인하여 이러한 정보들을 관습처럼 큰 비판 없이 받아들인다.  
 
