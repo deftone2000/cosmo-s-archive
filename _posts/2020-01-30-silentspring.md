@@ -6,7 +6,7 @@ header:
 author_profile: false
 sidebar:
   - title: "침묵의 봄"
-    text: "The Theory of the Leisure Class"
+    text: " Silent Spring"
     image: https://img.ridicdn.net/cover/754023439/xxlarge
   - title: "저자"
     text: "레이첼 카슨"
