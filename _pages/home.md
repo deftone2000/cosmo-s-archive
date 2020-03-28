@@ -4,12 +4,12 @@ permalink: /
 header:
   overlay_image: /assets/images/home-page-feature.jpg
   actions:
-    - label: "<i class='fas fa-info-circle'></i> 자세히 보기"
+    - label: "<i class='fas fa-info-circle'></i> 창백한 푸른 점"
       url: "/인용/pale-blue-dot/"
 excerpt: >
   과거에도 있었고 현재에도 있으며 미래에도 있을 그 모든 것.<br />
   코스모스와 독서를 사랑하는 어떤 지구인이 이곳에 흔적을 남기고 있습니다.<br />
-  <small><a href="https://deftone2000.github.io">COSMO'S Lib Version 1.0</a></small>
+  <small><a href="https://deftone2000.github.io">COSMO'S Lib V1.0</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.jpg
     alt: "customizable"

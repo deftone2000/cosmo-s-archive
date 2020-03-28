@@ -96,7 +96,7 @@ author:
   bio              : "바쁜 일상 중에도 마음을 비우고 한가롭게 책을 읽으려 노력합니다. 효과적인 삶을 핑계로 게으른 삶을 선택한 엔지니어"
   location         : "Seoul, South Korea"
   links:
-    - label: "COSMO'S Lib"
+    - label: "COSMO'S Lib V1.0"
       icon: "fas fa-fw fa-link"
       url: "https://deftone2000.github.io"
     - label: "Twitter"
