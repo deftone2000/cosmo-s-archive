@@ -1,8 +1,20 @@
 ---
 title: 나의 시선에 관한 고찰
-image: 
-  path: /images/dummyimg.png
-  thumbnail: /images/팩트풀니스.jpg
+header:
+  teaser: /assets/images/팩트풀니스.jpg
+author_profile: false
+sidebar:
+  - title: "팩트풀니스"
+    text:
+    image: https://img.ridicdn.net/cover/1546000541/xxlarge
+  - title: "저자"
+    text: "한스 로슬링, 올라 로슬링"
+  - title: "번역"
+    text: "이창신"
+  - title: "출판"
+    text: "김영사"
+  - title: "출간 정보"
+    text: "2019.02.27. 종이책 출간"
 category:
   - 책리뷰
 tags:
@@ -10,9 +22,7 @@ tags:
 last_modified_at:
 ---
 
-<kbd>#한스 로슬링</kbd> <kbd>#올라 로슬링</kbd> <kbd>#김영사</kbd> 
-
-<img src="https://img.ridicdn.net/cover/1546000541/xxlarge" style="width: 140px" class="align-left" alt=""/>길을 걷거나 커피를 마실때 혹은 잠들기 전에 무심코 하던 말이나 생각 그리고 행동들이 불합리하거나 과장되고 왜곡된 것일지 모른다는 생각, 해본적 있으신가? 나아가 어떠한 관찰 혹은 관조 대상을 바라보는 나의 시선이 편견과 부정확한 정보로 매우 잘못되어 있다고 의심한적이 있는가?
+길을 걷거나 커피를 마실때 혹은 잠들기 전에 무심코 하던 말이나 생각 그리고 행동들이 불합리하거나 과장되고 왜곡된 것일지 모른다는 생각, 해본적 있으신가? 나아가 어떠한 관찰 혹은 관조 대상을 바라보는 나의 시선이 편견과 부정확한 정보로 매우 잘못되어 있다고 의심한적이 있는가?
 
 만약 그렇다면 한스 로슬링의 『FACTFULNESS』를 읽고 나면 관념적이고 혼란스러운 위와 같은 의심들을 차분하게 정리할 수 있게 된다. 나의 시선이 얼마나 잘못되어 있는지 진지하게 고찰할 수 있는 책이다.
 

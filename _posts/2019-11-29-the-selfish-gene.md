@@ -1,8 +1,18 @@
 ---
 title: 존재의 목적
-image: 
-  path: /images/dummyimg.png
-  thumbnail: /images/이기적유전자.jpg
+header:
+  teaser: /assets/images/이기적유전자.jpg
+author_profile: false
+sidebar:
+  - title: "이기적유전자"
+    text: 
+    image: https://img.ridicdn.net/cover/950000110/xxlarge
+  - title: "저자"
+    text: "리처드 도킨스"
+  - title: "출판"
+    text: "을유문화사"
+  - title: "출간 정보"
+    text: "2018.10.20. 종이책 출간"
 category:
   - 책리뷰
 tags:
@@ -10,9 +20,7 @@ tags:
 last_modified_at:
 ---
 
-<kbd>#리처드 도킨스</kbd> <kbd>#을유문화사</kbd> 
-
-<img src="https://img.ridicdn.net/cover/950000110/xxlarge" style="width: 140px" class="align-right" alt=""/>진화의 과정을 설명할 때 유전자는 목적을 향해 열정적으로 나아가는 의식이 있는 존재처럼 느껴진다. 하지만 운반자인 우리 생명체들에게 느껴지는 것과는 다르게 유전자는 의식이 없으며, 그들의 유일한 목적은 ‘이기적인 생존’일 뿐이다.
+진화의 과정을 설명할 때 유전자는 목적을 향해 열정적으로 나아가는 의식이 있는 존재처럼 느껴진다. 하지만 운반자인 우리 생명체들에게 느껴지는 것과는 다르게 유전자는 의식이 없으며, 그들의 유일한 목적은 ‘이기적인 생존’일 뿐이다.
 
 이처럼 불멸의 유전자를 보존하기 위해 프로그램된 운반자 역할로써 우리는 존재한다고 리처드 도킨스의 **『이기적 유전자』**는 말하고 있다. 이 책이 가치 있는 이유는 ‘우리는 왜 존재하는가?’ 라는 인류의 근원적인 질문에 대한 동물행동학자의 또 다른 **현명한 대답**이기 때문이라고 생각한다. 
 

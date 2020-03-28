@@ -1,8 +1,18 @@
 ---
 title: 나의 말 돌아보기
-image: 
-  path: /images/dummyimg.png
-  thumbnail: /images/말그릇.jpg
+header:
+  teaser: /assets/images/말그릇.jpg
+author_profile: false
+sidebar:
+  - title: "말 그릇"
+    text: 
+    image: https://img.ridicdn.net/cover/1775000056/xxlarge
+  - title: "저자"
+    text: "김윤나"
+  - title: "출판"
+    text: "카시오페아"
+  - title: "출간 정보"
+    text: "2017.09.22. 종이책 출간"
 category:
   - 책리뷰
 tags:
@@ -10,9 +20,7 @@ tags:
 last_modified_at:
 ---
 
-<kbd>#김윤나</kbd> <kbd>#카시오페아</kbd> 
-
-<img src="https://img.ridicdn.net/cover/1775000056/xxlarge" style="width: 140px" class="align-right" alt=""/>우리는 대화를 통해 서로의 생각과 감정을 나누게 되고, 이러한 소통에서 말의 역할은 매우 중요하다. 그래서 우리가 사용하는 말을 잘 사용하는 것은 좋은 인생을 사는데 꼭 필요한 요소라고 할 수 있다.
+우리는 대화를 통해 서로의 생각과 감정을 나누게 되고, 이러한 소통에서 말의 역할은 매우 중요하다. 그래서 우리가 사용하는 말을 잘 사용하는 것은 좋은 인생을 사는데 꼭 필요한 요소라고 할 수 있다.
 
 사람에게 품성이나 인격이 있는 것처럼 우리가 사용하는 말에도 나름의 품격이 있다. 저자는 이런 말의 품격을 ‘말 그릇’으로 명명하면서 말 그릇을 가다듬는 목적과 방법을 제시한다. 
 
