@@ -3,17 +3,29 @@ title: "결정장애 극복 프로세스"
 excerpt_separator: "<!--more-->"
 header:
   teaser: /assets/images/자신있게결정하라.jpg
+author_profile: false
+sidebar:
+  - title: "자신 있게 결정하라"
+    text: Decisive
+    image: https://img.ridicdn.net/cover/606000998/xxlarge
+  - title: "저자"
+    text: "칩 히스, 댄 히스"
+  - title: "번역"
+    text: "안진환"
+  - title: "출판"
+    text: "웅진지식하우스"
+  - title: "출간 정보"
+    text: "2013.10.07. 종이책 출간"
 category:
   - 책리뷰
 tags:
   - 자기계발
   - 리더십
-  - 히스 형제
 last_modified_at: 2020-03-14T06:30:00+09:00
 toc: true
 ---
 
-<img src="https://img.ridicdn.net/cover/606000998/xxlarge" style="width: 140px" class="align-left" alt=""/>'오늘 점심은 뭐 드셨나요?' 친한 누군가 인사처럼 건네는 말이라면 가볍게 '김치찌개요.' 정도로 대답할 때도 있다. 하지만 '오늘 회식 어디서 하지?'라고 직장 상사가 물어본다면 고민은 시작된다. 우리 팀 모두를 만족시킬 메뉴는 어디에도 없을 테니까. <!--more--> 회사 점심 메뉴만이 아니라 개인적인 경조사에서도 마찬가지로 결정의 마수는 여지없이 우리에게 손길을 뻗는다. '축의금은 얼마나 내야 하지?', '이번에도 꼭 가야 하나?', '누구…. 시더라? 😅' 또 이사, 이직, 대학, 입대, 취직, 결혼 등 우리가 결정해야 할 일은 너무 많다. 우리는 결정을 통해서, 결정을 위해서 살고 있다고 해도 과언이 아니다.
+'오늘 점심은 뭐 드셨나요?' 친한 누군가 인사처럼 건네는 말이라면 가볍게 '김치찌개요.' 정도로 대답할 때도 있다. 하지만 '오늘 회식 어디서 하지?'라고 직장 상사가 물어본다면 고민은 시작된다. 우리 팀 모두를 만족시킬 메뉴는 어디에도 없을 테니까. <!--more--> 회사 점심 메뉴만이 아니라 개인적인 경조사에서도 마찬가지로 결정의 마수는 여지없이 우리에게 손길을 뻗는다. '축의금은 얼마나 내야 하지?', '이번에도 꼭 가야 하나?', '누구…. 시더라? 😅' 또 이사, 이직, 대학, 입대, 취직, 결혼 등 우리가 결정해야 할 일은 너무 많다. 우리는 결정을 통해서, 결정을 위해서 살고 있다고 해도 과언이 아니다.
 
 ### 결정장애
 
@@ -36,11 +48,11 @@ toc: true
 결정의 범위 한정성은 새롭거나 다른 선택지가 존재한다는 사실을 의식적으로 상기해야 극복할 수 있으며, 자신이 선택한 결정에 유리한 정보만 찾으려고 하는 확증편향은 반대의견을 존중하고 우칭(Ooching)등의 검증 방법으로 제한할 수 있다고 저자는 강조한다. 그리고 결정의 순간 항상 문제가 되는 단기감정은 결정으로부터 적당한 거리감을 확보해야 객관적으로 현재 상태를 바라볼 수 있으며, 마지막으로 결정이 성공하거나 실패할 두 가지 경우 모두 대비해야만 자기 과신의 늪에서 벗어날 수 있다고 저자는 말하고 있다. 그리고 집단이 함께 내리는 결정의 경우 절차의 정의를 통해 공정성을 높일 수 있고, 공정성이 확보되어야만 집단의 공감을 끌어내서 성공적인 결정으로 나갈 수 있다고 강조한다.
 
 <figure>
-	<a href="http://dl.dropbox.com/s/i4fmol1vxsm88qm/%EC%9E%90%EC%8B%A0%20%EC%9E%88%EA%B2%8C%20%EA%B2%B0%EC%A0%95%ED%95%98%EB%9D%BC.png"><img src="http://dl.dropbox.com/s/fzso7invcubf3v8/%EC%9E%90%EC%8B%A0%20%EC%9E%88%EA%B2%8C%20%EA%B2%B0%EC%A0%95%ED%95%98%EB%9D%BC.jpg"></a>
-	<figcaption style="text-align:center"> 
-    <strong>WRAP Process</strong> 
-  </figcaption>
+  <a href="http://dl.dropbox.com/s/i4fmol1vxsm88qm/%EC%9E%90%EC%8B%A0%20%EC%9E%88%EA%B2%8C%20%EA%B2%B0%EC%A0%95%ED%95%98%EB%9D%BC.png"><img src="http://dl.dropbox.com/s/fzso7invcubf3v8/%EC%9E%90%EC%8B%A0%20%EC%9E%88%EA%B2%8C%20%EA%B2%B0%EC%A0%95%ED%95%98%EB%9D%BC.jpg">
+  </a>
+	<figcaption><strong>WRAP Process</strong></figcaption>
 </figure>
+
 
 
 ### 결정의 이해

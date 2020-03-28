@@ -133,3 +133,23 @@ sidebar-sample:
         url: /
       - title: "Child Page D2"
         url: /
+# 도서 정보 사이드바
+book-info:
+  - title: "저자"
+    children:
+      - title: "저자 이름"
+        url: /
+  - title: "번역"
+    children:
+      - title: "번역자 이름"
+        url: /
+  - title: "출판"
+    children:
+      - title: "출판사 이름"
+        url: /
+  - title: "출간 정보"
+    children:
+      - title: "전자책 출간 날짜 정보"
+        url: /
+      - title: "종이책 출간 날짜 정보"
+        url: /

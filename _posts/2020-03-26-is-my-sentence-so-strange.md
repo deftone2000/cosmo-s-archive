@@ -3,17 +3,27 @@ title: "내가 쓴 문장이 이상한 이유"
 excerpt_separator: "<!--more-->"
 header:
   teaser: /assets/images/내문장이그렇게.jpg
+author_profile: false
+sidebar:
+  - title: "내 문장이 그렇게 이상한가요?"
+    text:
+    image: https://img.ridicdn.net/cover/852000076/xxlarge
+  - title: "저자"
+    text: "김정선"
+  - title: "출판"
+    text: "유유"
+  - title: "출간 정보"
+    text: "2016.01.24. 종이책 출간"
 category:
   - 책리뷰
 tags:
   - 자기계발
   - 글쓰기
-  - 김정선
 last_modified_at:
 toc: true
 ---
 
-<img src="https://img.ridicdn.net/cover/852000076/xxlarge" style="width: 140px" class="align-left right" alt=""/>평소에 너무나 궁금했던 질문이 제목이라서 책에 어떤 내용이 담겨있을지 상당히 궁금했습니다. 목차를 살펴보다 궁금증이 더욱 배가됐습니다. 지루한 한글 문법과 규칙이 빼곡히 나열됐을 거란 예상과는 다르게 감성적인 문장들로 가득한 목차였습니다. 한마디로 '소설처럼 읽는 문장 교정 책'입니다.
+평소에 너무나 궁금했던 질문이 제목이라서 책에 어떤 내용이 담겨있을지 상당히 궁금했습니다. 목차를 살펴보다 궁금증이 더욱 배가됐습니다. 지루한 한글 문법과 규칙이 빼곡히 나열됐을 거란 예상과는 다르게 감성적인 문장들로 가득한 목차였습니다. 한마디로 '소설처럼 읽는 문장 교정 책'입니다.
 
 <!--more-->
 
