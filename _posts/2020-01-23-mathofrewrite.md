@@ -1,8 +1,19 @@
 ---
 title: 독서의 완성
-image: 
-  path: /images/dummyimg.png
-  thumbnail: /images/서평쓰는법.jpg
+excerpt: "그저 책을 끝까지 읽는 것이 독서의 완성은 아닐 것이다. 책의 내용을 자신의 말과 글로 표현할 수 있어야 독서의 완성에 가깝다고 할 수 있다. 특히 읽은 책을 자신만의 글로 정제해내는 과정, 다시 말해 서평을 작성하는 것은 독서의 완성에 더욱 근접한 것이라고 할 수 있다."
+header:
+  teaser: /assets/images/서평쓰는법.jpg
+author_profile: false
+sidebar:
+  - title: "서평 쓰는법"
+    text:
+    image: https://img.ridicdn.net/cover/852000196/xxlarge
+  - title: "저자"
+    text: "이원석"
+  - title: "출판"
+    text: "유유"
+  - title: "출간 정보"
+    text: "2016.12.14. 종이책 출간"
 category:
   - 책리뷰
 tags:
@@ -11,9 +22,7 @@ tags:
 last_modified_at:
 ---
 
-<kbd>#이원석</kbd> <kbd>#유유 출판</kbd>
-
-<img src="https://img.ridicdn.net/cover/852000196/xxlarge" style="width: 140px" class="align-left" alt=""/>그저 책을 끝까지 읽는 것이 독서의 완성은 아닐 것이다. 책의 내용을 자신의 말과 글로 표현할 수 있어야 독서의 완성에 가깝다고 할 수 있다. 특히 읽은 책을 자신만의 글로 정제해내는 과정, 다시 말해 서평을 작성하는 것은 독서의 완성에 더욱 근접한 것이라고 할 수 있다. 
+그저 책을 끝까지 읽는 것이 독서의 완성은 아닐 것이다. 책의 내용을 자신의 말과 글로 표현할 수 있어야 독서의 완성에 가깝다고 할 수 있다. 특히 읽은 책을 자신만의 글로 정제해내는 과정, 다시 말해 서평을 작성하는 것은 독서의 완성에 더욱 근접한 것이라고 할 수 있다. 
 
 **『서평 쓰는 법』**은 서평의 정의, 목적, 방법 등을 제시한다. 요즘 독서에 집중하면서 서평에 자연스럽게 관심이 높아졌다. ‘설마 이런 것도 책으로 있을까?’ 했던 내 생각을 비웃듯이 서평 관련 책들은 많이 있었다. 
 
