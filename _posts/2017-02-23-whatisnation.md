@@ -1,5 +1,7 @@
 ---
 title: 국가란 무엇인가
+header:
+  teaser: /assets/images/국가란무엇인가.jpg
 author_profile: false
 sidebar:
   - title: "국가란 무엇인가"

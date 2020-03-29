@@ -1,5 +1,7 @@
 ---
 title: 한국, 애증의 발자취
+header:
+  teaser: /assets/images/나의한국현대사.jpg
 author_profile: false
 sidebar:
   - title: "나의 한국현대사"

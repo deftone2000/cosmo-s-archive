@@ -1,5 +1,7 @@
 ---
 title: 글쓰기 안내서
+header:
+  teaser: /assets/images/표현의기술.jpg
 author_profile: false
 sidebar:
   - title: "표현의 기술"

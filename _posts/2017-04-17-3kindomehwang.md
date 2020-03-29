@@ -1,5 +1,7 @@
 ---
 title: 삼국지
+header:
+  teaser: /assets/images/삼국지황석영.jpg
 author_profile: false
 sidebar:
   - title: "삼국지"

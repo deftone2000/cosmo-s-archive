@@ -1,5 +1,7 @@
 ---
 title: 어떻게 읽을 것인가?
+header:
+  teaser: /assets/images/어떻게읽을것인가.jpg
 author_profile: false
 sidebar:
   - title: "어떻게 읽을 것인가?"

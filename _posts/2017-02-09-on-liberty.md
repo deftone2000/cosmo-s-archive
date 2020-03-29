@@ -1,5 +1,7 @@
 ---
 title: 자유론
+header:
+  teaser: /assets/images/자유론.jpg
 author_profile: false
 sidebar:
   - title: "자유론"

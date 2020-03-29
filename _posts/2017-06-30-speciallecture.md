@@ -1,8 +1,10 @@
 ---
 title: 한국사 프롤로그
+header:
+  teaser: /assets/images/특강.jpg
 author_profile: false
 sidebar:
-  - title: "대한민국사"
+  - title: "특강"
     text:
     image: https://img.ridicdn.net/cover/754007927/xxlarge
   - title: "저자"

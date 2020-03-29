@@ -1,5 +1,7 @@
 ---
 title: 헌법과 민주주의
+header:
+  teaser: /assets/images/후불제민주주의.jpg
 author_profile: false
 sidebar:
   - title: "후불제 민주주의"

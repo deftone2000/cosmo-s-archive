@@ -1,5 +1,7 @@
 ---
 title: 처음 읽는 일본사
+header:
+  teaser: /assets/images/처음읽는일본사.jpg
 author_profile: false
 sidebar:
   - title: "처음 읽는 일본사"
