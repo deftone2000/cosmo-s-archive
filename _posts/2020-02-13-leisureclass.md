@@ -20,6 +20,7 @@ sidebar:
 category:
   - 책리뷰
 tags:
+  - 정치
   - 경제
 last_modified_at: 2020-03-24T14:40:00+09:00
 toc: true

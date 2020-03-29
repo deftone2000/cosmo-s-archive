@@ -4,8 +4,7 @@ excerpt: "정치도 종교도 결국은 인간의 행복을 위해 존재할 때
 categories:
   - 책프리뷰
 tags:
-  - 인문
-  - twitter
+  - 인용
 last_modified_at: 2020-03-14T06:30:00+09:00
 ---
 

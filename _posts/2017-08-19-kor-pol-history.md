@@ -19,6 +19,7 @@ category:
 tags:
   - 역사
   - 정치
+  - 경제
 last_modified_at:
 ---
 

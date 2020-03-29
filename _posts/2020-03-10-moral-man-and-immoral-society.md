@@ -19,6 +19,7 @@ sidebar:
 category:
   - 책리뷰
 tags:
+  - 인문
   - 사회
 last_modified_at:
 toc: true

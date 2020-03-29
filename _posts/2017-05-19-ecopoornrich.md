@@ -15,6 +15,7 @@ category:
   - 책리뷰
 tags:
   - 경제
+  - 정치
 last_modified_at:
 ---
 

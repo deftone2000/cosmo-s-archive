@@ -17,8 +17,8 @@ sidebar:
 category:
   - 책리뷰
 tags:
-  - 인문
   - 정치
+  - 경제
 last_modified_at:
 toc: true
 ---
