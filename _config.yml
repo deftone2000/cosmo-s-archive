@@ -25,7 +25,7 @@ teaser                   : "/assets/images/teaser-image.jpg" # path of fallback 
 logo                     : "/assets/images/apple-touch-icon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 120
 comments:
   provider               : "false" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "custom"
   disqus:
@@ -52,11 +52,10 @@ search_full_content      : true # true, false (default)
 search_provider          : algolia # lunr (default), algolia
 algolia:
   application_id         : T8RAY7L1MF # YOUR_APPLICATION_ID
-  index_name             : COSMO'S Lib # YOUR_INDEX_NAME
-  search_only_api_key    : d75268558e0f4416733e28f6893b1292 # YOUR_SEARCH_ONLY_API_KEY
+  index_name             : cosmos_library # YOUR_INDEX_NAME
+  search_only_api_key    : 82bad692b1d01d918b388e5dcbc4a3c5 # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
-  files_to_exclude:
-    - _posts/2017-11-28-post-exclude-search.md
+  # files_to_exclude:
 
 # SEO Related
 google_site_verification : #"UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
