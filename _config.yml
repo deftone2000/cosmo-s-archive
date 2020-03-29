@@ -21,8 +21,8 @@ description              : &description "과거에도 있었고 현재에도 있
 url                      : https://deftone2000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/cosmos-archive" # the subpath of your site, e.g. "/blog"
 repository               : "deftone2000/cosmos-archive"
-teaser                   : /assets/images/teaser-image.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/assets/images/teaser-image.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/apple-touch-icon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -96,7 +96,7 @@ author:
   bio              : "바쁜 일상 중에도 마음을 비우고 한가롭게 책을 읽으려 노력합니다. 효과적인 삶을 핑계로 게으른 삶을 선택한 엔지니어"
   location         : "Seoul, South Korea"
   links:
-    - label: "COSMO'S Lib V1.0"
+    - label: "Lib V1.0"
       icon: "fas fa-fw fa-link"
       url: "https://deftone2000.github.io"
     - label: "Twitter"
