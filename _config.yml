@@ -241,9 +241,12 @@ defaults:
       type: playground
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
+      read_time: false
+      author_profile: false
+      share: false
+      comment: false
+      sidebar:
+        nav: "playground"
   # _portfolio
   - scope:
       path: ""

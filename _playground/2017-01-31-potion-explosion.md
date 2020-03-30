@@ -1,5 +1,6 @@
 ---
 title: "Potion Explosion"
+permalink: /playground/potion-explosion/
 excerpt_separator: "<!--more-->"
 last_modified_at: 
 ---

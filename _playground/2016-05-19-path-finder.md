@@ -1,5 +1,6 @@
 ---
 title: "Path Finder"
+permalink: /playground/path-finder/
 excerpt_separator: "<!--more-->"
 last_modified_at: 
 ---

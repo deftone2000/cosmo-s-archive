@@ -1,5 +1,6 @@
 ---
 title: "Imbroglio"
+permalink: /playground/imbroglio/
 excerpt_separator: "<!--more-->"
 last_modified_at: 2020-03-07T10:00:00+09:00
 ---

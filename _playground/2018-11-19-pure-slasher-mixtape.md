@@ -1,5 +1,6 @@
 ---
 title: "Pure Slasher Mixtape"
+permalink: /playground/pure-slasher-mixtape/
 excerpt_separator: "<!--more-->"
 last_modified_at: 
 ---
