@@ -12,7 +12,7 @@ last_modified_at:
 
 우리가 무찌를 악당(보스)들이다. 오른쪽 위의 동그라미 안에 숫자가 보스의 난이도라고 생각하면 된다. **숫자** 주변을 보면 **"Check to Defeat"**이라고 하는데, 체크 어쩌고~ 의 의미는 **"주사위를 굴린다"**는 의미이다. 당연히 결과가 카드에 표시된 숫자 이상이면 체크성공(승리/획득) 
 
-<figure class="align-center">
+<figure class="align-center" style="width: 500px">
   <img src="{{ '/assets/images/path-finder-01.jpg' | absolute_url }}" alt="">
   <figcaption>악당처럼 생겼다.</figcaption>
 </figure> 
@@ -31,7 +31,7 @@ last_modified_at:
 
 **판타지**에서 모험을 하다 보면 적도 만나고 아이템, 무기, 동료도 얻게 되는데 이것마다 속성이 있기 마련이다. 그런 속성을 잘 활용하면 게임을 수월하게 풀어나갈 수 있다. 예로 **"Cape of Escape"**를 얻으려면 Dexterity(민첩) 8 이상이 필요한데 로그 캐릭터는 민첩 스킬이 d12(12면체, 최대 12 체크)이므로 다른 직업보다 이 아이템을 얻는 데 유리하다. 적이나 장해물도 마찬가지이다. 
 
-<figure class="align-center">
+<figure class="align-center" style="width: 250px">
   <img src="{{ '/assets/images/path-finder-02.jpg' | absolute_url }}" alt="">
   <figcaption>빨간망토 차차 😆</figcaption>
 </figure> 
