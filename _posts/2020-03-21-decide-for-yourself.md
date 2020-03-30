@@ -47,13 +47,10 @@ toc: true
 
 결정의 범위 한정성은 새롭거나 다른 선택지가 존재한다는 사실을 의식적으로 상기해야 극복할 수 있으며, 자신이 선택한 결정에 유리한 정보만 찾으려고 하는 확증편향은 반대의견을 존중하고 우칭(Ooching)등의 검증 방법으로 제한할 수 있다고 저자는 강조한다. 그리고 결정의 순간 항상 문제가 되는 단기감정은 결정으로부터 적당한 거리감을 확보해야 객관적으로 현재 상태를 바라볼 수 있으며, 마지막으로 결정이 성공하거나 실패할 두 가지 경우 모두 대비해야만 자기 과신의 늪에서 벗어날 수 있다고 저자는 말하고 있다. 그리고 집단이 함께 내리는 결정의 경우 절차의 정의를 통해 공정성을 높일 수 있고, 공정성이 확보되어야만 집단의 공감을 끌어내서 성공적인 결정으로 나갈 수 있다고 강조한다.
 
-<figure>
-  <a href="http://dl.dropbox.com/s/i4fmol1vxsm88qm/%EC%9E%90%EC%8B%A0%20%EC%9E%88%EA%B2%8C%20%EA%B2%B0%EC%A0%95%ED%95%98%EB%9D%BC.png"><img src="http://dl.dropbox.com/s/fzso7invcubf3v8/%EC%9E%90%EC%8B%A0%20%EC%9E%88%EA%B2%8C%20%EA%B2%B0%EC%A0%95%ED%95%98%EB%9D%BC.jpg">
-  </a>
-	<figcaption><strong>WRAP Process</strong></figcaption>
+<figure class="align-center">
+  <a><img src="{{ '/assets/images/자신 있게 결정하라.jpg' | absolute_url }}" alt=""></a>
+  <figcaption style="text-align:center"><strong>WRAP Process</strong></figcaption>
 </figure>
-
-
 
 ### 결정의 이해
 
