@@ -1,11 +1,10 @@
 ---
 title: "Potion Explosion"
 excerpt_separator: "<!--more-->"
-header:
-  image: /assets/images/potion-explosion-00.jpg
-  caption: "Photo from [COSMO'S](https://www.instagram.com/deftone2000)"
 last_modified_at: 
 ---
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/potion-explosion-00.jpg){: .align-center}
 
 **[Asmodee Digital](ttp://www.asmodee-digital.com)**에서 심플하고 신선한 보드게임을 발표했습니다. <!--more--> **Potion Explosion** 오프라인에서는 이미 누구나 쉽게 즐길 수 있는 보드 게임으로 알려져있더군요. 룰이 매우 간단하고 체인액션의 짜릿함도 있어서 상당히 즐길만한 게임입니다. 
 
