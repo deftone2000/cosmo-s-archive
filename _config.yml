@@ -27,9 +27,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 120
 comments:
-  provider               : "false" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "custom"
   disqus:
-    shortname            :
+    shortname            : "cosmos-lib-v2"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -180,13 +180,13 @@ kramdown:
 
 # Collections
 collections:
-  docs:
+ # docs:
+ #   output: true
+ #   permalink: /:collection/:path/
+  travel:
     output: true
     permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
+  playground:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -215,30 +215,30 @@ defaults:
       layout: single
       author_profile: true
   # _docs
+  #- scope:
+  #    path: ""
+  #    type: docs
+  #  values:
+  #    layout: single
+  #    read_time: false
+  #    author_profile: false
+  #    share: false
+  #    comments: false
+  #    sidebar:
+  #      nav: "docs"
+  # _travel
   - scope:
       path: ""
-      type: docs
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "docs"
-  # _recipes
-  - scope:
-      path: ""
-      type: recipes
+      type: travel
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _pets
+  # _playground
   - scope:
       path: ""
-      type: pets
+      type: playground
     values:
       layout: single
       author_profile: true

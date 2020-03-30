@@ -26,12 +26,12 @@ main:
     url: /categories/
   - title: "태그"
     url: /tags/
-  - title: "소개"
-    url: /about/
-  - title: "글 꾸러미"
+  - title: "안녕하세요"
     url: /collection-archive/
-  - title: "페이지"
-    url: /page-archive/
+  #- title: "페이지"
+  #  url: /page-archive/
+  #- title: "글 꾸러미"
+  #  url: /collection-archive/
 
 
 # documentation links

@@ -10,7 +10,7 @@ sidebar:
   - title: "저자"
     text: "칼 마르크스, 프리드리히 엥겔스"
   - title: "번역"
-    text: "저권혁"
+    text: "권혁"
   - title: "출판"
     text: "돋을새김"
   - title: "출간 정보"
