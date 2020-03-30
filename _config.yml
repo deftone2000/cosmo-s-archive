@@ -19,8 +19,8 @@ subtitle                 : "Version 2.0"
 name                     : &name "코스모" # &name is a YAML anchor which can be *referenced later
 description              : &description "과거에도 있었고 현재에도 있으며 미래에도 있을 그 모든 것"
 url                      : https://deftone2000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/cosmos-archive" # the subpath of your site, e.g. "/blog"
-repository               : "deftone2000/cosmos-archive"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "deftone2000/deftone2000.github.io"
 teaser                   : "/assets/images/teaser-image.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # "/assets/images/apple-touch-icon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
