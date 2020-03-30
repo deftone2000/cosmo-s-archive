@@ -8,6 +8,8 @@ tags:
 last_modified_at:
 ---
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/first.jpg){: .align-center}
+
 언제부터인지…
 
 거창한 계획과 보이지 않는 목표를 향해가는 인생보다는 **소박하지만 소중한 목표**들을 이루어 가는 것이 훌륭한 삶이라고 생각합니다.
