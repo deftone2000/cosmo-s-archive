@@ -10,24 +10,22 @@ last_modified_at:
 
 ##### Mixtape Vol.01
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rrTrdzytBRg?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include video id="rrTrdzytBRg" provider="youtube" %}
 
 <br>
 
 ##### Mixtape Vol.02
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/D3DQvWaw_KY?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include video id="D3DQvWaw_KY" provider="youtube" %}
 
 <br>
 
 ##### Mixtape Vol.03
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/0952UvVkQAc?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+{% include video id="0952UvVkQAc" provider="youtube" %}
 
 <br>
 
 ##### Mixtape Vol.04
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/mAEqPdYcnFg?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-
+{% include video id="mAEqPdYcnFg" provider="youtube" %}
