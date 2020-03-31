@@ -58,7 +58,7 @@ algolia:
   # files_to_exclude:
 
 # SEO Related
-google_site_verification : #"UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
+google_site_verification : #"AuHCstEJsS6l1-GDI4uGCxikaTiXPZJz-7lmYTqPAa0" # Replace this with your ID, or delete
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
