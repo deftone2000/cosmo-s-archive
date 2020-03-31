@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_image: /assets/images/home-page-feature.jpg
   actions:
-    - label: "<i class='fas fa-info-circle'></i> 창백한 푸른 점"
+    - label: "<i class='fas fa-sign-in-alt'></i> 창백한 푸른 점"
       url: "/인용/pale-blue-dot/"
 excerpt: >
   과거에도 있었고 현재에도 있으며 미래에도 있을 그 모든 것.<br />
