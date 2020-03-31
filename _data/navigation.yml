@@ -29,7 +29,7 @@ playground:
       - title: "NBA 2K19"
         url: /playground/pure-slasher-mixtape/
 
-# 도서 정보 사이드바
+# 도서 정보 사이드바 샘플
 book-info:
   - title: "저자"
     children:
@@ -49,3 +49,16 @@ book-info:
         url: /
       - title: "종이책 출간 날짜 정보"
         url: /
+
+# 내 문장이 그렇게 이상한가요?
+is-my-sentence-so-strange:
+  - title: "저자"
+    children:
+      - title: 김정선
+        url: https://ridibooks.com/author/60291
+  - title: "출판"
+    children:
+      - title: 유유
+  - title: "출간 정보"
+    children:
+      - title: 2016.01.24. 종이책 출간

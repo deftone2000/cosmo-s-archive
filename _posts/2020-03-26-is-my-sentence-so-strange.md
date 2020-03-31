@@ -5,15 +5,9 @@ header:
   teaser: /assets/images/내문장이그렇게.jpg
 author_profile: false
 sidebar:
-  - title: "내 문장이 그렇게 이상한가요?"
-    text:
+  - title: 내 문장이 그렇게 이상한가요?
     image: https://img.ridicdn.net/cover/852000076/xxlarge
-  - title: "저자"
-    text: "김정선"
-  - title: "출판"
-    text: "유유"
-  - title: "출간 정보"
-    text: "2016.01.24. 종이책 출간"
+    nav: is-my-sentence-so-strange
 category:
   - 책리뷰
 tags:
