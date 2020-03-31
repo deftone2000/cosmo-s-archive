@@ -93,11 +93,11 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/jungsoo-lim-photo.jpg"
   bio              : "바쁜 일상 중에도 마음을 비우고 한가롭게 책을 읽으려 노력합니다. 효과적인 삶을 핑계로 게으른 인생을 선택한 엔지니어"
-  location         : "Seoul, South Korea"
+  location         : "Seoul, Korea"
   links:
     - label: "Lib V1.0"
       icon: "fas fa-fw fa-link"
-      url: "https://deftone2000.github.io"
+      url: "https://deftone2000.github.io/cosmos-lib-v01"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/deftone2000"
