@@ -51,7 +51,7 @@ book-info:
 is-my-sentence-so-strange:
   - title: "저자"
     children:
-      - title: "김정선"
+      - title: "저자 이름"
         url: https://ridibooks.com/author/60291
   - title: "출판"
     children:
@@ -59,3 +59,22 @@ is-my-sentence-so-strange:
   - title: "출간 정보"
     children:
       - title: "2016.01.24. 종이책 출간"
+
+# 숨결이 바람 될 때
+when-breath-becomes-air:
+  - title: "저자"
+    children:
+      - title: "폴 칼라니티"
+        url: https://ridibooks.com/author/68834
+  - title: "번역"
+    children:
+      - title: "이종인"
+  - title: "출판"
+    children:
+      - title: "흐름출판"
+  - title: "출간 정보"
+    children:
+      - title: "2016.08.18. 종이책 출간"
+  - title: "추가 정보"
+    children:
+      - title: "리디북스, 약 11.6만 자"
