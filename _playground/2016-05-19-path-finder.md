@@ -45,7 +45,6 @@ last_modified_at:
   <figcaption style="text-align:center">중간보스? 그런게 있었어?</figcaption>
 </figure>
 
-
 ### 장소 덱 Close
 
 다시 말하지만 패스파이더의 목적은 빌런 처치! 빌런을 무찔렀는데 더는 도망갈 장소가 없다면 임무 완료! 중간보스(핸치맨)를 잡으면서 빌런이 도망갈 수 있는 장소는 점점 줄여가고, 마지막 장소에서 일격을 날린다! 
