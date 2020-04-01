@@ -13,7 +13,6 @@ main:
 
 # playground sidebar navigation list
 playground:
-  - title: "Playground"
   - title: "보드게임"
     children:
       - title: "Path Finder"
