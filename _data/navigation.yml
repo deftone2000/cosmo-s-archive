@@ -10,8 +10,6 @@ main:
     url: /collection-archive/
   #- title: "페이지"
   #  url: /page-archive/
-  #- title: "글 꾸러미"
-  #  url: /collection-archive/
 
 # playground sidebar navigation list
 playground:
@@ -33,7 +31,7 @@ playground:
 book-info:
   - title: "저자"
     children:
-      - title: "저자 이름"
+      - title: "김정선"
         url: /
   - title: "번역"
     children:
@@ -54,11 +52,11 @@ book-info:
 is-my-sentence-so-strange:
   - title: "저자"
     children:
-      - title: 김정선
+      - title: "김정선"
         url: https://ridibooks.com/author/60291
   - title: "출판"
     children:
-      - title: 유유
+      - title: "유유"
   - title: "출간 정보"
     children:
-      - title: 2016.01.24. 종이책 출간
+      - title: "2016.01.24. 종이책 출간"

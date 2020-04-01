@@ -246,6 +246,7 @@ defaults:
       share: false
       comment: false
       sidebar:
+        title: Playground
         nav: "playground"
   # _portfolio
   - scope:
