@@ -5,9 +5,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# remote_theme           : "mmistakes/minimal-mistakes@4.19.1"
-# theme                  : minimal-mistakes-jekyll
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -64,7 +68,7 @@ algolia:
         - subdirectory/*.html
 
 # SEO Related
-google_site_verification : #"AuHCstEJsS6l1-GDI4uGCxikaTiXPZJz-7lmYTqPAa0" # Replace this with your ID, or delete
+google_site_verification : "AuHCstEJsS6l1-GDI4uGCxikaTiXPZJz-7lmYTqPAa0" # Replace this with your ID, or delete
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
