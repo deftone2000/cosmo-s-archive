@@ -78,3 +78,19 @@ when-breath-becomes-air:
   - title: "추가 정보"
     children:
       - title: "리디북스, 약 11.6만 자"
+
+# 행복의 기원
+origin-of-happiness:
+  - title: "저자"
+    children:
+      - title: "서은국"
+        url: https://ridibooks.com/author/22541
+  - title: "출판"
+    children:
+      - title: "21세기북스"
+  - title: "출간 정보"
+    children:
+      - title: "2014.05.22. 전자책, 종이책 동시 출간"
+  - title: "추가 정보"
+    children:
+      - title: "리디북스, 약 8.4만 자"
