@@ -58,7 +58,10 @@ algolia:
   index_name             : cosmos_library # YOUR_INDEX_NAME
   search_only_api_key    : 82bad692b1d01d918b388e5dcbc4a3c5 # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
-  # files_to_exclude:
+  files_to_exclude:
+        - index.html
+        - index.md
+        - subdirectory/*.html
 
 # SEO Related
 google_site_verification : #"AuHCstEJsS6l1-GDI4uGCxikaTiXPZJz-7lmYTqPAa0" # Replace this with your ID, or delete
