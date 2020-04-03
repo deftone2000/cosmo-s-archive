@@ -28,8 +28,8 @@ last_modified_at: 2020-04-03T11:30:00+09:00
 
 ### 독서의 효과와 지속성을 올려주는 메모 독서법
 
-- 마인드 맵 작성 활용  <i class="fas fa-download"></i> Scapple](https://www.literatureandlatte.com/scapple/overview){: .btn .btn--success}
-- 독서 노트 활용  <i class="fas fa-download"></i> Dynalist](https://dynalist.io/download){: .btn .btn--success}
+- 마인드 맵 작성 활용  [<i class="fas fa-download"></i> Scapple](https://www.literatureandlatte.com/scapple/overview){: .btn .btn--success}
+- 독서 노트 활용  [<i class="fas fa-download"></i> Dynalist](https://dynalist.io/download){: .btn .btn--success}
 
 #### 글의 설계도 만드는 방법
 
