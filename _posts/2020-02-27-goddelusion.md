@@ -1,7 +1,7 @@
 ---
 title: "이기적 신앙"
 header:
-  teaser: /assets/images/만들어진신.jpg
+  teaser: https://img.ridicdn.net/cover/1546000220/xxlarge
 author_profile: false
 sidebar:
   - title: "만들어진 신"

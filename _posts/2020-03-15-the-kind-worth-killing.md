@@ -2,7 +2,7 @@
 title: "범죄와 단죄 사이"
 excerpt_separator: "<!--more-->"
 header:
-  teaser: /assets/images/죽여마땅한사람들.jpg
+  teaser: https://img.ridicdn.net/cover/2189000079/xxlarge
 author_profile: false
 sidebar:
   - title: "죽여 마땅한 사람들"

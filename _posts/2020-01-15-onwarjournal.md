@@ -2,7 +2,7 @@
 title: 충무공의 숨결
 excerpt: "성웅으로 추앙받는 충무공은 영웅 이전에 한 가정의 가장이자 어머니에게 효도하는 자식이었다. 또한 성공을 꿈꾸는 성실한 공무원이었으며 수군 내에서는 부하들을 관리해야 하는 상관이었고 전쟁을 치르는 장군이기도 했다."
 header:
-  teaser: /assets/images/난중일기.jpg
+  teaser: https://img.ridicdn.net/cover/1508001719/xxlarge
 author_profile: false
 sidebar:
   - title: "난중일기"

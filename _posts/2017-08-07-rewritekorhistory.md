@@ -2,7 +2,7 @@
 title: 다시 쓰는 한국현대사
 excerpt: "그동안의 한국현대사 책에서 민족 분열과 친일파 그리고 군부독재의 문제를 바라보는 입장은 조금은 편향적이고 감정적인 부분이 솔직히 존재한다면, 이 책은 더욱 적극적으로 외세 특히 제국주의 국가들의 이기심을 역사적 문제의 원인으로 바라보고 있다."
 header:
-  teaser: /assets/images/다시쓰는.jpg
+  teaser: http://dolbegae.co.kr/home/wp-content/uploads/bookcover/다시-쓰는-한국현대사-1-600x882.jpg
 author_profile: false
 sidebar:
   - title: "다시 쓰는 한국현대사"

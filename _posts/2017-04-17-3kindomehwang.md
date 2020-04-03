@@ -1,7 +1,7 @@
 ---
 title: 삼국지
 header:
-  teaser: /assets/images/삼국지황석영.jpg
+  teaser: https://img.ridicdn.net/cover/111012228/xxlarge
 author_profile: false
 sidebar:
   - title: "삼국지"

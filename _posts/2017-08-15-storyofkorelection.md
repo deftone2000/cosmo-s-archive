@@ -2,7 +2,7 @@
 title: 대한민국 선거이야기
 excerpt: "본연의 의미와 역할보다 과소 평가받는 것이 선거의 역사이다. 이러한 홀대는 다름 아닌 선거의 수혜 당사자 때문이다. 과거 선거의 모습은 돈 봉투와 의미 없는 공약의 장(場)이었다. 진흙탕 보다 더한 모습에 어쩌면 과한 대접을 받는 것일지도 모르겠다."
 header:
-  teaser: /assets/images/선거이야기.jpg
+  teaser: http://image.yes24.com/momo/TopCate0001/kepub/L_554034.jpg
 author_profile: false
 sidebar:
   - title: "대한민국 선거이야기"

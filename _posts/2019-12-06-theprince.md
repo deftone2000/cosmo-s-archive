@@ -2,7 +2,7 @@
 title: 단숨에 이해하는 군주론
 excerpt: "이탈리아의 작은 도시국가였던 피렌체의 실무 외교관이 쓴  자기소개서 정도의 팸플릿이 지구 반대편의 거리와 500여 년의 시간을 뛰어넘어 우리에게 어떤 의미로 다가오는 것일까?"
 header:
-  teaser: /assets/images/단숨에이해하는군주론.jpg
+  teaser: https://img.ridicdn.net/cover/776000140/xxlarge
 author_profile: false
 sidebar:
   - title: "단숨에 이해하는 군주론"

@@ -1,7 +1,7 @@
 ---
 title: "일본감성 삼국지"
 header:
-  teaser: /assets/images/삼국지요시.jpg
+  teaser: https://img.ridicdn.net/cover/111013534/xxlarge
 author_profile: false
 sidebar:
   - title: "삼국지"

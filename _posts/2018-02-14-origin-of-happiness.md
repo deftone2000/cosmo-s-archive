@@ -2,7 +2,7 @@
 title: "우리는 왜 행복한가?"
 excerpt: "'어떻게(how) 하면 행복해지는가'가 아니라 '왜(why) 행복할까?'에 집중한다. 행복을 미사여구나 어려운 이론으로 분석하려는 여타의 책들과는 다르게, 행복의 적나라하고 사실적인 측면에 관심을 두고 있다고 할 수 있다."
 header:
-  teaser: /assets/images/행복의기원.jpg
+  teaser: https://img.ridicdn.net/cover/222001093/xxlarge
 author_profile: false
 sidebar:
   - title: "행복의 기원"

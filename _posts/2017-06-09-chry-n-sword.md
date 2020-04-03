@@ -1,7 +1,7 @@
 ---
 title: 미국 인류학자의 일본 보고서
 header:
-  teaser: /assets/images/국화와칼.jpg
+  teaser: https://img.ridicdn.net/cover/998000271/xxlarge
 author_profile: false
 sidebar:
   - title: "국화와 칼"

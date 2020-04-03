@@ -1,7 +1,7 @@
 ---
 title: 삼국지 본연의 맛
 header:
-  teaser: /assets/images/삼국지김구용.jpg
+  teaser: https://image.aladin.co.kr/product/42/11/cover500/8981336482_1.gif
 author_profile: false
 sidebar:
   - title: "삼국지 연의"

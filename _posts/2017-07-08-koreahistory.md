@@ -2,7 +2,7 @@
 title: 대한민국사
 excerpt: "현재 민주 정부를 이룩한 대한민국의 민주주의의 역사는 절대 아름답지 않았다. 암울하고 역겨우며 치열하고 비겁했다. 고대사와 조선왕조에 익숙한 나에게 현대사는 마치 사막의 신기루처럼 막연히 알고 있었지만 정확히는 알지 못하는 것이었다. 격동의 시대를 직접 겪은 한홍구 교수의 문장은 절절하고 묵직하게 다가왔다."
 header:
-  teaser: /assets/images/대한민국사.jpg
+  teaser: https://img.ridicdn.net/cover/754007929/xxlarge
 author_profile: false
 sidebar:
   - title: "대한민국사"

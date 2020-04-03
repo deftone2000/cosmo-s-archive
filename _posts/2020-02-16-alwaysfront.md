@@ -2,7 +2,7 @@
 title: 작가를 꿈꾸는 사람들에게
 excerpt: "스스로 작가를 꿈꾸며 살아온 저자의 경험담 속에 글의 소재 찾기, 글을 쓰는 실전 기술, 글을 오랫동안 쓰는 방법, 글쓰기에 대한 철학 등을 담아낸다."
 header:
-  teaser: /assets/images/항상앞부분만.jpg
+  teaser: https://img.ridicdn.net/cover/734001589/xxlarge
 author_profile: false
 sidebar:
   - title: "항상 앞부분만 쓰다가 그만두는 당신을 위한 어떻게든 글쓰기"

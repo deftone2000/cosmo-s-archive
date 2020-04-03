@@ -1,7 +1,7 @@
 ---
 title: 헌법과 민주주의
 header:
-  teaser: /assets/images/후불제민주주의.jpg
+  teaser: https://img.ridicdn.net/cover/1568000046/xxlarge
 author_profile: false
 sidebar:
   - title: "후불제 민주주의"

@@ -1,7 +1,7 @@
 ---
 title: 익숙한 외로움
 header:
-  teaser: /assets/images/가재가노래하는.jpg
+  teaser: https://img.ridicdn.net/cover/364000868/xxlarge
 author_profile: false
 sidebar:
   - title: "가재가 노래하는 곳"

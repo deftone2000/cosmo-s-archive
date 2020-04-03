@@ -2,7 +2,7 @@
 title: 읽기와 쓰기의 선순환
 excerpt: "책 읽기와 글쓰기가 이처럼 서로에게 긍정적인 영향을 주고받으며 순환한다는 사실을 이해하는 것이 중요하다고 생각합니다. 책 읽기는 글쓰기로 완성되며, 글쓰기는 또 다른 책을 읽어나가는 자양분이 됩니다."
 header:
-  teaser: /assets/images/책읽기부터.jpg
+  teaser: https://img.ridicdn.net/cover/754017627/xxlarge
 author_profile: false
 sidebar:
   - title: "책읽기부터 시작하는 글쓰기 수업"

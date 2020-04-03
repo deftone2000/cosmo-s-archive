@@ -2,7 +2,7 @@
 title: 퇴계의 교육학 개론
 excerpt: "배움에 격차와 구분이 없고, 무엇보다 배우려는 자세가 가장 중요하다. 요즘 시대엔 상식처럼 들리겠지만, 철저한 계급사회였던 조선에서 기득권의 특권을 스스로 내려놓는 일이 쉽지 않았을 것이다."
 header:
-  teaser: /assets/images/퇴계에게.jpg
+  teaser: https://img.ridicdn.net/cover/734000798/xxlarge
 author_profile: false
 sidebar:
   - title: "퇴계에게 공부법을 배우다"

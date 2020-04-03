@@ -2,7 +2,7 @@
 title: "무기력과의 전쟁"
 excerpt_separator: "<!--more-->"
 header:
-  teaser: /assets/images/문제는무기력이다.jpg
+  teaser: https://img.ridicdn.net/cover/593000227/xxlarge
 author_profile: false
 sidebar:
   - title: "문제는 무기력이다"

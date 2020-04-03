@@ -2,7 +2,7 @@
 title: "한국 현대사 백과사전"
 excerpt: "마치 역사 다큐멘터리를 보는 듯한 느낌으로 읽을 수 있는 책입니다. 광복 이후 한국 현대사의 전체적인 흐름을 파악할 수 있는 기초를 제공합니다. 그래서 역사적 사실을 자세하게 분석한 책을 기대했던 독자에게는 부족하다고 느낄 수 있지만, 한국사 공부를 시작하는 사람에게 적합한 책이라고 생각합니다."
 header:
-  teaser: /assets/images/그림과사진.jpg
+  teaser: https://image.aladin.co.kr/product/2455/91/cover500/8901154196_2.jpg
 author_profile: false
 sidebar:
   - title: "사진과 그림으로 보는 한국현대사"

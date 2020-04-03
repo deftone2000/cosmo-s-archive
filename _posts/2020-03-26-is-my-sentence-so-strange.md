@@ -2,7 +2,7 @@
 title: "내가 쓴 문장이 이상한 이유"
 excerpt_separator: "<!--more-->"
 header:
-  teaser: /assets/images/내문장이그렇게.jpg
+  teaser: https://img.ridicdn.net/cover/852000076/xxlarge
 author_profile: false
 sidebar:
   - title: 내 문장이 그렇게 이상한가요?

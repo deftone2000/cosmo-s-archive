@@ -1,7 +1,7 @@
 ---
 title: 역사학의 고전
 header:
-  teaser: /assets/images/역사란무엇인가.jpg
+  teaser: https://img.ridicdn.net/cover/1669000013/xxlarge
 author_profile: false
 sidebar:
   - title: "역사란 무엇인가"

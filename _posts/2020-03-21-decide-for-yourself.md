@@ -2,7 +2,7 @@
 title: "결정장애 극복 프로세스"
 excerpt_separator: "<!--more-->"
 header:
-  teaser: /assets/images/자신있게결정하라.jpg
+  teaser: https://img.ridicdn.net/cover/606000998/xxlarge
 author_profile: false
 sidebar:
   - title: "자신 있게 결정하라"

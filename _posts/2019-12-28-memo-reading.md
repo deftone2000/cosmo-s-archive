@@ -2,7 +2,7 @@
 title: "메모 독서법의 활용과 확장"
 excerpt: "히트 상품의 비밀은 MAYA(Most Advanced Yet Acceptable)에 있다고 합니다. 수용 가능한 수준에서 최대한 진보적인 상품이 히트 상품이 됩니다."
 header:
-  teaser: /assets/images/메모독서법.jpg
+  teaser: https://img.ridicdn.net/cover/734001783/xxlarge
 author_profile: false
 sidebar:
   - title: "메모 독서법"

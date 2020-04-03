@@ -1,7 +1,7 @@
 ---
 title: 한국사 프롤로그
 header:
-  teaser: /assets/images/특강.jpg
+  teaser: https://img.ridicdn.net/cover/754007927/xxlarge
 author_profile: false
 sidebar:
   - title: "특강"

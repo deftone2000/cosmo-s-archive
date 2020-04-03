@@ -1,7 +1,7 @@
 ---
 title: 과학고전 길잡이
 header:
-  teaser: /assets/images/과학을읽다.jpg
+  teaser: https://img.ridicdn.net/cover/852000158/xxlarge
 author_profile: false
 sidebar:
   - title: "과학을 읽다"

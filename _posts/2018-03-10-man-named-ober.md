@@ -2,7 +2,7 @@
 title: "몰래 챙겨주기 끝판왕"
 excerpt: "인생의 마지막을 어떻게 받아들여야 하는지에 대한 긴 이야기입니다. 츤데레(무심한 척 챙겨줌) 끝판왕 스웨덴 할아버지의 자서전이자, 외로운 인생을 살던 스웨덴 남자의 자살 극복기입니다."
 header:
-  teaser: /assets/images/오베라는남자.jpg
+  teaser: https://img.ridicdn.net/cover/372001321/xxlarge
 author_profile: false
 sidebar:
   - title: "오베라는 남자"

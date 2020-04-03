@@ -2,7 +2,7 @@
 title: 독서의 완성
 excerpt: "그저 책을 끝까지 읽는 것이 독서의 완성은 아닐 것이다. 책의 내용을 자신의 말과 글로 표현할 수 있어야 독서의 완성에 가깝다고 할 수 있다. 특히 읽은 책을 자신만의 글로 정제해내는 과정, 다시 말해 서평을 작성하는 것은 독서의 완성에 더욱 근접한 것이라고 할 수 있다."
 header:
-  teaser: /assets/images/서평쓰는법.jpg
+  teaser: https://img.ridicdn.net/cover/852000196/xxlarge
 author_profile: false
 sidebar:
   - title: "서평 쓰는법"

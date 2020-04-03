@@ -2,7 +2,7 @@
 title: 본능 독서
 excerpt: "저자는 의무감이나 강박에 의한 수동적 독서는 오히려 우리를 독서로부터 멀어지게 하는 지름길이라고 말한다. 자신의 호기심이나 흥미를 동기로 시작된 독서는 꾸준히 할 수 있을 뿐 아니라 자연스럽게 일상으로 연결된다는 것이다."
 header:
-  teaser: /assets/images/본능독서.jpg
+  teaser: https://img.ridicdn.net/cover/1775000065/xxlarge
 author_profile: false
 sidebar:
   - title: "본능 독서"

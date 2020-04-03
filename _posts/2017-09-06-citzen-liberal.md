@@ -2,7 +2,7 @@
 title: 시민 입문서
 excerpt: "살면서 배운 어떤 교과서보다 효과적으로 인문학 지식을 가르쳐준 책이다. 투표는 단순한 취향 선택의 문제가 아니다. 시민으로 살아가는 나에게 적절하고 합리적인 세력을 제도적으로 지지하는 것이다."
 header:
-  teaser: /assets/images/시민의교양.jpg
+  teaser: https://img.ridicdn.net/cover/2127000001/xxlarge
 author_profile: false
 sidebar:
   - title: "시민의 교양"

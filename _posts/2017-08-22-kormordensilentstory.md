@@ -2,7 +2,7 @@
 title: 이제는 말할 수 있다.
 excerpt: "'행동하지 않는 양심은 악이다.' 김대중 대통령의 명언이다. 역설적이게도 동서고금을 막론하고 이 구절의 힘을 두려워한 독재자, 지배층, 수구 세력은 민중의 침묵을 잔인하게 강요해왔다."
 header:
-  teaser: /assets/images/현대침묵사.jpg
+  teaser: https://img.ridicdn.net/cover/754003402/xxlarge
 author_profile: false
 sidebar:
   - title: "우리들의 현대 침묵사"

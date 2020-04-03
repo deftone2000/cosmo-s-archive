@@ -2,7 +2,7 @@
 title: "역사를 통해 인생을 배운다."
 excerpt_separator: "<!--more-->"
 header:
-  teaser: /assets/images/역사의쓸모.jpg
+  teaser: https://img.ridicdn.net/cover/372004825/xxlarge
 author_profile: false
 sidebar:
   - title: "역사의 쓸모"

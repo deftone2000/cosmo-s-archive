@@ -1,7 +1,7 @@
 ---
 title: 글쓰기 안내서
 header:
-  teaser: /assets/images/표현의기술.jpg
+  teaser: https://img.ridicdn.net/cover/169000120/xxlarge
 author_profile: false
 sidebar:
   - title: "표현의 기술"

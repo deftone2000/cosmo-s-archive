@@ -1,7 +1,7 @@
 ---
 title: 존재의 목적
 header:
-  teaser: /assets/images/이기적유전자.jpg
+  teaser: https://img.ridicdn.net/cover/950000110/xxlarge
 author_profile: false
 sidebar:
   - title: "이기적유전자"

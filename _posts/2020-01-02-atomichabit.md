@@ -1,7 +1,7 @@
 ---
 title: 습관의 힘
 header:
-  teaser: /assets/images/아주작은습관의힘.jpg
+  teaser: https://img.ridicdn.net/cover/1780000157/xxlarge
 author_profile: false
 sidebar:
   - title: "아주 작은 습관의 힘"

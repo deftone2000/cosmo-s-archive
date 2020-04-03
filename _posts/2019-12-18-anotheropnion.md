@@ -1,7 +1,7 @@
 ---
 title: 독재의 결말
 header:
-  teaser: /assets/images/다른의견을가질권리.jpg
+  teaser: https://img.ridicdn.net/cover/754008972/xxlarge
 author_profile: false
 sidebar:
   - title: "다른 의견을 가질 권리"

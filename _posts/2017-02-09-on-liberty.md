@@ -1,7 +1,7 @@
 ---
 title: 자유론
 header:
-  teaser: /assets/images/자유론.jpg
+  teaser: https://img.ridicdn.net/cover/1883000025/xxlarge
 author_profile: false
 sidebar:
   - title: "자유론"

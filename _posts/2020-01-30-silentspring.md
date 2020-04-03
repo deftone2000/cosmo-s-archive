@@ -2,7 +2,7 @@
 title: 침묵의 봄
 excerpt: "레이첼 카슨이 말하는 현실은 그야말로 참혹했다. 『침묵의 봄』에 등장하는 화학 방역제의 무분별한 남용으로 인한 자연파괴의 사례들은 충격을 넘어 공포로 다가왔다. 지저귀는 새소리, 바람에 너울대는 나뭇잎 소리처럼 숲을 산책할 때 듣던 익숙한 소리가 없는 ‘침묵의 숲’은 상상만으로도 끔찍하다."
 header:
-  teaser: /assets/images/침묵의봄.jpg
+  teaser: https://img.ridicdn.net/cover/754023439/xxlarge
 author_profile: false
 sidebar:
   - title: "침묵의 봄"

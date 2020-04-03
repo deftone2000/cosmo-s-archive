@@ -2,7 +2,7 @@
 title: "생활 철학자의 자서전"
 excerpt: "특히 놀라운 점은 정규 교육을 받지 않고 독서와 사색만으로 독자적인 사상을 구축해 세계적인 사상가의 반열에 올랐다는 사실이다. 다시 말해 그는 진실로 노동과 독서와 사색을 즐긴 진정한 철학자였다."
 header:
-  teaser: /assets/images/길위의철학자.jpg
+  teaser: https://img.ridicdn.net/cover/1108000011/xxlarge
 author_profile: false
 sidebar:
   - title: "길 위에 철학자"

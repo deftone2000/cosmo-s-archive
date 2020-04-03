@@ -1,7 +1,7 @@
 ---
 title: 마르크스 사상의 정수
 header:
-  teaser: /assets/images/공산당선언.jpg
+  teaser: https://img.ridicdn.net/cover/1508001721/xxlarge
 author_profile: false
 sidebar:
   - title: "공산당 선언"

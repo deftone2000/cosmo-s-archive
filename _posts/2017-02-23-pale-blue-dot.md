@@ -1,8 +1,7 @@
 ---
 title: 창백한 푸른 점
 header:
-  image: https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/pia23645_pbd_main-16.jpg?itok=GSe4gFx2
-  caption: "Photo credit: [**NASA**](https://www.nasa.gov/feature/jpl/pale-blue-dot-revisited)"
+  teaser: /assets/images/창백한푸른점.jpg
 excerpt_separator: "<!--more-->"
 category:
   - 인용
@@ -10,6 +9,12 @@ tags:
   - 과학
 last_modified_at:
 ---
+
+<figure class="align-center">
+  <img src="https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/pia23645_pbd_main-16.jpg?itok=GSe4gFx2" alt="창백한 푸른 점">
+  <figcaption style="text-align:center">Photo credit: <strong>NASA</strong>
+  </figcaption>
+</figure>
 
 여기가 우리의 보금자리이고 바로 우리입니다.
 

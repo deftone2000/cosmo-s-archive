@@ -2,7 +2,7 @@
 title: 한국현대정치사
 excerpt: "현실정치의 빼놓을 수 없는 것이 갈등과 대립이다. 한국 정치사는 어찌 보면 갈등과 대립의 결정판이라 해도 과언이 아닐 것이다. 특히 현대사에서 정치의 역사를 이러한 프레임(대결 구도)으로 바라보는 것도 현대사 이해의 색다른 기준을 제시한다는 점에서 흥미롭다."
 header:
-  teaser: /assets/images/한국현대정치사.jpg
+  teaser: https://image.aladin.co.kr/product/5462/87/cover500/8981205078_1.jpg
 author_profile: false
 sidebar:
   - title: "한국현대정치사"

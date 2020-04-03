@@ -1,7 +1,7 @@
 ---
 title: 부자의 경제학 빈민의 경제학
 header:
-  teaser: /assets/images/부자의경제학.jpg
+  teaser: https://img.ridicdn.net/cover/793001084/xxlarge
 author_profile: false
 sidebar:
   - title: "부자의 경제학 빈민의 경제학"

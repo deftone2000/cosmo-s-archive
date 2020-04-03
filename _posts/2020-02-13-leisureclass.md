@@ -3,7 +3,7 @@ title: "유한계급의 경제적 역할"
 excerpt: "저자인 소스타인 베블런은 자본주의 폐단의 가장 중요한 적폐세력으로 유한계급을 주목했다. 이 계급의 특징은 생산활동에 대한 혐오 때문에 노동면제를 자랑스럽게 여기며,  그들의 소득에서 생존에 필요한 소비 이외의 재화를 경쟁우위를 증명하기위한 ‘과시적 소비’에 열정적으로 사용한다는 점이다."
 header:
 header:
-  teaser: /assets/images/유한계급론.jpg
+  teaser: https://img.ridicdn.net/cover/998000335/xxlarge
 author_profile: false
 sidebar:
   - title: "유한계급론"

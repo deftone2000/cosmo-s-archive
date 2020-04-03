@@ -1,7 +1,7 @@
 ---
 title: 나의 시선에 관한 고찰
 header:
-  teaser: /assets/images/팩트풀니스.jpg
+  teaser: https://img.ridicdn.net/cover/1546000541/xxlarge
 author_profile: false
 sidebar:
   - title: "팩트풀니스"

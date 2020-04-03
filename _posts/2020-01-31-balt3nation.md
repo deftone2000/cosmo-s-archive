@@ -2,7 +2,7 @@
 title: 유럽의 관문
 excerpt: "발트 3국인 리투아니아, 라트비아, 에스토니아의 역사적 기원을 소개하고 주변국들과의 관계를 조명한다. 특히 독일, 소련과의 관계는 각별(?)하다고 할 수 있다."
 header:
-  teaser: /assets/images/발트3국.jpg
+  teaser: https://img.ridicdn.net/cover/364000746/xxlarge
 author_profile: false
 sidebar:
   - title: "발트3국 - 잊혀졌던 유럽의 관문"

@@ -2,7 +2,7 @@
 title: "지혜의 목록"
 excerpt: "무엇인가 읽고 싶은데 어떤 책을 읽을지 고민하고 있다면 이 책을 펼쳐보자. 혹은 독서를 일상으로 만들고 싶지만 어떻게 시작할지 막막할 때도 이 책을 선택하자. 책을 펼친 지 얼마 지나지 않아 당신의 훌륭한 선택을 스스로 칭찬하게 될 것이다."
 header:
-  teaser: /assets/images/청춘의독서.jpg
+  teaser: https://img.ridicdn.net/cover/606001647/xxlarge
 author_profile: false
 sidebar:
   - title: "청춘의 독서"

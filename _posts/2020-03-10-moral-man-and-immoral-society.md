@@ -2,7 +2,7 @@
 title: "정의와 이타심"
 excerpt: "라인홀드 니버는 도덕과 관련된 행동을 판단할 때 집단과 개인은 다른 기준을 적용해야 한다고 『도덕적 인간과 비도덕적 사회』에서 주장한다."
 header:
-  teaser: /assets/images/도덕적인간비도덕적사회.jpg
+  teaser: https://img.ridicdn.net/cover/998000321/xxlarge
 author_profile: false
 sidebar:
   - title: "도덕적 인간과 비도덕적 사회"

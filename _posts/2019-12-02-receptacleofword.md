@@ -1,7 +1,7 @@
 ---
 title: 나의 말 돌아보기
 header:
-  teaser: /assets/images/말그릇.jpg
+  teaser: https://img.ridicdn.net/cover/1775000056/xxlarge
 author_profile: false
 sidebar:
   - title: "말 그릇"

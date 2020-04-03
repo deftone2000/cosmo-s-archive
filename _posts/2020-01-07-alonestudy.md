@@ -1,7 +1,7 @@
 ---
 title: 혼자하는 공부의 정석
 header:
-  teaser: /assets/images/혼자하는공부의정석.jpg
+  teaser: https://img.ridicdn.net/cover/734001482/xxlarge
 author_profile: false
 sidebar:
   - title: "혼자하는 공부의 정석"

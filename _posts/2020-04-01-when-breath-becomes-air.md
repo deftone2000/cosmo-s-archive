@@ -2,7 +2,7 @@
 title: "환자가 된 의사의 회고록"
 excerpt: "이 책은 저자가 실제로 암 치료를 위해 투병 중인 상황에서 집필되었다. 항상 환자를 이해하려고 노력하는 의사였던 저자가 환자로 역할이 바뀌는 이율배반적인 상황을 생생하고 아름답게 그려낸 회고록이다."
 header:
-  teaser: /assets/images/숨결이바람될때.jpg
+  teaser: https://img.ridicdn.net/cover/745000075/xxlarge
 author_profile: false
 sidebar:
   - title: "숨결이 바람 될 때"

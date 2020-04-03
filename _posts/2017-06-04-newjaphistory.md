@@ -1,7 +1,7 @@
 ---
 title: 처음 읽는 일본사
 header:
-  teaser: /assets/images/처음읽는일본사.jpg
+  teaser: https://image.aladin.co.kr/product/17628/5/cover500/k642534116_1.jpg
 author_profile: false
 sidebar:
   - title: "처음 읽는 일본사"

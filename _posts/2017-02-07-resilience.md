@@ -1,7 +1,7 @@
 ---
 title: "성공한 사람들의 특징"
 header:
-  teaser: /assets/images/회복탄력성.jpg
+  teaser: https://img.ridicdn.net/cover/734001747/xxlarge
 excerpt: "성공한 사람들의 특징은 무엇일까? 일반적인 상식으로는 타고난 재능과 유전적인 요소, 인내와 성실성, 주변 사람들과의 관계 등이 떠오른다."
 author_profile: false
 sidebar:

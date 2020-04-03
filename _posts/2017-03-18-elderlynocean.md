@@ -1,7 +1,7 @@
 ---
 title: 삶의 자세
 header:
-  teaser: /assets/images/노인과바다.jpg
+  teaser: https://img.ridicdn.net/cover/1153000025/xxlarge
 author_profile: false
 sidebar:
   - title: "노인과 바다"

@@ -2,7 +2,7 @@
 title: 혁명과 연애의 대비(對比)
 excerpt: "최악의 시절을 보내고 있던 시대에 낭랑하게도 연애소설을 쓴 푸시킨의 냉철함에 경의를 표하는 바이다. 엄혹한 시대를 비꼬는 냉철한 푸시킨의 시대정신은 세속적인 두 연인의 이야기가 깊어질수록 더욱 빛을 발한다."
 header:
-  teaser: /assets/images/대위의딸.jpg
+  teaser: https://img.ridicdn.net/cover/1242000652/xxlarge
 author_profile: false
 sidebar:
   - title: "대위의 딸"

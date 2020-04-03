@@ -2,7 +2,7 @@
 title: 현대 물리학 프롤로그
 excerpt: "저자가 서문에서 약속한 데로 『모든 순간의 물리학』은 등장하는 물리학 이론들을 완전히 이해하기 위한 책이 아니다. 21세기 과학계에서 중요한 물리학 이론이 무엇인지 파악하고, 그러한 이론이 우리에게 어떤 의미가 있는지 이해하는 것을 목적으로 쓰인 책이라고 생각한다."
 header:
-  teaser: /assets/images/모든순간의물리학.jpg
+  teaser: https://img.ridicdn.net/cover/1648000022/xxlarge
 author_profile: false
 sidebar:
   - title: "모든 순간의 물리학"

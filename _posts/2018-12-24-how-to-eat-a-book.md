@@ -1,7 +1,7 @@
 ---
 title: "올바른 독자의 자세"
 header:
-  teaser: /assets/images/책먹는법.jpg
+  teaser: https://img.ridicdn.net/cover/852000048/xxlarge
 author_profile: false
 sidebar:
   - title: "책 먹는 법"
