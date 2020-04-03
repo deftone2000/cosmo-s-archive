@@ -9,7 +9,7 @@ last_modified_at:
 ---
 
 <figure class="align-center">
-  <a><img src="{{ 'https://tva1.sinaimg.cn/large/00831rSTgy1gdghr6us6uj318g0p14qp.jpg' | absolute_url }}" alt=""></a>
+  <a><img src="{{ 'https://tva1.sinaimg.cn/large/00831rSTgy1gdgiqcfy84j30m80cjn92.jpg' | absolute_url }}" alt=""></a>
 </figure>
 
 언제부터인지…
