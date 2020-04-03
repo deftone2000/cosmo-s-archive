@@ -145,3 +145,19 @@ reading-never-betrays-me:
   - title: "추가 정보"
     children:
       - title: "리디북스, 약 7.3만 자"
+
+# 완벽한 공부법
+perfect-study:
+  - title: "저자"
+    children:
+      - title: "고영성, 신영준"
+        url: https://ridibooks.com/author/3645
+  - title: "출판"
+    children:
+      - title: "로크미디어"
+  - title: "출간 정보"
+    children:
+      - title: "2017.01.23. 전자책 출간"
+  - title: "추가 정보"
+    children:
+      - title: "리디북스,  27.5만 자"
