@@ -110,3 +110,38 @@ memo-reading:
   - title: "추가 정보"
     children:
       - title: "리디북스, 약 6.9만 자"
+
+# 나는 매일 책을 읽기로 했다
+read-a-book-every-day:
+  - title: "저자"
+    children:
+      - title: "김범준"
+        url: https://ridibooks.com/author/5584
+  - title: "출판"
+    children:
+      - title: "비즈니스북스"
+  - title: "출간 정보"
+    children:
+      - title: "2018.06.29. 종이책 출간"
+  - title: "추가 정보"
+    children:
+      - title: "리디북스, 약 8.1만 자"
+
+# 독서는 절대 나를 배신하지 않는다
+reading-never-betrays-me:
+  - title: "저자"
+    children:
+      - title: "사이토 다카시"
+        url: https://ridibooks.com/author/6035
+  - title: "번역"
+    children:
+      - title: "김효진"
+  - title: "출판"
+    children:
+      - title: "걷는나무"
+  - title: "출간 정보"
+    children:
+      - title: "2015.05.30. 종이책 출간"
+  - title: "추가 정보"
+    children:
+      - title: "리디북스, 약 7.3만 자"
