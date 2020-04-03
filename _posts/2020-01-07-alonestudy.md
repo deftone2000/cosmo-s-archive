@@ -17,6 +17,7 @@ category:
   - 책리뷰
 tags:
   - 자기계발
+  - 공부
 last_modified_at:
 toc: true
 ---

@@ -18,6 +18,7 @@ category:
   - 책리뷰
 tags:
   - 소설
+  - 공부
 last_modified_at:
 ---
 
