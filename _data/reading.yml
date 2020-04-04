@@ -1,0 +1,713 @@
+lastupdate: April 4, 2020
+list:
+  - year: "2020"
+    books:
+
+      - title: "스틱"
+        ori_title: "Stick"
+        author: 칩 히스, 댄 히스
+        post_title: 스틱 메시지 안에 숨은 6가지 법칙
+        cover: https://img.ridicdn.net/cover/606000040/xxlarge
+        trans: 박슬라, 안진환
+        pub: 웅진윙스
+        pub_info: 2009.08.03. 전자책 출간
+
+      - title: "숨결이 바람 될 때"
+        ori_title: "When breath becomes air"
+        author: 폴 칼라니티
+        post_title: 환자가 된 의사의 회고록
+        cover: https://img.ridicdn.net/cover/745000075/xxlarge
+        trans: 이종인
+        pub: 흐름출판
+        pub_info: 2016.08.18. 종이책 출간
+
+      - title: "내 문장이 그렇게 이상한가요?"
+        ori_title: 
+        author: 김정선
+        post_title: 내가 쓴 문장이 이상한 이유
+        cover: https://img.ridicdn.net/cover/852000076/xxlarge
+        trans: 
+        pub: 유유
+        pub_info: 2016.01.24. 종이책 출간
+
+      - title: "자신 있게 결정하라"
+        ori_title: "Decisive"
+        author: 칩 히스, 댄 히스
+        post_title: 결정장애 극복 프로세스
+        cover: https://img.ridicdn.net/cover/606000998/xxlarge
+        trans: 안진환
+        pub: 웅진지식하우스
+        pub_info: 2013.10.07. 종이책 출간
+
+      - title: "길 위에 철학자"
+        ori_title: "Truth Imagined"
+        author: 에릭 호퍼
+        post_title: 생활 철학자의 자서전
+        cover: https://img.ridicdn.net/cover/1108000011/xxlarge
+        trans: 방대수
+        pub: 이다미디어
+        pub_info: 2014.02.28. 전자책, 종이책 동시 출간
+
+      - title: "죽여 마땅한 사람들"
+        ori_title: "The Kind Worth Killing"
+        author: 피터 스완슨
+        post_title: 범죄와 단죄 사이
+        cover: https://img.ridicdn.net/cover/2189000079/xxlarge
+        trans: 노진선
+        pub: 도서출판 푸른숲
+        pub_info: 2016.07.22. 전자책, 종이책 동시 출간
+
+      - title: "도덕적 인간과 비도덕적 사회"
+        ori_title: "Moral Man and Immoral Society: A Study of Ethics and Politics"
+        author: 라인홀드 니버
+        post_title: 정의와 이타심
+        cover: https://img.ridicdn.net/cover/998000321/xxlarge
+        trans: 이한우
+        pub: 문예출판사
+        pub_info: 2017.07.01. 전자책, 종이책 동시 출간
+
+      - title: "역사의 쓸모"
+        ori_title: 
+        author: 최태성
+        post_title: 역사를 통해 인생을 배운다.
+        cover: https://img.ridicdn.net/cover/372004825/xxlarge
+        trans: 
+        pub: 다산초당
+        pub_info: 2019.06.14. 종이책 출간
+
+      - title: "만들어진 신"
+        ori_title: "The God Delusion"
+        author: 리차드 도킨스
+        post_title: 이기적 신앙
+        cover: https://img.ridicdn.net/cover/1546000220/xxlarge
+        trans: 이한음
+        pub: 김영사
+        pub_info: 2007.07.20. 종이책 출간
+
+      - title: "본능 독서"
+        ori_title: 
+        author: 이태화
+        post_title: 본능 독서
+        cover: https://img.ridicdn.net/cover/1775000065/xxlarge
+        trans: 
+        pub: 카시오페아
+        pub_info: 2018.11.23. 종이책 출간
+
+      - title: "모든 순간의 물리학"
+        ori_title: "Seven Brief Lessons on Physics"
+        author: 카를로 로벨리
+        post_title: 현대 물리학 프롤로그
+        cover: https://img.ridicdn.net/cover/1648000022/xxlarge
+        trans: 김현주
+        pub: 쌤앤파커스
+        pub_info: 2016.02.26. 종이책 출간
+
+      - title: "대위의 딸"
+        ori_title: "Капитанская дочка"
+        author: 알렉산드르 푸시킨
+        post_title: 혁명과 연애의 대비(對比)
+        cover: https://img.ridicdn.net/cover/1242000652/xxlarge
+        trans: 석영중
+        pub: 열린책들
+        pub_info: 2009.11.10. 종이책 출간
+
+      - title: "항상 앞부분만 쓰다가 그만두는 당신을 위한 어떻게든 글쓰기"
+        ori_title: 
+        author: 곽재식
+        post_title: 작가를 꿈꾸는 사람들에게
+        cover: https://img.ridicdn.net/cover/734001589/xxlarge
+        trans: 
+        pub: 위즈덤하우스
+        pub_info: 2018.05.09. 종이책 출간
+
+      - title: "유한계급론"
+        ori_title: "The Theory of the Leisure Class"
+        author: 소스타인 베블런
+        post_title: 유한계급의 경제적 역할
+        cover: https://img.ridicdn.net/cover/998000335/xxlarge
+        trans: 박홍규
+        pub: 문예출판사
+        pub_info: 2019.02.20. 종이책 출간
+
+      - title: "책읽기부터 시작하는 글쓰기 수업"
+        ori_title: 
+        author: 이권우
+        post_title: 읽기와 쓰기의 선순환
+        cover: https://img.ridicdn.net/cover/754017627/xxlarge
+        trans: 
+        pub: 한계레출판
+        pub_info: 2015.11.27. 전자책 출간
+
+      - title: "닥치고 정치"
+        ori_title: 
+        author: 김어준
+        post_title: 정치 혐오를 넘어
+        cover: https://img.ridicdn.net/cover/2189000034/xxlarge
+        trans: 
+        pub: 푸른숲
+        pub_info: 2011.10.05. 종이책 출간
+
+      - title: "발트3국 - 잊혀졌던 유럽의 관문"
+        ori_title: 
+        author: 서진석
+        post_title: 유럽의 관문
+        cover: https://img.ridicdn.net/cover/364000746/xxlarge
+        trans: 
+        pub: 살림
+        pub_info: 2007.08.05. 전자책 출간
+
+      - title: "침묵의 봄"
+        ori_title: "Silent Spring"
+        author: 레이첼 카슨
+        post_title: 침묵의 봄
+        cover: https://img.ridicdn.net/cover/754023439/xxlarge
+        trans: 
+        pub: 에코리브르
+        pub_info: 2012.09.25. 종이책 출간
+
+      - title: "서평 쓰는법"
+        ori_title: 
+        author: 이원석
+        post_title: 독서의 완성
+        cover: https://img.ridicdn.net/cover/852000196/xxlarge
+        trans: 
+        pub: 유유
+        pub_info: 2016.12.14. 종이책 출간
+
+      - title: "난중일기"
+        ori_title: 
+        author: 이순신
+        post_title: 충무공의 숨결
+        cover: https://img.ridicdn.net/cover/1508001719/xxlarge
+        trans: 김경수
+        pub: 돋을새김
+        pub_info: 2015.08.10. 전자책 출간
+
+      - title: "징비록"
+        ori_title: 
+        author: 류성룡
+        post_title: 임진왜란의 유산
+        cover: https://img.ridicdn.net/cover/1508001724/xxlarge
+        trans: 김문수
+        pub: 돋을새김
+        pub_info: 2015.08.10. 전자책 출간
+
+      - title: "퇴계에게 공부법을 배우다"
+        ori_title: 
+        author: 설흔
+        post_title: 퇴계의 교육학 개론
+        cover: https://img.ridicdn.net/cover/734000798/xxlarge
+        trans: 
+        pub: 예담
+        pub_info: 2009.09.10. 전자책 출간
+
+      - title: "혼자하는 공부의 정석"
+        ori_title: 
+        author: 한재우
+        post_title: 혼자하는 공부의 정석
+        cover: https://img.ridicdn.net/cover/734001482/xxlarge
+        trans: 
+        pub: 위즈덤하우스
+        pub_info: 2018.01.30. 전자책, 종이책 동시 출간
+
+      - title: "아주 작은 습관의 힘"
+        ori_title: 
+        author: 제임스 클리어
+        post_title: 습관의 힘
+        cover: https://img.ridicdn.net/cover/1780000157/xxlarge
+        trans: 이한이
+        pub: 비즈니스북스
+        pub_info: 2019.02.26. 종이책 출간
+
+  - year: "2019"
+    books:
+
+      - title: "메모 독서법"
+        ori_title: "단 한 권을 읽어도 제대로 남는 메모 독서법"
+        author: 신정철
+        post_title: 메모 독서법의 활용과 확장
+        cover: https://img.ridicdn.net/cover/734001783/xxlarge
+        trans: 
+        pub: 위즈덤하우스
+        pub_info: 2019.03.15. 전자책, 종이책 동시 출간
+
+      - title: "과학을 읽다"
+        ori_title: 
+        author: 정인경
+        post_title: 과학고전 길잡이
+        cover: https://img.ridicdn.net/cover/852000158/xxlarge
+        trans: 
+        pub: 여문책
+        pub_info: 2016.09.05. 종이책 출간
+
+      - title: "독서는 절대 나를 배신하지 않는다"
+        ori_title: 
+        author: 사이토 다카시
+        post_title: 독서 입문서
+        cover: https://img.ridicdn.net/cover/606001636/xxlarge
+        trans: 
+        pub: 걷는나무
+        pub_info: 2015.05.30. 종이책 출간
+
+      - title: "다른 의견을 가질 권리"
+        ori_title: 
+        author: 슈테판 츠바이크
+        post_title: 독재의 결말
+        cover: https://img.ridicdn.net/cover/754008972/xxlarge
+        trans: 안인희
+        pub: 바오출판사
+        pub_info: 2009.05.04. 종이책 출간
+
+      - title: "나는 매일 책을 읽기로 했다"
+        ori_title: 
+        author: 김범준
+        post_title: 독서는 성공적인 인생의 밑거름
+        cover: https://img.ridicdn.net/cover/1780000127/xxlarge
+        trans: 
+        pub: 비즈니스북스
+        pub_info: 2018.06.29. 종이책 출간
+
+      - title: "강의"
+        ori_title: 
+        author: 신영복
+        post_title: 동양고전 입문
+        cover: https://img.ridicdn.net/cover/1568000004/xxlarge
+        trans: 
+        pub: 돌베개
+        pub_info: 2004.12.13. 전자책, 종이책 동시 출간
+
+      - title: "단숨에 이해하는 군주론"
+        ori_title: 
+        author: 김경준
+        post_title: 단숨에 이해하는 군주론
+        cover: https://img.ridicdn.net/cover/776000140/xxlarge
+        trans: 
+        pub: 생각정거장
+        pub_info: 2015.11.01. 종이책 출간
+
+      - title: "말 그릇"
+        ori_title: 
+        author: 김윤나
+        post_title: 나의 말 돌아보기
+        cover: https://img.ridicdn.net/cover/1775000056/xxlarge
+        trans: 
+        pub: 카시오페아
+        pub_info: 2017.09.22. 종이책 출간
+
+      - title: "이기적유전자"
+        ori_title: 
+        author: 리처드 도킨스
+        post_title: 존재의 목적
+        cover: https://img.ridicdn.net/cover/950000110/xxlarge
+        trans: 
+        pub: 을유문화사
+        pub_info: 2018.10.20. 종이책 출간
+
+      - title: "가재가 노래하는 곳"
+        ori_title: 
+        author: 델리아 오언스
+        post_title: 익숙한 외로움
+        cover: https://img.ridicdn.net/cover/364000868/xxlarge
+        trans: 
+        pub: 살림
+        pub_info: 2019.06.14. 전자책, 종이책 동시 출간
+
+      - title: "호모 데우스"
+        ori_title: 
+        author: 유발 하라리
+        post_title: 호모 사피엔스의 미래
+        cover: https://img.ridicdn.net/cover/1546000409/xxlarge
+        trans: 김명주
+        pub: 김영사
+        pub_info: 2017.05.15. 종이책 출간
+
+      - title: "E=mc²"
+        ori_title: 
+        author: 데이비드 보더니스
+        post_title: 방정식의 역사
+        cover: https://img.ridicdn.net/cover/606001408/xxlarge
+        trans: 김희봉
+        pub: 웅진지식하우스
+        pub_info: 2014.07.25. 전자책, 종이책 동시 출간
+
+      - title: "팩트풀니스"
+        ori_title: 
+        author: 한스 로슬링, 올라 로슬링
+        post_title: 나의 시선에 관한 고찰
+        cover: https://img.ridicdn.net/cover/1546000541/xxlarge
+        trans: 이창신
+        pub: 김영사
+        pub_info: 2019.02.27. 종이책 출간
+
+      - title: "천년의 질문"
+        ori_title: 
+        author: 조정래
+        post_title: 나에게 대한민국이란?
+        cover: https://img.ridicdn.net/cover/754026319/xxlarge
+        trans: 
+        pub: 해냄
+        pub_info: 2019.06.11. 종이책 출간
+
+      - title: "나미야 잡화점의 기적"
+        ori_title: 
+        author: 히가시노 게이고
+        post_title: 훈훈한 애니메이션 한편
+        cover: https://img.ridicdn.net/cover/593000426/xxlarge
+        trans: 양윤옥
+        pub: 현대문학
+        pub_info: 2014.11.21. 전자책 출간
+
+      - title: "책 먹는 법"
+        ori_title: 
+        author: 김이경
+        post_title: 올바른 독자의 자세
+        cover: https://img.ridicdn.net/cover/852000048/xxlarge
+        trans: 
+        pub: 유유
+        pub_info: 2015.08.24. 종이책 출간
+
+  - year: "2018"
+    books:
+
+      - title: "삼국지 연의"
+        ori_title: 
+        author: 나관중
+        post_title: 삼국지 본연의 맛
+        cover: https://image.aladin.co.kr/product/42/11/cover500/8981336482_1.gif
+        trans: 김구용
+        pub: 솔
+        pub_info: 2003.07.01. 종이책 출간
+
+      - title: "오베라는 남자"
+        ori_title: "En man som heter Ove"
+        author: 프레드릭 배크만
+        post_title: 몰래 챙겨주기 끝판왕
+        cover: https://img.ridicdn.net/cover/372001321/xxlarge
+        trans: 최민우
+        pub: 다산책방
+        pub_info: 2015.05.12. 종이책 출간
+
+      - title: "행복의 기원"
+        ori_title: 
+        author: 서은국
+        post_title: 우리는 왜 행복한가?
+        cover: https://img.ridicdn.net/cover/222001093/xxlarge
+        trans: 
+        pub: 21세기북스
+        pub_info: 2014.05.22. 전자책, 종이책 동시 출간
+
+      - title: "마션"
+        ori_title: 
+        author: 앤디 위어
+        post_title: 화성 세끼
+        cover: https://img.ridicdn.net/cover/510000369/xxlarge
+        trans: 박아람
+        pub: 알에이치코리아
+        pub_info: 2015.07.31. 전자책 출간
+
+  - year: "2017"
+    books:
+      - title: "청춘의 독서"
+        ori_title: 
+        author: 유시민
+        post_title: 지혜의 목록
+        cover: https://img.ridicdn.net/cover/606001647/xxlarge
+        trans: 
+        pub: 웅진지식하우스
+        pub_info: 2017.07.07. 종이책 출간
+
+      - title: "시민의 교양"
+        ori_title: 
+        author: 채사장
+        post_title: 시민 입문서
+        cover: https://img.ridicdn.net/cover/2127000001/xxlarge
+        trans: 
+        pub: 웨일북
+        pub_info: 2015.12.24. 종이책 출간
+
+      - title: "우리들의 현대 침묵사"
+        ori_title: 
+        author: 정길화
+        post_title: 이제는 말할 수 있다.
+        cover: https://img.ridicdn.net/cover/754003402/xxlarge
+        trans: 
+        pub: 해냄
+        pub_info: 2012.07.31. 전자책 출간
+
+      - title: "한국현대정치사"
+        ori_title: 
+        author: 안철현
+        post_title: 한국현대정치사
+        cover: https://image.aladin.co.kr/product/5462/87/cover500/8981205078_1.jpg
+        trans: 
+        pub: 새로운사람들
+        pub_info: 2015년 03월 06일 출간
+
+      - title: "대한민국 선거이야기"
+        ori_title: 
+        author: 서중석
+        post_title: 대한민국 선거이야기
+        cover: http://image.yes24.com/momo/TopCate0001/kepub/L_554034.jpg
+        trans: 
+        pub: 역사비평사
+        pub_info: 2008년 03월 25일 출간
+
+      - title: "다시 쓰는 한국현대사"
+        ori_title: 
+        author: 박세길
+        post_title: 다시 쓰는 한국현대사
+        cover: http://dolbegae.co.kr/home/wp-content/uploads/bookcover/다시-쓰는-한국현대사-1-600x882.jpg
+        trans: 
+        pub: 돌베개
+        pub_info: 2015년 7월 20일 출간
+
+      - title: "사진과 그림으로 보는 한국현대사"
+        ori_title: 
+        author: 서중석
+        post_title: 한국 현대사 백과사전
+        cover: https://image.aladin.co.kr/product/2455/91/cover500/8901154196_2.jpg
+        trans: 
+        pub: 웅진지식하우스
+        pub_info: 2013년 03월 22일 출간
+
+      - title: "대한민국사"
+        ori_title: 
+        author: 한홍구
+        post_title: 대한민국사
+        cover: https://img.ridicdn.net/cover/754007929/xxlarge
+        trans: 
+        pub: 한겨레출판
+        pub_info: 2006.12.26. 종이책 출간
+
+      - title: "특강"
+        ori_title: 
+        author: 한홍구
+        post_title: 한국사 프롤로그
+        cover: https://img.ridicdn.net/cover/754007927/xxlarge
+        trans: 
+        pub: 한겨레출판
+        pub_info: 2009.03.31. 전자책 출간
+
+      - title: "표현의 기술"
+        ori_title: 
+        author: 유시민 글, 정훈이 그림
+        post_title: 글쓰기 안내서
+        cover: https://img.ridicdn.net/cover/169000120/xxlarge
+        trans: 
+        pub: 아름다운사람들
+        pub_info: 2016.06.08. 종이책 출간
+
+      - title: "국화와 칼"
+        ori_title: 
+        author: 루스 베네딕트
+        post_title: 미국 인류학자의 일본 보고서
+        cover: https://img.ridicdn.net/cover/998000271/xxlarge
+        trans: 박규태 
+        pub: 문예출판사
+        pub_info: 2008.02.15. 전자책 출간
+
+      - title: "처음 읽는 일본사"
+        ori_title: 
+        author: 전국역사교사모임
+        post_title: 처음 읽는 일본사
+        cover: https://image.aladin.co.kr/product/17628/5/cover500/k642534116_1.jpg
+        trans: 
+        pub: 휴머니스트
+        pub_info: 2018.12.12. 출간
+
+      - title: "완벽한 공부법"
+        ori_title: 
+        author: 고영성, 신영준
+        post_title: 공부는 인생의 필수요소
+        cover: https://img.ridicdn.net/cover/1811164051/xxlarge
+        trans: 
+        pub: 로크미디어
+        pub_info: 2017.01.23. 전자책 출간
+
+      - title: "역사란 무엇인가"
+        ori_title: "What Is History?"
+        author: 에드워드 H. 카
+        post_title: 역사학의 고전
+        cover: https://img.ridicdn.net/cover/1669000013/xxlarge
+        trans: 김택현
+        pub: 까치글방
+        pub_info: 2015.03.16. 종이책 출간
+
+      - title: "공산당 선언"
+        ori_title: "Manifest der Kommunistischen Partei"
+        author: 칼 마르크스, 프리드리히 엥겔스
+        post_title: 마르크스 사상의 정수
+        cover: https://img.ridicdn.net/cover/1508001721/xxlarge
+        trans: 권혁
+        pub: 돋을새김
+        pub_info: 2015.08.10. 전자책 출간
+
+      - title: "부자의 경제학 빈민의 경제학"
+        ori_title: 
+        author: 유시민
+        post_title: 부자의 경제학 빈민의 경제학
+        cover: https://img.ridicdn.net/cover/793001084/xxlarge
+        trans: 
+        pub: 마이디팟
+        pub_info: 2014.02.17. 전자책 출간
+
+      - title: "나의 한국현대사"
+        ori_title: 
+        author: 유시민
+        post_title: 한국, 애증의 발자취
+        cover: https://img.ridicdn.net/cover/1568000008/xxlarge
+        trans: 
+        pub: 돌베개
+        pub_info: 2014.07.07. 종이책 출간
+
+      - title: "데미안 - 에밀 싱클레어의 젊은 날 이야기"
+        ori_title: "Demian - Die Geschichte von Emil Sinclairs Jugend"
+        author: 헤르만 헤세
+        post_title: 나를 찾아 떠나는 여정
+        cover: https://img.ridicdn.net/cover/1153000021/xxlarge
+        trans: 저권혁
+        pub: 온스토리
+        pub_info: 2015.08.10. 전자책 출간
+
+      - title: "삼국지"
+        ori_title: 
+        author: 나관중
+        post_title: 삼국지
+        cover: https://img.ridicdn.net/cover/111012228/xxlarge
+        trans: 황석영
+        pub: 창비
+        pub_info: 2015.01.23. 전자책 출간
+
+      - title: "노인과 바다"
+        ori_title: "The Old Man and the Sea"
+        author: 어니스트 헤밍웨이
+        post_title: 삶의 자세
+        cover: https://img.ridicdn.net/cover/1153000025/xxlarge
+        trans: 박명옥
+        pub: 온스토리
+        pub_info: 2013.03.22. 전자책, 종이책 동시 출간
+
+      - title: "후불제 민주주의"
+        ori_title: 
+        author: 유시민
+        post_title: 헌법과 민주주의
+        cover: https://img.ridicdn.net/cover/1568000046/xxlarge
+        trans: 
+        pub: 돌베개
+        pub_info: 2009.03.06. 종이책 출간
+
+      - title: "경영학 콘서트"
+        ori_title: 
+        author: 장영재
+        post_title: 과학과 경영의 시너지 효과
+        cover: https://img.ridicdn.net/cover/1468000004/xxlarge
+        trans: 
+        pub: 비즈니스북스
+        pub_info: 2010.03.15. 전자책 출간
+
+      - title: "사피엔스"
+        ori_title: "Sapiens: A Brief History of Humankind"
+        author: 유발 하라리
+        post_title: 새로운 시선
+        cover: https://img.ridicdn.net/cover/1546000198/xxlarge
+        trans: 조현욱
+        pub: 김영사
+        pub_info: 2015.11.25. 전자책 출간
+
+      - title: "국가란 무엇인가"
+        ori_title: 
+        author: 유시민
+        post_title: 국가란 무엇인가
+        cover: https://img.ridicdn.net/cover/1568000040/xxlarge
+        trans: 
+        pub: 돌베개
+        pub_info: 2017.01.23. 종이책 출간
+
+      - title: "코스모스"
+        ori_title: "COSMOS"
+        author: 칼 세이건
+        post_title: 우리의 모든 것
+        cover: https://img.ridicdn.net/cover/786000077/xxlarge
+        trans: 홍승수
+        pub: 사이언스북스
+        pub_info: 2006.12.20. 종이책 출간
+
+      - title: "자유론"
+        ori_title: "On Liberty"
+        author: 존 스튜어트 밀
+        post_title: 자유론
+        cover: https://img.ridicdn.net/cover/1883000025/xxlarge
+        trans: 
+        pub: 현대지성
+        pub_info: 2018.06.01. 종이책 출간
+
+      - title: "회복 탄력성"
+        ori_title: 
+        author: 김주환
+        post_title: 성공한 사람들의 특징
+        cover: https://img.ridicdn.net/cover/734001747/xxlarge
+        trans: 
+        pub: 위즈덤하우스
+        pub_info: 2019.03.29. 종이책 출간
+
+      - title: "스위치"
+        ori_title: "Switch"
+        author: 칩 히스, 댄 히스
+        post_title: 행동 변화의 핵심요소
+        cover: https://img.ridicdn.net/cover/606000997/xxlarge
+        trans: 안진환
+        pub: 웅진지식하우스
+        pub_info: 2010.04.09. 전자책, 종이책 동시 출간
+
+      - title: "대통령의 글쓰기"
+        ori_title: 
+        author: 강원국
+        post_title: 대통령의 글쓰기
+        cover: https://img.ridicdn.net/cover/856000065/xxlarge
+        trans: 
+        pub: 메디치미디어
+        pub_info: 2014.02.25. 전자책, 종이책 동시 출간
+
+      - title: "삼국지"
+        ori_title: 
+        author: 나관중
+        post_title: 일본감성 삼국지
+        cover: https://img.ridicdn.net/cover/111013534/xxlarge
+        trans: 요시카와 에이지
+        pub: 지우
+        pub_info: 2015.01.08. 전자책 출간
+
+      - title: "어떻게 읽을 것인가?"
+        ori_title: 
+        author: 고영성
+        post_title: 어떻게 읽을 것인가?
+        cover: https://img.ridicdn.net/cover/1473000022/xxlarge
+        trans: 
+        pub: 스마트북스
+        pub_info: 2015.12.22. 종이책 출간
+
+
+  - year: "2016"
+    books:
+
+      - title: "채식주의자"
+        ori_title: 
+        author: 한강
+        post_title: 어렵지만 지독하게 아름다운….
+        cover: https://img.ridicdn.net/cover/754018214/xxlarge
+        trans: 
+        pub: 
+        pub_info: 
+
+  - year: "2015"
+    books:
+
+      - title: "문제는 무기력이다"
+        ori_title: 
+        author: 박경숙
+        post_title: 무기력과의 전쟁
+        cover: https://img.ridicdn.net/cover/593000227/xxlarge
+        trans: 
+        pub: 와이즈베리
+        pub_info: 2013.02.28. 종이책 출간
+

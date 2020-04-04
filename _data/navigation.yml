@@ -6,8 +6,8 @@ main:
     url: /categories/
   - title: "태그"
     url: /tags/
-# - title: "서재"
-#   url: /reading_list/
+  - title: "서재"
+    url: /reading_list/
   - title: "안녕하세요"
     url: /collection-archive/
 
@@ -51,7 +51,7 @@ book-info:
 is-my-sentence-so-strange:
   - title: "저자"
     children:
-      - title: "저자 이름"
+      - title: "김정선"
         url: https://ridibooks.com/author/60291
   - title: "출판"
     children:
