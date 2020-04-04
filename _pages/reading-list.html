@@ -16,10 +16,9 @@ classes: wide
     <div class="books">
       <ul class="reading-list {{ entry.year }}">
         {% for book in entry.books %}
-        <li>
-          <a href="{{ book.cover }}" alt="_blank" rel="nofollow noopener">{{
+        <li><a href="{{ book.cover }}" alt="_blank" rel="nofollow noopener">{{
             book.title
-          }}</a> {% if book.ori_title %}<span class="archive__subtitle"> {{ book.ori_title }}</span>{% endif %}
+          }}</a> {% if book.ori_title %}<span class="archive__item-title"> {{ book.ori_title }}</span>{% endif %}
           <span class="small">by {{ book.author }}</span
           >{% if book.star %}<span class="star">★</span>{% endif %}
         </li>
