@@ -161,3 +161,22 @@ perfect-study:
   - title: "추가 정보"
     children:
       - title: "리디북스,  27.5만 자"
+
+# 스틱
+stick:
+  - title: "저자"
+    children:
+      - title: "칩 히스, 댄 히스"
+        url: https://ridibooks.com/author/10276
+  - title: "번역"
+    children:
+      - title: "박슬라, 안진환"
+  - title: "출판"
+    children:
+      - title: "• 웅진윙스"
+  - title: "출간 정보"
+    children:
+      - title: "2009.08.03. 전자책 출간"
+  - title: "추가 정보"
+    children:
+      - title: "리디북스, 약 25.1만 자"
