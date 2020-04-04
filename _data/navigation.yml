@@ -173,10 +173,26 @@ stick:
       - title: "박슬라, 안진환"
   - title: "출판"
     children:
-      - title: "• 웅진윙스"
+      - title: "웅진윙스"
   - title: "출간 정보"
     children:
       - title: "2009.08.03. 전자책 출간"
   - title: "추가 정보"
     children:
       - title: "리디북스, 약 25.1만 자"
+
+# 경영학 콘서트
+business-admin-concert:
+  - title: "저자"
+    children:
+      - title: "장영재"
+        url: https://ridibooks.com/author/2050
+  - title: "출판"
+    children:
+      - title: "비즈니스북스"
+  - title: "출간 정보"
+    children:
+      - title: "2010.03.15. 전자책 출간"
+  - title: "추가 정보"
+    children:
+      - title: "리디북스, 약 20.2만 자"
