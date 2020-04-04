@@ -11,7 +11,7 @@ classes: wide
   {% for entry in site.data.reading.list %}
   <div class="year-container">
     <div class="year">
-      <div class="archive__subtitle">{{ entry.year }} <span class="small">{{ entry.books | size }} books</span></div>
+      <div class="archive__subtitle">{{ entry.year }} <span class="small">| {{ entry.books | size }} books</span></div>
     </div>
     <div class="books">
       <ul class="reading-list {{ entry.year }}">
