@@ -196,3 +196,19 @@ business-admin-concert:
   - title: "추가 정보"
     children:
       - title: "리디북스, 약 20.2만 자"
+
+# 채식주의
+vegetarian:
+  - title: "저자"
+    children:
+      - title: "한강"
+        url: https://ridibooks.com/author/8136
+  - title: "출판"
+    children:
+      - title: "창비"
+  - title: "출간 정보"
+    children:
+      - title: "2014.07.31. 종이책 출간"
+  - title: "추가 정보"
+    children:
+      - title: "리디북스, 약 10.5만 자"
