@@ -19,7 +19,7 @@ classes: wide
             book.title
           }}』</a> {% if book.ori_title %}<span class="small"> {{ book.ori_title }}</span>{% endif %}
           <span class="page__content"> <i class="small">저자</i> {{ book.author }}</span
-          >{% if book.star %}<span class="">★</span>{% endif %}
+          >{% if book.star %}<span> <i class="fas fa-award"></i></span>{% endif %}
         </li>
         {% endfor %}
       </ul>
