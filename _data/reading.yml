@@ -448,7 +448,7 @@ list:
         pub: 알에이치코리아
         pub_info: 2015.07.31. 전자책 출간
         post_link: /책리뷰/martian/
-        
+
   - year: "2017"
     books:
 
@@ -774,6 +774,9 @@ list:
         pub: 
         pub_info:
         post_link: /책리뷰/vegetarian/
+
+  - year: "2015"
+    books:
 
       - title: 문제는 무기력이다
         post_title: 무기력과의 전쟁
