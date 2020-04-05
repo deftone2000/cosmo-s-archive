@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Lquid Util"
+permalink: /lquid_util/
+author_profile: true
+classes: wide
+---
+
+{% assign reviews = site.posts | sort: "date" | reverse %}
+{% for review in reviews %}
+
+<pre>
+- title: {{ review.sidebar[0].title }}
+  post_link: https://deftone2000.github.io{{ review.url }}
+</pre><br>
+
+{% endfor %}
