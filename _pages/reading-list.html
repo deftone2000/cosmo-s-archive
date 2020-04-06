@@ -8,25 +8,24 @@ classes: wide
 
   <a href="#" class="btn btn--primary">Last updated {{ site.data.reading.lastupdate }}</a>
   {% for entry in site.data.reading.list %}
-  <div class="">
-    <div class="">
+  <div>
+    <div>
       <h1 class="archive__subtitle">{{ entry.year }}<span class="small"> | {{ entry.books | size }} books</span></h1>
     </div>
-    <div class="">
+    <div>
       <ul class="reading-list {{ entry.year }}">
         {% for book in entry.books %} {% if book.post_link %}
         <li><a href="{{ site.url }}{{ book.post_link }}" alt="_blank" rel="nofollow noopener">『{{
-            book.title
-          }}』</a>
-          {% else %}
-          <li><a href="{{ book.cover }}" alt="_blank" rel="nofollow noopener">『{{
-            book.title
-          }}』</a>{% endif %} {% if book.ori_title %}<span class="small"> {{ book.ori_title }}</span>{% endif %}
-          <span class="page__content"> <i class="small">저자</i> {{ book.author }}</span
-          >{% if book.star %}<span> <i class="fas fa-award"></i></span>{% endif %}
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
+          book.title
+        }}』</a>
+        {% else %}
+        <li><a href="{{ book.cover }}" alt="_blank" rel="nofollow noopener">『{{
+          book.title
+        }}』</a>{% endif %} {% if book.ori_title %}<span class="small"> {{ book.ori_title }}</span>{% endif %}
+        <span class="page__content"> <i class="small">저자</i> {{ book.author }}</span>{% if book.star %}<span> <i class="fas fa-award"></i></span>{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
   </div>
-  {% endfor %}
+</div>
+{% endfor %}
