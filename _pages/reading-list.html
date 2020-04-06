@@ -22,7 +22,7 @@ classes: wide
         <li><a href="{{ book.cover }}" alt="_blank" rel="nofollow noopener">『{{
           book.title
         }}』</a>{% endif %} {% if book.ori_title %}<span class="small"> {{ book.ori_title }}</span>{% endif %}
-        <span class="page__content"> <i class="small">저자</i> {{ book.author }}</span>{% if book.star %}<span> <i class="fas fa-award"></i></span>{% endif %}
+        <span class="page__content"> <span class="small">저자</span> {{ book.author }}</span>{% if book.star %}<span> <i class="fas fa-award"></i></span>{% endif %}
       </li>
       {% endfor %}
     </ul>
