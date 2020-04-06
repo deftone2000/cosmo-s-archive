@@ -10,8 +10,6 @@ main:
     url: /reading_list/
   - title: "안녕하세요"
     url: /collection-archive/
-# - title: "Lquid Util"
-#   url: /lquid_util/
 
 # playground sidebar navigation list
 playground:
@@ -32,22 +30,20 @@ playground:
 book-info:
   - title: "저자"
     children:
-      - title: "김정선"
+      - title: "저자 이름"
         url: /
   - title: "번역"
     children:
       - title: "번역자 이름"
-        url: /
   - title: "출판"
     children:
       - title: "출판사 이름"
-        url: /
   - title: "출간 정보"
     children:
-      - title: "전자책 출간 날짜 정보"
-        url: /
-      - title: "종이책 출간 날짜 정보"
-        url: /
+      - title: "2016.08.18. 종이책 출간"
+  - title: "추가 정보"
+    children:
+      - title: "리디북스, 약 11.6만 자"
 
 # 내 문장이 그렇게 이상한가요?
 is-my-sentence-so-strange:

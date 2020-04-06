@@ -427,6 +427,16 @@ list:
         pub_info: 2003.07.01. 종이책 출간
         post_link: /책리뷰/3kingdomkimguyong/
 
+      - title: 일탈, 일본 사색
+        post_title: 
+        ori_title: 
+        cover: http://image.yes24.com/momo/TopCate0001/kepub/L_106042.jpg
+        author: 김으뜸
+        trans: 
+        pub: IWELL(아이웰콘텐츠)
+        pub_info: 2012.12.14. 종이책 출간
+        post_link: 
+
       - title: 오베라는 남자
         post_title: 몰래 챙겨주기 끝판왕
         ori_title: En man som heter Ove
@@ -436,6 +446,16 @@ list:
         pub: 다산책방
         pub_info: 2015.05.12. 종이책 출간
         post_link: /책리뷰/man-named-ober/
+
+      - title: 어린 왕자
+        post_title: 
+        ori_title: The Little Prince
+        cover: https://img.ridicdn.net/cover/1153000027/kepub/xxlarge
+        author: 앙투안 드 생텍쥐페리
+        trans: 구계원
+        pub: 온스토리
+        pub_info: 2013.04.01. 전자책, 종이책 동시 출간
+        post_link: 
 
       - title: "행복의 기원"
         ori_title: 
@@ -480,6 +500,36 @@ list:
         pub: 웨일북
         pub_info: 2015.12.24. 종이책 출간
         post_link: /책리뷰/citzen-liberal/
+
+      - title: 서중석의 현대사 이야기
+        post_title: 
+        ori_title: 
+        cover: https://img.ridicdn.net/cover/852000358/xxlarge
+        author: 서중석, 김덕련
+        trans: 
+        pub: 오월의봄
+        pub_info: 2015.03.16. 전자책, 종이책 동시 출간
+        post_link:
+
+      - title: 한국 현대사 산책 1940년대편
+        post_title: 
+        ori_title: 
+        cover: https://img.ridicdn.net/cover/1508004095/xxlarge
+        author: 강준만
+        trans: 
+        pub: 인물과사상사
+        pub_info: 2015.05.08. 전자책 출간
+        post_link:
+
+      - title: 어떻게 살 것인가
+        post_title: 
+        ori_title: 
+        cover: https://img.ridicdn.net/cover/3639000005/xxlarge
+        author: 유시민
+        trans: 
+        pub: 생각의길
+        pub_info: 2015.05.08. 전자책 출간
+        post_link:
 
       - title: 우리들의 현대 침묵사
         post_title: 이제는 말할 수 있다.
@@ -632,6 +682,16 @@ list:
         post_link: /책리뷰/mykorhistory/
         star: true
 
+      - title: 유시민의 경제학 카페
+        post_title: 
+        ori_title: 
+        cover: https://img.ridicdn.net/cover/1568000047/xxlarge
+        author: 유시민
+        trans: 
+        pub: 돌베개
+        pub_info: 2002.01.28. 종이책 출간
+        post_link:
+
       - title: 데미안 - 에밀 싱클레어의 젊은 날 이야기
         post_title: 나를 찾아 떠나는 여정
         ori_title: Demian - Die Geschichte von Emil Sinclairs Jugend
@@ -715,6 +775,16 @@ list:
         post_link: /책리뷰/cosmos/
         star: true
 
+      - title: 유시민의 공감필법
+        post_title: 
+        ori_title: 
+        cover: https://img.ridicdn.net/cover/1244000036/xxlarge
+        author: 유시민
+        trans: 
+        pub: 창비
+        pub_info: 2016.07.15. 전자책, 종이책 동시 출간
+        post_link:
+
       - title: 자유론
         post_title: 자유론
         ori_title: On Liberty
@@ -734,6 +804,26 @@ list:
         pub: 위즈덤하우스
         pub_info: 2019.03.29. 종이책 출간
         post_link: /책리뷰/resilience/
+
+      - title: 책은 도끼다
+        post_title: 
+        ori_title: 
+        cover: https://img.ridicdn.net/cover/1287000167/xxlarge
+        author: 박웅현
+        trans: 
+        pub: 북하우스 
+        pub_info: 2011.10.10. 전자책, 종이책 동시 출간
+        post_link: 
+
+      - title: 유시민의 글쓰기 특강
+        post_title: 
+        ori_title: 
+        cover: https://img.ridicdn.net/cover/169000138/xxlarge
+        author: 유시민
+        trans: 
+        pub: 생각의길
+        pub_info: 2015.04.01. 전자책 출간
+        post_link:
 
       - title: 스위치
         post_title: 행동 변화의 핵심요소
