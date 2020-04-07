@@ -1,5 +1,5 @@
 ---
-title: "어렵지만 지독하게 아름다운…."
+title: "지독하게 아름다운…."
 header:
   teaser: https://img.ridicdn.net/cover/754018214/xxlarge
 author_profile: false
