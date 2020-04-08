@@ -2,7 +2,9 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#5E90A3"
+  overlay_color: "#000"
+  overlay_filter: "0.75"
+  overlay_image: /assets/images/home-page-feature.jpg
   actions:
     - label: "<i class='fas fa-sign-in-alt'></i> 창백한 푸른 점"
       url: "/인용/pale-blue-dot/"
@@ -56,3 +58,4 @@ feature_row:
 ---
 
 {% include feature_row %}
+
