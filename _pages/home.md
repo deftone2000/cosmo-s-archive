@@ -5,13 +5,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.75"
   overlay_image: /assets/images/home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-sign-in-alt'></i> 창백한 푸른 점"
-      url: "/인용/pale-blue-dot/"
 excerpt: >
-  과거에도 있었고 현재에도 있으며 미래에도 있을 그 모든 것.<br />
-  코스모스와 독서를 사랑하는 어떤 지구인이 이곳에 흔적을 남기고 있습니다.<br />
-  <small><a href="https://deftone2000.github.io/cosmos-lib-v01">COSMO'S Lib V1.0</a></small>
+  과거에도 있었고 현재에도 있으며 미래에도 있을 그 모든 것
 feature_row:
   - image_path: /assets/images/home-page-humanities.jpg
     alt:
