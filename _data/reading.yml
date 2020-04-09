@@ -683,14 +683,14 @@ list:
         star: true
 
       - title: 유시민의 경제학 카페
-        post_title: 
+        post_title: 경제학 입문서
         ori_title: 
         cover: https://img.ridicdn.net/cover/1568000047/xxlarge
         author: 유시민
         trans: 
         pub: 돌베개
         pub_info: 2002.01.28. 종이책 출간
-        post_link:
+        post_link: /책리뷰/economics-cafe/
 
       - title: 데미안 - 에밀 싱클레어의 젊은 날 이야기
         post_title: 나를 찾아 떠나는 여정

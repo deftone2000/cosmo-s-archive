@@ -28,6 +28,22 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 유시민의 경제학 카페
+economics-cafe:
+  - title: "저자"
+    children:
+      - title: "유시민"
+        url: https://ridibooks.com/author/508
+  - title: "출판"
+    children:
+      - title: "돌베개"
+  - title: "출간 정보"
+    children:
+      - title: "2002.01.28. 종이책 출간"
+  - title: "추가 정보"
+    children:
+      - title: "리디북스, 약 21만 자"
+
 # 어떻게 살 것인가
 how-to-live:
   - title: "저자"
