@@ -26,24 +26,23 @@ playground:
       - title: "NBA 2K19"
         url: /playground/pure-slasher-mixtape/
 
-# 도서 정보 사이드바 샘플
-book-info:
+# 책리뷰 사이드바용 정보(작성일자 역순정렬)
+
+# 어떻게 살 것인가
+how-to-live:
   - title: "저자"
     children:
-      - title: "저자 이름"
-        url: /
-  - title: "번역"
-    children:
-      - title: "번역자 이름"
+      - title: "유시민"
+        url: https://ridibooks.com/author/508
   - title: "출판"
     children:
-      - title: "출판사 이름"
+      - title: "생각의길"
   - title: "출간 정보"
     children:
-      - title: "2016.08.18. 종이책 출간"
+      - title: "2015.05.08. 전자책 출간"
   - title: "추가 정보"
     children:
-      - title: "리디북스, 약 11.6만 자"
+      - title: "리디북스, 약 17.6만 자"
 
 # 내 문장이 그렇게 이상한가요?
 is-my-sentence-so-strange:

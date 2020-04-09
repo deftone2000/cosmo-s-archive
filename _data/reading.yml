@@ -522,14 +522,14 @@ list:
         post_link:
 
       - title: 어떻게 살 것인가
-        post_title: 
+        post_title: 유시민 작가의 자전적 회고록
         ori_title: 
         cover: https://img.ridicdn.net/cover/3639000005/xxlarge
         author: 유시민
         trans: 
         pub: 생각의길
         pub_info: 2015.05.08. 전자책 출간
-        post_link:
+        post_link: /책리뷰/how-to-live/
 
       - title: 우리들의 현대 침묵사
         post_title: 이제는 말할 수 있다.
