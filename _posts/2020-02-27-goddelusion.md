@@ -20,6 +20,7 @@ category:
 tags:
   - 인문
   - 종교
+  - 과학
 last_modified_at: 2020-03-14T06:00:00+09:00
 toc: true
 ---
