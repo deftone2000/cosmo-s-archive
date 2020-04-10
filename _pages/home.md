@@ -1,4 +1,5 @@
 ---
+title: "COSMO'S Lib"
 layout: splash
 permalink: /
 header:
@@ -52,7 +53,11 @@ feature_row:
     btn_label: "더 알아보기"
 ---
 
+# <u>주요 범주</u>
+
 {% include feature_row %}
+
+# <u>최근 글</u>
 
 {% for post in site.posts limit: 5 %}
   {% include archive-single.html %}

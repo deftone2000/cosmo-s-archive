@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "최근 글"
+  - title: "연도"
     url: /year-archive/
   - title: "범주"
     url: /categories/
@@ -8,7 +8,7 @@ main:
     url: /tags/
   - title: "서재"
     url: /reading_list/
-  - title: "안녕하세요"
+  - title: "코스모"
     url: /collection-archive/
 
 # playground sidebar navigation list
