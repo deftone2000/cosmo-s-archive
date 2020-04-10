@@ -53,11 +53,11 @@ feature_row:
     btn_label: "더 알아보기"
 ---
 
-# <u>특집</u>
-
 {% include feature_row %}
 
-# <u>최근 글</u>
+# 최근 글
+
+<br>
 
 {% for post in site.posts limit: 5 %}
   {% include archive-single.html %}
