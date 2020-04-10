@@ -53,7 +53,7 @@ feature_row:
     btn_label: "더 알아보기"
 ---
 
-# <u>주요 범주</u>
+# <u>특집</u>
 
 {% include feature_row %}
 
