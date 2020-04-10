@@ -8,7 +8,7 @@ main:
     url: /tags/
   - title: "서재"
     url: /reading_list/
-  - title: "코스모"
+  - title: "소개"
     url: /collection-archive/
 
 # playground sidebar navigation list
