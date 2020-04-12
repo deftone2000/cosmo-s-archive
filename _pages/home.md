@@ -52,7 +52,6 @@ feature_row:
     btn_class: "btn--inverse"
     btn_label: "더 알아보기"
 ---
-
 {% include feature_row %}
 
 # 최근 글
@@ -62,4 +61,3 @@ feature_row:
 {% for post in site.posts limit: 5 %}
   {% include archive-single.html %}
 {% endfor %}
-
