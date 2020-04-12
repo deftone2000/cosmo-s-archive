@@ -28,6 +28,22 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 뼈가 들려준 이야기
+story-told-by-bone:
+  - title: "저자"
+    children:
+      - title: "진주현"
+        url: https://ridibooks.com/author/56906
+  - title: "출판"
+    children:
+      - title: "푸른숲"
+  - title: "출간 정보"
+    children:
+      - title: "2015.10.21. 종이책 출간"
+  - title: "추가 정보"
+    children:
+      - title: "리디북스, 약 14.3만 자"
+
 # 유시민의 경제학 카페
 economics-cafe:
   - title: "저자"
