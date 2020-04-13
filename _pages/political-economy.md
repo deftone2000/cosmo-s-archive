@@ -5,9 +5,7 @@ permalink: /tags/정치-경제/
 taxonomy: 경제
 entries_layout: grid
 classes: wide
-author_profile: false
 sidebar:
-  - title: 바로가기
     nav: taxonomy_tag
 ---
 
