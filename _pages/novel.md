@@ -5,7 +5,6 @@ permalink: /tags/소설/
 taxonomy: 소설
 entries_layout: grid
 classes: wide
-author_profile: false
 sidebar:
     nav: taxonomy_tag
 ---

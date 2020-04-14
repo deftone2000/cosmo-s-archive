@@ -5,7 +5,6 @@ permalink: /tags/인문/
 taxonomy: 인문
 entries_layout: grid
 classes: wide
-author_profile: false
 sidebar:
     nav: taxonomy_tag
 ---

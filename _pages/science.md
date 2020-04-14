@@ -5,7 +5,6 @@ permalink: /tags/과학/
 taxonomy: 과학
 entries_layout: grid
 classes: wide
-author_profile: false
 sidebar:
     nav: taxonomy_tag
 ---

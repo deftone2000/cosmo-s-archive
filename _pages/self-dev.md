@@ -5,7 +5,6 @@ permalink: /tags/자기계발/
 taxonomy: 자기계발
 entries_layout: grid
 classes: wide
-author_profile: false
 sidebar:
     nav: taxonomy_tag
 ---
