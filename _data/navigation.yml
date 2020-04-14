@@ -13,7 +13,7 @@ main:
 
 # 주요범주별 바로가기 사이드바
 taxonomy_tag:
-  - title: "구분"
+  - title: "주제 바로가기"
     children:
     - title: "인문, 사회"
       url: /tags/인문/
