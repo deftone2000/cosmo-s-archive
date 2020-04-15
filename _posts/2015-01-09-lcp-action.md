@@ -9,9 +9,13 @@ last_modified_at: 2020-04-11T02:26:43+09:00
 toc: true
 ---
 
+### 전체 Action 개요
+
+Launch Center Pro, TextExpander 의 콜라보(?)를 이용해서 Fantastical2 에 빠르게 미리알림을 등록하는 액션입니다.
+
 ### TE Snippet 추가
 
-Launch Center Pro, TextExpander 의 콜라보(?)를 이용해서 Fantastical2 에 빠르게 미리알림을 등록하는 액션입니다. TE를 이용하면 타임로그처럼 오늘날짜를 자동으로 입력 할 수 있는데요. 일종의 매크로라고 이해하면 됩니다.  
+TE를 이용하면 타임로그처럼 오늘날짜를 자동으로 입력 할 수 있는데요. 일종의 매크로라고 이해하면 됩니다.  
 
 예를들어 Today를
 
