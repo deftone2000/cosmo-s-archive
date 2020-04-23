@@ -1,7 +1,17 @@
-lastupdate: 2020-04-21
+lastupdate: 2020-04-23
 list:
   - year: "2020"
     books:
+
+      - title: "다산의 마지막 공부"
+        ori_title:
+        author: 조윤제
+        post_title:
+        cover: https://img.ridicdn.net/cover/2167000279/xxlarge
+        trans:
+        pub: 청림출판
+        pub_info: 2018.12.11. 종이책 출간
+        post_link:
 
       - title: "동물 농장"
         ori_title: Animal Farm
