@@ -45,6 +45,22 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 동물농장
+animal-farm:
+  - title: "저자"
+    children:
+      - title: "조지 오웰"
+        url: https://ridibooks.com/author/3560
+  - title: "출판"
+    children:
+      - title: "온스토리"
+  - title: "출간 정보"
+    children:
+      - title: "2013.04.30. 전자책, 종이책 동시 출간"
+  - title: "추가 정보"
+    children:
+      - title: "리디북스, 약 21.4만 자"
+
 # 뼈가 들려준 이야기
 story-told-by-bone:
   - title: "저자"
