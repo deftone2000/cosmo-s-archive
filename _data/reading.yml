@@ -3,6 +3,16 @@ list:
   - year: "2020"
     books:
 
+      - title: "랩 걸"
+        ori_title: Lab Girl
+        author: 호프 자런
+        post_title:
+        cover: https://img.ridicdn.net/cover/754021242/xxlarge
+        trans: 김희정
+        pub: 알마 출판사
+        pub_info: 2017.03.31. 종이책 출간
+        post_link:
+
       - title: "다산의 마지막 공부"
         ori_title:
         author: 조윤제
