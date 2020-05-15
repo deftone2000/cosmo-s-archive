@@ -45,6 +45,25 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 1984
+nineteen-eighty-four:
+  - title: "저자"
+    children:
+      - title: "조지 오웰"
+        url: https://ridibooks.com/author/3560
+  - title: "번역"
+    children:
+      - title: "박상곤"
+  - title: "출판"
+    children:
+      - title: "온스토리"
+  - title: "출간 정보"
+    children:
+      - title: "2013.05.30. 전자책, 종이책 동시 출간"
+  - title: "추가 정보"
+    children:
+      - title: "리디북스, 약 69.6만 자"
+
 # 동물농장
 animal-farm:
   - title: "저자"
