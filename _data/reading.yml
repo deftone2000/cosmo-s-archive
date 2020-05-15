@@ -6,12 +6,12 @@ list:
       - title: "1984"
         ori_title: Nineteen Eighty-Four
         author: 조지 오웰
-        post_title:
+        post_title: 나는 존재하는 것일까?
         cover: https://img.ridicdn.net/cover/1153000039/xxlarge
         trans: 박상곤
         pub: 온스토리 출판
         pub_info: 2013.05.30. 전자책, 종이책 동시 출간
-        post_link:
+        post_link: /책리뷰/1984/
 
       - title: "랩 걸"
         ori_title: Lab Girl
