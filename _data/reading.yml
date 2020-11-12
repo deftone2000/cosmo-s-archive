@@ -1,7 +1,17 @@
-lastupdate: 2020-08-20
+lastupdate: 2020-11-12
 list:
   - year: "2020"
     books:
+
+      - title: "자유론"
+        ori_title:
+        author: 존 스튜어트 밀
+        post_title:
+        cover: https://img.ridicdn.net/cover/1883000025/xxlarge
+        trans: 박문재
+        pub: 현대지성
+        pub_info: 2018.06.19. 전자책 출간
+        post_link:
 
       - title: "우리가 빛의 속도로 갈 수 없다면"
         ori_title:
