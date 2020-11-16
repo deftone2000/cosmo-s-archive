@@ -1,7 +1,17 @@
-lastupdate: 2020-11-12
+lastupdate: 2020-11-17
 list:
   - year: "2020"
     books:
+
+      - title: "광장"
+        ori_title:
+        author: 최인훈
+        post_title:
+        cover:
+        trans:
+        pub:
+        pub_info:
+        post_link:
 
       - title: "자유론"
         ori_title:
