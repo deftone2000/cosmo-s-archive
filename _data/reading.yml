@@ -1,7 +1,17 @@
-lastupdate: 2020-11-23
+lastupdate: 2020-11-28
 list:
   - year: "2020"
     books:
+
+      - title: "대한민국 개조론"
+        ori_title:
+        author: 유시민
+        post_title:
+        cover: https://img.ridicdn.net/cover/1568000045/xxlarge
+        trans:
+        pub: 돌베개 출판
+        pub_info: 2007.07.12. 종이책 출간
+        post_link:
 
       - title: "역사의 역사"
         ori_title:
