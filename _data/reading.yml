@@ -72,6 +72,7 @@ list:
         pub: 허블 출판
         pub_info: 2019.07.24. 종이책 출간
         post_link:
+        star: true
 
       - title: "1984"
         ori_title: Nineteen Eighty-Four
