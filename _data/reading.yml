@@ -42,6 +42,7 @@ list:
         pub: 돌베개 출판
         pub_info: 2018.06.25. 전자책, 종이책 동시 출간
         post_link:
+        star: true
 
       - title: "광장"
         ori_title:
