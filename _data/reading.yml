@@ -33,6 +33,7 @@ list:
         pub: 동아시아 출판
         pub_info: 2016.07.18. 전자책 출간
         post_link:
+        star: true
 
       - title: "오래 하는 힘"
         ori_title:
