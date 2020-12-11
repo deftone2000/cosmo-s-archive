@@ -1,7 +1,17 @@
-lastupdate: 2020-12-10
+lastupdate: 2020-12-12
 list:
   - year: "2020"
     books:
+
+      - title: "그녀의 취미 생활"
+        ori_title:
+        author: 서미애
+        post_title:
+        cover: https://img.ridicdn.net/cover/1818003538/xxlarge
+        trans:
+        pub: 에브리북 출판
+        pub_info: 2018.09.17. 전자책 출간
+        post_link:
 
       - title: "아가미"
         ori_title:
