@@ -22,6 +22,7 @@ list:
         pub: 위즈덤하우스 출판
         pub_info: 2018.04.06. 전자책 출간
         post_link:
+        star: true
 
       - title: "김상욱의 과학공부"
         ori_title:
