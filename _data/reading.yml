@@ -3,6 +3,16 @@ list:
   - year: "2020"
     books:
 
+      - title: "그 많던 싱아는 누가 다 먹었을까"
+        ori_title:
+        author: 박완서
+        post_title:
+        cover: https://img.ridicdn.net/cover/606000343/xxlarge
+        trans:
+        pub: 웅진지식하우스 출판
+        pub_info: 2005.09.14. 전자책 출간
+        post_link:
+
       - title: "그녀의 취미 생활"
         ori_title:
         author: 서미애
