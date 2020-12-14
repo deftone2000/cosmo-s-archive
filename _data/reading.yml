@@ -1,7 +1,17 @@
-lastupdate: 2020-12-12
+lastupdate: 2020-12-14
 list:
   - year: "2020"
     books:
+
+      - title: "하멜표류기"
+        ori_title:
+        author: 헨드릭 하멜
+        post_title:
+        cover: https://img.ridicdn.net/cover/209000281/xxlarge
+        trans:
+        pub: 스타북스 출판
+        pub_info: 2020.02.05. 전자책, 종이책 동시 출간
+        post_link:
 
       - title: "그 많던 싱아는 누가 다 먹었을까"
         ori_title:
