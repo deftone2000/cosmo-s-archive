@@ -1,7 +1,17 @@
-lastupdate: 2020-12-14
+lastupdate: 2020-12-16
 list:
   - year: "2020"
     books:
+
+      - title: "떨림과 울림"
+        ori_title:
+        author: 김상욱
+        post_title:
+        cover: https://img.ridicdn.net/cover/4097000082/xxlarge
+        trans:
+        pub: 동아시아 출판
+        pub_info: 22018.12.21. 전자책 출간
+        post_link:
 
       - title: "하멜표류기"
         ori_title:
