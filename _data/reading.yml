@@ -1,7 +1,17 @@
-lastupdate: 2020-12-16
+lastupdate: 2020-12-17
 list:
   - year: "2020"
     books:
+
+      - title: "괜찮아, 안죽어"
+        ori_title:
+        author: 김시영
+        post_title:
+        cover: https://img.ridicdn.net/cover/222002088/xxlarge
+        trans:
+        pub: 21세기북스 출판
+        pub_info: 2019.03.12. 전자책 출간
+        post_link:
 
       - title: "떨림과 울림"
         ori_title:
@@ -10,7 +20,7 @@ list:
         cover: https://img.ridicdn.net/cover/4097000082/xxlarge
         trans:
         pub: 동아시아 출판
-        pub_info: 22018.12.21. 전자책 출간
+        pub_info: 2018.12.21. 전자책 출간
         post_link:
 
       - title: "하멜표류기"
