@@ -1,7 +1,17 @@
-lastupdate: 2020-12-17
+lastupdate: 2020-12-18
 list:
   - year: "2020"
     books:
+
+      - title: "미라클 모닝"
+        ori_title:
+        author: 할 엘로드
+        post_title:
+        cover: https://img.ridicdn.net/cover/1890000017/xxlarge
+        trans: 김현수
+        pub: 한빛비즈 출판
+        pub_info: 2016.03.22. 전자책 출간
+        post_link:
 
       - title: "괜찮아, 안죽어"
         ori_title:
