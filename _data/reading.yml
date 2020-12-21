@@ -1,7 +1,17 @@
-lastupdate: 2020-12-18
+lastupdate: 2020-12-21
 list:
   - year: "2020"
     books:
+
+      - title: "젊은 베르테르의 슬픔"
+        ori_title: Die Leiden Des Jungen Werthers
+        author: 요한 볼프강 폰 괴테
+        post_title:
+        cover: https://img.ridicdn.net/cover/1153000035/xxlarge
+        trans: 최다경
+        pub: 온스토리 출판
+        pub_info: 2013.04.30. 전자책, 종이책 동시 출간
+        post_link:
 
       - title: "미라클 모닝"
         ori_title:
