@@ -1,7 +1,17 @@
-lastupdate: 2020-12-22
+lastupdate: 2020-12-23
 list:
   - year: "2020"
     books:
+
+      - title: "달러구트 꿈 백화점"
+        ori_title:
+        author: 이미예
+        post_title:
+        cover: https://img.ridicdn.net/cover/1648000309/xxlarge
+        trans:
+        pub: 북닻 출판
+        pub_info: 2020.04.21. 전자책 출간
+        post_link:
 
       - title: "남편을 죽이는 서른 가지 방법"
         ori_title:
