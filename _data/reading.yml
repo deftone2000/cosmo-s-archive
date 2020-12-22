@@ -1,7 +1,17 @@
-lastupdate: 2020-12-21
+lastupdate: 2020-12-22
 list:
   - year: "2020"
     books:
+
+      - title: "남편을 죽이는 서른 가지 방법"
+        ori_title:
+        author: 서미애
+        post_title:
+        cover: https://img.ridicdn.net/cover/1818003539/xxlarge
+        trans:
+        pub: 에브리북 출판
+        pub_info: 2018.09.17. 전자책 출간
+        post_link:
 
       - title: "젊은 베르테르의 슬픔"
         ori_title: Die Leiden Des Jungen Werthers
