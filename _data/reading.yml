@@ -1,5 +1,18 @@
-lastupdate: 2020-12-24
+lastupdate: 2021-01-03
 list:
+  - year: "2021"
+    books:
+
+      - title: "진보와 빈곤"
+        ori_title: Progress and Poverty
+        author: 헨리 조지
+        post_title:
+        cover: https://img.ridicdn.net/cover/1883000091/xxlarge
+        trans: 이종인
+        pub: 현대지성 출판
+        pub_info: 2019.05.23. 전자책, 종이책 동시 출간
+        post_link:
+
   - year: "2020"
     books:
 
