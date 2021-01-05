@@ -1,7 +1,17 @@
-lastupdate: 2021-01-03
+lastupdate: 2021-01-05
 list:
   - year: "2021"
     books:
+
+      - title: "유토피아"
+        ori_title: Utopia
+        author: 토머스 모어
+        post_title:
+        cover: https://img.ridicdn.net/cover/1480000042/xxlarge
+        trans: 권혁
+        pub: 돋을새김 출판
+        pub_info: 2015.08.10. 전자책 출간
+        post_link:
 
       - title: "진보와 빈곤"
         ori_title: Progress and Poverty
