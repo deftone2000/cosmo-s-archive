@@ -1,7 +1,18 @@
-lastupdate: 2021-01-05
+lastupdate: 2021-01-08
 list:
   - year: "2021"
     books:
+
+      - title: "그리스인 조르바"
+        ori_title: Zorba the Greek
+        author: 니코스 카잔차키스
+        post_title:
+        cover: https://img.ridicdn.net/cover/1153000029/xxlarge
+        trans: 박상은
+        pub: 온스토리 출판
+        pub_info: 2013.05.10. 전자책, 종이책 동시 출간
+        post_link:
+        star: true
 
       - title: "유토피아"
         ori_title: Utopia
