@@ -1,7 +1,27 @@
-lastupdate: 2021-01-08
+lastupdate: 2021-01-13
 list:
   - year: "2021"
     books:
+
+      - title: "이윤기의 그리스 로마 신화 1권"
+        ori_title:
+        author: 이윤기
+        post_title:
+        cover: https://img.ridicdn.net/cover/606001090/xxlarge
+        trans:
+        pub: 웅진지식하우스 출판
+        pub_info: 2000.06.26. 전자책, 종이책 동시 출간
+        post_link:
+
+      - title: "엄마의 말뚝"
+        ori_title:
+        author: 박완서
+        post_title:
+        cover: https://img.ridicdn.net/cover/754003708/xxlarge
+        trans:
+        pub: 세계사 출판
+        pub_info: 2012.07.25. 전자책 출간
+        post_link:
 
       - title: "그리스인 조르바"
         ori_title: Zorba the Greek
