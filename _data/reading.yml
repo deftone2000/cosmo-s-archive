@@ -1,7 +1,17 @@
-lastupdate: 2021-01-18
+lastupdate: 2021-01-19
 list:
   - year: "2021"
     books:
+
+      - title: "백범일지"
+        ori_title:
+        author: 김구
+        post_title:
+        cover: https://img.ridicdn.net/cover/805001651/xxlarge
+        trans:
+        pub: 범우사 출판
+        pub_info: 2000.06.05. 전자책 출간
+        post_link:
 
       - title: "지적 대화를 위한 넓고 얕은 지식 2"
         ori_title:
