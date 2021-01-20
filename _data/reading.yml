@@ -1,7 +1,17 @@
-lastupdate: 2021-01-19
+lastupdate: 2021-01-20
 list:
   - year: "2021"
     books:
+
+      - title: "이윤기의 그리스 로마 신화 2권"
+        ori_title:
+        author: 이윤기
+        post_title:
+        cover: https://img.ridicdn.net/cover/606001090/xxlarge
+        trans:
+        pub: 웅진지식하우스 출판
+        pub_info: 2000.06.26. 전자책, 종이책 동시 출간
+        post_link:
 
       - title: "백범일지"
         ori_title:
