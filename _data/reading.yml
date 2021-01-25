@@ -3,6 +3,16 @@ list:
   - year: "2021"
     books:
 
+      - title: "이윤기의 그리스 로마 신화 5권"
+        ori_title:
+        author: 이윤기
+        post_title:
+        cover: https://img.ridicdn.net/cover/606001094/xxlarge
+        trans:
+        pub: 웅진지식하우스 출판
+        pub_info: 2010.10.15. 전자책, 종이책 동시 출간
+        post_link:
+
       - title: "이윤기의 그리스 로마 신화 4권"
         ori_title:
         author: 이윤기
