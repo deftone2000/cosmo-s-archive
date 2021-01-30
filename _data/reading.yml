@@ -1,7 +1,18 @@
-lastupdate: 2021-01-25
+lastupdate: 2021-01-30
 list:
   - year: "2021"
     books:
+
+      - title: 나의 한국현대사
+        post_title: 한국, 애증의 발자취
+        ori_title:
+        cover: https://img.ridicdn.net/cover/1568000008/xxlarge
+        author: 유시민
+        trans:
+        pub: 돌베개
+        pub_info: 2014.07.07. 종이책 출간
+        post_link: /책리뷰/mykorhistory/
+        star: true
 
       - title: "이윤기의 그리스 로마 신화 5권"
         ori_title:
