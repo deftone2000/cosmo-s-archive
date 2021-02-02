@@ -4,7 +4,7 @@ list:
     books:
 
       - title: "오디세이아"
-        ori_title:
+        ori_title: Οδύσσεια
         author: 호메로스
         post_title:
         cover: https://img.ridicdn.net/cover/1480000055/xxlarge
@@ -14,7 +14,7 @@ list:
         post_link:
 
       - title: "일리아스"
-        ori_title:
+        ori_title: Ίλιάς
         author: 호메로스
         post_title:
         cover: https://img.ridicdn.net/cover/1480000046/xxlarge
