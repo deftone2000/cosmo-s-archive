@@ -3,6 +3,16 @@ list:
   - year: "2021"
     books:
 
+      - title: "오디세이아"
+        ori_title:
+        author: 호메로스
+        post_title:
+        cover: https://img.ridicdn.net/cover/1480000055/xxlarge
+        trans: 임명현
+        pub: 돋을새김 출판
+        pub_info: 2015.08.10. 전자책 출간
+        post_link:
+
       - title: "일리아스"
         ori_title:
         author: 호메로스
