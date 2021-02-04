@@ -4,8 +4,8 @@ list:
     books:
 
       - title: "공정하다는 착각"
-        post_title: The Tyranny of Merit
-        ori_title:
+        post_title:
+        ori_title: The Tyranny of Merit
         cover: https://img.ridicdn.net/cover/593000830/xxlarge
         author: 마이클 샌델
         trans: 함규진
