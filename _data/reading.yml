@@ -1,7 +1,18 @@
-lastupdate: 2021-02-05
+lastupdate: 2021-02-06
 list:
   - year: "2021"
     books:
+
+      - title: "이방인"
+        ori_title: L’Étranger
+        author: 알베르 카뮈
+        post_title:
+        cover: https://img.ridicdn.net/cover/1153000037/xxlarge
+        trans: 이수진
+        pub: 온스토리 출판
+        pub_info: 2013.05.20. 전자책, 종이책 동시 출간
+
+        post_link:
 
       - title: "공정하다는 착각"
         post_title:
