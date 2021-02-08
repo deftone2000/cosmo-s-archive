@@ -1,7 +1,17 @@
-lastupdate: 2021-02-06
+lastupdate: 2021-02-08
 list:
   - year: "2021"
     books:
+
+      - title: "지적 대화를 위한 넓고 얕은 지식 제로"
+        ori_title:
+        author: 채사장
+        post_title:
+        cover: https://img.ridicdn.net/cover/2127000058/xxlarge
+        trans:
+        pub: 웨일북 출판
+        pub_info: 2020.02.04. 전자책 출간
+        post_link:
 
       - title: "이방인"
         ori_title: L’Étranger
