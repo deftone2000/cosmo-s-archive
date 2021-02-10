@@ -7,7 +7,7 @@ list:
         ori_title:
         author: 톰 필립스
         post_title:
-        cover: https://img.ridicdn.net/cover/2127000058/xxlarge
+        cover: https://img.ridicdn.net/cover/1046000080/xxlarge
         trans: 홍한결
         pub: 윌북 출판
         pub_info: 2019.10.10. 전자책, 종이책 동시 출간
@@ -196,6 +196,7 @@ list:
         pub: 현대지성 출판
         pub_info: 2019.05.23. 전자책, 종이책 동시 출간
         post_link:
+        star: true
 
   - year: "2020"
     books:
