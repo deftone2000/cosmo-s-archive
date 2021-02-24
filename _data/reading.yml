@@ -1,7 +1,37 @@
-lastupdate: 2021-02-11
+lastupdate: 2021-02-24
 list:
   - year: "2021"
     books:
+
+      - title: "소크라테스의 변명·크리톤·파이돈·향연"
+        ori_title:
+        author: 플라톤
+        post_title:
+        cover: https://img.ridicdn.net/cover/1883000101/xxlarge
+        trans: 박문재
+        pub: 현대지성
+        pub_info: 2019.11.15. 전자책, 종이책 동시 출간
+        post_link:
+
+      - title: "유리고코로"
+        ori_title:
+        author: 누마타 마호카루
+        post_title:
+        cover: https://img.ridicdn.net/cover/2066001816/xxlarge
+        trans: 민경욱
+        pub: 소미북스
+        pub_info: 2021.01.20. 전자책, 종이책 동시 출간
+        post_link:
+
+      - title: "맹자"
+        ori_title:
+        author: 김혁
+        post_title:
+        cover: https://img.ridicdn.net/cover/606001968/xxlarge
+        trans: 홍한결
+        pub: 웅진지식하우스
+        pub_info: 2019.08.01. 전자책 출간
+        post_link:
 
       - title: "인간의 흑역사"
         ori_title:
