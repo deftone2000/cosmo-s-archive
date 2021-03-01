@@ -1,7 +1,27 @@
-lastupdate: 2021-02-24
+lastupdate: 2021-03-02
 list:
   - year: "2021"
     books:
+
+      - title: "위대한 개츠비"
+        ori_title: The Great Gatsby
+        author: F. 스콧 피츠제럴드
+        post_title:
+        cover: https://img.ridicdn.net/cover/1153000023/xxlarge
+        trans: 최성애
+        pub: 온스토리
+        pub_info: 2019.11.15. 전자책, 종이책 동시 출간
+        post_link:
+
+      - title: "명상록"
+        ori_title:
+        author: 마르쿠스 아우렐리우스
+        post_title:
+        cover: https://img.ridicdn.net/cover/1883000023/xxlarge
+        trans: 박문재
+        pub: 현대지성
+        pub_info: 2018.04.24. 전자책 출간
+        post_link:
 
       - title: "소크라테스의 변명·크리톤·파이돈·향연"
         ori_title:
