@@ -23,6 +23,17 @@ list:
         pub_info: 2020.08.31. 전자책 출간
         post_link:
 
+      - title: "칵테일, 러브, 좀비"
+        ori_title:
+        author: 조예은
+        post_title:
+        cover: https://img.ridicdn.net/cover/3620000014/xxlarge
+        trans:
+        pub: 안전가옥
+        pub_info: 2020.04.13. 전자책, 종이책 동시 출간
+
+        post_link:
+
       - title: "위대한 개츠비"
         ori_title: The Great Gatsby
         author: F. 스콧 피츠제럴드
