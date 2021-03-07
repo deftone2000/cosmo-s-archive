@@ -1,7 +1,27 @@
-lastupdate: 2021-03-02
+lastupdate: 2021-03-07
 list:
   - year: "2021"
     books:
+
+      - title: "세계 종교의 역사"
+        ori_title: A Little History of Religion
+        author: 리처드 할러웨이
+        post_title:
+        cover: https://img.ridicdn.net/cover/3665000007/xxlarge
+        trans: 이용주
+        pub: 소소의책
+        pub_info: 2018.03.27. 전자책, 종이책 동시 출간
+        post_link:
+
+      - title: "언 다르고 어 다르다"
+        ori_title:
+        author: 김철호
+        post_title:
+        cover: https://img.ridicdn.net/cover/1568000072/xxlarge
+        trans:
+        pub: 돌베개
+        pub_info: 2020.08.31. 전자책 출간
+        post_link:
 
       - title: "위대한 개츠비"
         ori_title: The Great Gatsby
