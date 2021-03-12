@@ -1,7 +1,37 @@
-lastupdate: 2021-03-07
+lastupdate: 2021-03-12
 list:
   - year: "2021"
     books:
+
+      - title: "펠로폰네소스 전쟁사"
+        ori_title:
+        author: 도널드 케이건
+        post_title:
+        cover: https://img.ridicdn.net/cover/1669000024/xxlarge
+        trans: 허승일, 박재욱
+        pub: 까치글방
+        pub_info: 2016.09.06. 전자책 출간
+        post_link:
+
+      - title: "그리스 문명"
+        ori_title:
+        author: 최혜영
+        post_title:
+        cover: https://img.ridicdn.net/cover/364000389/xxlarge
+        trans:
+        pub: (주) 살림출판사
+        pub_info: 2004.07.30. 전자책 출간
+        post_link:
+
+      - title: "시민의 불복종"
+        ori_title: Resistance to Civil Government
+        author: 헨리 데이비드 소로우
+        post_title:
+        cover: https://img.ridicdn.net/cover/1189000207/xxlarge
+        trans: 이현수
+        pub: 블루프린트
+        pub_info: 2017.08.12. 전자책 출간
+        post_link:
 
       - title: "세계 종교의 역사"
         ori_title: A Little History of Religion
@@ -31,7 +61,6 @@ list:
         trans:
         pub: 안전가옥
         pub_info: 2020.04.13. 전자책, 종이책 동시 출간
-
         post_link:
 
       - title: "위대한 개츠비"
