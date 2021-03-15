@@ -45,6 +45,25 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 펠로폰네소스 전쟁사
+peloponnesian-war:
+  - title: "저자"
+    children:
+      - title: "도널드 케이건"
+        url: https://ridibooks.com/author/69444
+  - title: "번역"
+    children:
+      - title: "허승일, 박재욱"
+  - title: "출판"
+    children:
+      - title: "까치글방"
+  - title: "출간 정보"
+    children:
+      - title: "2016.09.06. 전자책 출간"
+  - title: "추가 정보"
+    children:
+      - title: "리디북스, 약 42.5만 자"
+
 # 1984
 nineteen-eighty-four:
   - title: "저자"
