@@ -1,7 +1,37 @@
-lastupdate: 2021-03-12
+lastupdate: 2021-03-18
 list:
   - year: "2021"
     books:
+
+      - title: "그리스인 이야기 2"
+        ori_title: Civilisation Grecque
+        author: 앙드레 보나르
+        post_title:
+        cover: https://img.ridicdn.net/cover/2685000002/xxlarge
+        trans: 김희균
+        pub: (주)도서출판 책과함께
+        pub_info: 2017.01.24. 전자책 출간
+        post_link:
+
+      - title: "그리스인 이야기 1"
+        ori_title: Civilisation Grecque
+        author: 앙드레 보나르
+        post_title:
+        cover: https://img.ridicdn.net/cover/2685000003/xxlarge
+        trans: 김희균
+        pub: (주)도서출판 책과함께
+        pub_info: 2017.01.24. 전자책 출간
+        post_link:
+
+      - title: "도덕경"
+        ori_title:
+        author: 노자
+        post_title:
+        cover: https://img.ridicdn.net/cover/1883000082/xxlarge
+        trans: 소준섭
+        pub: 현대지성
+        pub_info: 2018.12.24. 전자책 출간
+        post_link:
 
       - title: "펠로폰네소스 전쟁사"
         ori_title:
