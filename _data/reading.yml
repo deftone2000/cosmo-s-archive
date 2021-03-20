@@ -1,7 +1,27 @@
-lastupdate: 2021-03-18
+lastupdate: 2021-03-21
 list:
   - year: "2021"
     books:
+
+      - title: "전환시대의 논리"
+        ori_title:
+        author: 리영희
+        post_title:
+        cover: https://image.aladin.co.kr/product/12/89/cover500/8936410040_1.jpg
+        trans:
+        pub: 창비
+        pub_info: 초판출간 1990년
+        post_link:
+
+      - title: "담론"
+        ori_title:
+        author: 신영복
+        post_title:
+        cover: https://img.ridicdn.net/cover/1568000034/xxlarge
+        trans:
+        pub: 돌베개
+        pub_info: 2015.04.27. 전자책 출간
+        post_link:
 
       - title: "그리스인 이야기 2"
         ori_title: Civilisation Grecque
@@ -104,7 +124,7 @@ list:
         post_link:
 
       - title: "명상록"
-        ori_title:
+        ori_title: Τὰ εἰς ἑαυτόν
         author: 마르쿠스 아우렐리우스
         post_title:
         cover: https://img.ridicdn.net/cover/1883000023/xxlarge
