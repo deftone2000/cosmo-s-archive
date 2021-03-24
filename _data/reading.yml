@@ -1,7 +1,17 @@
-lastupdate: 2021-03-21
+lastupdate: 2021-03-24
 list:
   - year: "2021"
     books:
+
+      - title: "그리스인 이야기 3"
+        ori_title: Civilisation Grecque
+        author: 앙드레 보나르
+        post_title:
+        cover: https://img.ridicdn.net/cover/2685000002/xxlarge
+        trans: 김희균
+        pub: (주)도서출판 책과함께
+        pub_info: 2017.01.24. 전자책 출간
+        post_link:
 
       - title: "전환시대의 논리"
         ori_title:
