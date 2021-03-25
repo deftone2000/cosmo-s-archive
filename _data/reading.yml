@@ -1,7 +1,17 @@
-lastupdate: 2021-03-24
+lastupdate: 2021-03-26
 list:
   - year: "2021"
     books:
+
+      - title: "고대 그리스의 영광과 몰락"
+        ori_title:
+        author: 김진경
+        post_title:
+        cover: http://image.yes24.com/momo/TopCate77/MidCate02/7610764.jpg
+        trans:
+        pub: 안티쿠스
+        pub_info: 2009.10.03. 전자책 출간
+        post_link:
 
       - title: "그리스인 이야기 3"
         ori_title: Civilisation Grecque
