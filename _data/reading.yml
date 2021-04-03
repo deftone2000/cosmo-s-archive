@@ -1,7 +1,26 @@
-lastupdate: 2021-03-26
+lastupdate: 2021-04-03
 list:
   - year: "2021"
     books:
+      - title: "좌파 고양이를 부탁해"
+        ori_title:
+        author: 김봄
+        post_title:
+        cover: https://img.ridicdn.net/cover/754030014/xxlarge#1
+        trans:
+        pub: 걷는사람
+        pub_info: 2020.11.05. 전자책 출간
+        post_link:
+
+      - title: "고대 그리스의 일상 생활"
+        ori_title:
+        author: 로베르 플라실리에르
+        post_title:
+        cover: http://image.yes24.com/momo/TopCate42/MidCate02/4119516.jpg
+        trans: 심현정
+        pub: 우물이있는집
+        pub_info: 2004년 06월 01일
+        post_link:
 
       - title: "고대 그리스의 영광과 몰락"
         ori_title:
