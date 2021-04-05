@@ -45,6 +45,25 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 고대 그리스사
+ancient-greece:
+  - title: "저자"
+    children:
+      - title: "토마스 R. 마틴"
+        url:
+  - title: "번역"
+    children:
+      - title: "이종인"
+  - title: "출판"
+    children:
+      - title: "책과함께"
+  - title: "출간 정보"
+    children:
+      - title: "2015.10.15 출간"
+  - title: "추가 정보"
+    children:
+      - title: "488쪽"
+
 # 펠로폰네소스 전쟁사
 peloponnesian-war:
   - title: "저자"
