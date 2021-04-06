@@ -2,6 +2,16 @@ lastupdate: 2021-04-03
 list:
   - year: "2021"
     books:
+      - title: "고대 그리스사"
+        ori_title:
+        author: 토머스 R. 마틴
+        post_title: 선사시대에서 헬레니즘 시대까지
+        cover:
+        trans: 이종인
+        pub: 책과함께
+        pub_info: 2015년 10월 15일
+        post_link: https://deftone2000.github.io/책리뷰/ancient-greece/
+
       - title: "좌파 고양이를 부탁해"
         ori_title:
         author: 김봄
@@ -105,12 +115,12 @@ list:
       - title: "펠로폰네소스 전쟁사"
         ori_title: The Peloponnesian War
         author: 도널드 케이건
-        post_title:
+        post_title: 그리스 내전의 참상
         cover: https://img.ridicdn.net/cover/1669000024/xxlarge
         trans: 허승일, 박재욱
         pub: 까치글방
         pub_info: 2016.09.06. 전자책 출간
-        post_link:
+        post_link: https://deftone2000.github.io/책리뷰/peloponnesian-war/
 
       - title: "그리스 문명"
         ori_title:
