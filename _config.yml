@@ -98,6 +98,9 @@ author:
   bio              : "바쁜 일상 중에도 마음을 비우고 한가롭게 책을 읽으려 노력합니다. 효과적인 삶을 핑계로 게으른 인생을 선택한 엔지니어. 독서와 코스모스를 사랑하는 지구인이 이곳에 흔적을 남기고 있습니다."
   location         : "Seoul, Korea"
   links:
+    - label: "Notion"
+      icon: "fa fa-book"
+      url: "https://www.notion.so/COSMO-S-Lib-c45a9bf7d8f846669615e03102b6244a"
     - label: "Lib V1.0"
       icon: "fas fa-fw fa-link"
       url: "https://deftone2000.github.io/cosmos-lib-v01"
