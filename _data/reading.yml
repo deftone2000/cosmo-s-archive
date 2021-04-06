@@ -3,14 +3,14 @@ list:
   - year: "2021"
     books:
       - title: "고대 그리스사"
-        ori_title:
+        ori_title: Ancient Greece
         author: 토머스 R. 마틴
         post_title: 선사시대에서 헬레니즘 시대까지
         cover:
         trans: 이종인
         pub: 책과함께
         pub_info: 2015년 10월 15일
-        post_link: https://deftone2000.github.io/책리뷰/ancient-greece/
+        post_link: /책리뷰/ancient-greece/
 
       - title: "좌파 고양이를 부탁해"
         ori_title:
@@ -120,7 +120,7 @@ list:
         trans: 허승일, 박재욱
         pub: 까치글방
         pub_info: 2016.09.06. 전자책 출간
-        post_link: https://deftone2000.github.io/책리뷰/peloponnesian-war/
+        post_link: /책리뷰/peloponnesian-war/
 
       - title: "그리스 문명"
         ori_title:
