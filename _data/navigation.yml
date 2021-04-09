@@ -45,6 +45,25 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 페르시아 전쟁
+the-persian-fire:
+  - title: "저자"
+    children:
+      - title: "톰 홀랜드"
+        url:
+  - title: "번역"
+    children:
+      - title: "이순호"
+  - title: "출판"
+    children:
+      - title: "책과함께"
+  - title: "출간 정보"
+    children:
+      - title: "2006-12-11 출간"
+  - title: "추가 정보"
+    children:
+      - title: "644쪽"
+
 # 고대 그리스사
 ancient-greece:
   - title: "저자"
