@@ -1,7 +1,17 @@
-lastupdate: 2021-04-03
+lastupdate: 2021-04-09
 list:
   - year: "2021"
     books:
+      - title: "페르시아 전쟁"
+        ori_title: PERSIAN FIRE
+        author: 톰 홀랜드
+        post_title:
+        cover:
+        trans: 이순호
+        pub: 책과함께
+        pub_info: 2006년 12월 09일
+        post_link:
+
       - title: "고대 그리스사"
         ori_title: Ancient Greece
         author: 토머스 R. 마틴
