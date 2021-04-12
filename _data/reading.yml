@@ -2,15 +2,25 @@ lastupdate: 2021-04-09
 list:
   - year: "2021"
     books:
+      - title: "살라미스 해전"
+        ori_title: The Battle of Salamis
+        author: 배리 스트라우스
+        post_title:
+        cover:
+        trans: 이순호
+        pub: 갈라파고스
+        pub_info:
+        post_link:
+
       - title: "페르시아 전쟁"
         ori_title: PERSIAN FIRE
         author: 톰 홀랜드
-        post_title:
+        post_title: 두 문명의 만남, 갈등, 대결 그리고 결별
         cover:
         trans: 이순호
         pub: 책과함께
         pub_info: 2006년 12월 09일
-        post_link:
+        post_link: /책리뷰/the-persian-fire/
 
       - title: "고대 그리스사"
         ori_title: Ancient Greece
