@@ -45,6 +45,25 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 살라미스 해전
+the-battle-of-salamis:
+  - title: "저자"
+    children:
+      - title: "배리 스트라우스"
+        url:
+  - title: "번역"
+    children:
+      - title: "이순호"
+  - title: "출판"
+    children:
+      - title: "갈라파고스"
+  - title: "출간 정보"
+    children:
+      - title: "2006-01-03 출간"
+  - title: "추가 정보"
+    children:
+      - title: "451쪽"
+
 # 페르시아 전쟁
 the-persian-fire:
   - title: "저자"
