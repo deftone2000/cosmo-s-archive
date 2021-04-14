@@ -1,7 +1,18 @@
-lastupdate: 2021-04-09
+lastupdate: 2021-04-14
 list:
   - year: "2021"
     books:
+
+      - title: "어떻게 민주주의는 무너지는가"
+        ori_title: How Democracies Die
+        author: 스티븐 레비츠키, 대니얼 지블랫
+        post_title:
+        cover:
+        trans: 박세연
+        pub: 어크로스
+        pub_info: 2018.10.25. 전자책 출간
+        post_link:
+
       - title: "살라미스 해전"
         ori_title: The Battle of Salamis
         author: 배리 스트라우스
