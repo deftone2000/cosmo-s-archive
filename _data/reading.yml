@@ -42,6 +42,7 @@ list:
         pub: 책과함께
         pub_info: 2015년 10월 15일
         post_link: /책리뷰/ancient-greece/
+        star: true
 
       - title: "좌파 고양이를 부탁해"
         ori_title:
@@ -102,6 +103,7 @@ list:
         pub: 창비
         pub_info: 초판출간 1990년
         post_link:
+        star: true
 
       - title: "담론"
         ori_title:
@@ -112,6 +114,7 @@ list:
         pub: 돌베개
         pub_info: 2015.04.27. 전자책 출간
         post_link:
+        star: true
 
       - title: "그리스인 이야기 2"
         ori_title: Civilisation Grecque
@@ -182,6 +185,7 @@ list:
         pub: 소소의책
         pub_info: 2018.03.27. 전자책, 종이책 동시 출간
         post_link:
+        star: true
 
       - title: "언 다르고 어 다르다"
         ori_title:
