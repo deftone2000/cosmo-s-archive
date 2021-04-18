@@ -1,7 +1,17 @@
-lastupdate: 2021-04-14
+lastupdate: 2021-04-19
 list:
   - year: "2021"
     books:
+
+      - title: "말, 바퀴, 언어"
+        ori_title: The Horse, the Wheel, and Language
+        author: 데이비드 W. 앤서니
+        post_title:
+        cover:
+        trans: 공원국
+        pub: 에코리브르
+        pub_info:
+        post_link:
 
       - title: "어떻게 민주주의는 무너지는가"
         ori_title: How Democracies Die
