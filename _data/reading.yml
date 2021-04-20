@@ -1,7 +1,17 @@
-lastupdate: 2021-04-19
+lastupdate: 2021-04-20
 list:
   - year: "2021"
     books:
+
+      - title: "위대한 공존"
+        ori_title: The Intimate Bond
+        author: 브라이언 M. 페이건
+        post_title:
+        cover:
+        trans: 김정은
+        pub: 반니
+        pub_info:
+        post_link:
 
       - title: "말, 바퀴, 언어"
         ori_title: The Horse, the Wheel, and Language
