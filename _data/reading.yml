@@ -1,7 +1,17 @@
-lastupdate: 2021-04-20
+lastupdate: 2021-04-28
 list:
   - year: "2021"
     books:
+
+      - title: "신통기"
+        ori_title: Theogonia
+        author: 헤시오도스
+        post_title:
+        cover:
+        trans: 김원익
+        pub: 민음사
+        pub_info: 2003-11-25
+        post_link:
 
       - title: "위대한 공존"
         ori_title: The Intimate Bond
