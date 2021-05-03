@@ -3,8 +3,28 @@ list:
   - year: "2021"
     books:
 
-      - title: "신통기"
+      - title: "신들의 계보"
         ori_title: Theogonia
+        author: 헤시오도스
+        post_title:
+        cover:
+        trans: 천병희
+        pub: 숲
+        pub_info: 2009-09-15
+        post_link:
+
+      - title: "지중해의 기억"
+        ori_title: Les-Memories de la Mediterranee
+        author: 페르낭 브로델
+        post_title:
+        cover:
+        trans: 강주헌
+        pub: 한길사
+        pub_info: 2012-02-10
+        post_link:
+
+      - title: "신통기"
+        ori_title:
         author: 헤시오도스
         post_title:
         cover:
