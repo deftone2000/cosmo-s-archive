@@ -3,6 +3,16 @@ list:
   - year: "2021"
     books:
 
+      - title: "천 개의 파랑"
+        ori_title:
+        author: 천선란
+        post_title:
+        cover:
+        trans:
+        pub: 허블
+        pub_info: 2020-08-19
+        post_link:
+
       - title: "신들의 계보"
         ori_title: Theogonia
         author: 헤시오도스
