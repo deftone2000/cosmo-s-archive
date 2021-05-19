@@ -1,7 +1,17 @@
-lastupdate: 2021-05-10
+lastupdate: 2021-05-20
 list:
   - year: "2021"
     books:
+
+      - title: "향모를 땋으며"
+        ori_title:
+        author: 로빈 월 키머러
+        post_title:
+        cover:
+        trans: 노승영
+        pub: 에이도스
+        pub_info: 2020-01-17
+        post_link:
 
       - title: "프로테스탄트 윤리와 자본주의 정신"
         ori_title:
