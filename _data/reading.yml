@@ -3,6 +3,26 @@ list:
   - year: "2021"
     books:
 
+      - title: "알렉산드로스, 제국의 눈물"
+        ori_title: Ghost on the Throne
+        author: 제임스 롬
+        post_title:
+        cover:
+        trans: 정영목
+        pub: 섬섬
+        pub_info: 2015-11-15
+        post_link:
+
+      - title: "알렉산드로스 대왕 원정기"
+        ori_title: Anabasis Alexandrou
+        author: 키우스 플라위우스 아리아노스
+        post_title:
+        cover:
+        trans: 윤진
+        pub: 아카넷
+        pub_info: 2017-07-27
+        post_link:
+
       - title: "향모를 땋으며"
         ori_title: Braiding Sweetgrass
         author: 로빈 월 키머러
