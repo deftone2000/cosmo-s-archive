@@ -45,6 +45,25 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 호밀밭의 파수꾼
+the-catcher-in-the-rye:
+  - title: "저자"
+    children:
+      - title: "제롬 데이비드 샐린저"
+        url:
+  - title: "번역"
+    children:
+      - title: "공경희"
+  - title: "출판"
+    children:
+      - title: "민음사"
+  - title: "출간 정보"
+    children:
+      - title: "2001-05-30 출간"
+  - title: "추가 정보"
+    children:
+      - title: "279쪽"
+
 # 살라미스 해전
 the-battle-of-salamis:
   - title: "저자"

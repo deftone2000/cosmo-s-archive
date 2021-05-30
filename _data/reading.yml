@@ -1,7 +1,17 @@
-lastupdate: 2021-05-20
+lastupdate: 2021-05-30
 list:
   - year: "2021"
     books:
+
+      - title: "호밀밭의 파수꾼"
+        ori_title: The Catcher in the Rye
+        author: 제롬 데이비드 샐린저
+        post_title:
+        cover:
+        trans: 공경희
+        pub: 민음사
+        pub_info: 2001-05-30
+        post_link:
 
       - title: "알렉산드로스, 제국의 눈물"
         ori_title: Ghost on the Throne
