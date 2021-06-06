@@ -1,7 +1,17 @@
-lastupdate: 2021-05-30
+lastupdate: 2021-06-06
 list:
   - year: "2021"
     books:
+
+      - title: "총, 균, 쇠"
+        ori_title: Guns, Germs, And Steel
+        author: 재레드 다이아몬드
+        post_title:
+        cover:
+        trans: 김진준
+        pub: 문학사상
+        pub_info: 2013-03-04
+        post_link:
 
       - title: "호밀밭의 파수꾼"
         ori_title: The Catcher in the Rye
