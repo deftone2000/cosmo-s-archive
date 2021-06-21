@@ -45,6 +45,25 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 장미의 이름
+il-nome-della-rosa:
+  - title: "저자"
+    children:
+      - title: "움베르트 에코"
+        url:
+  - title: "번역"
+    children:
+      - title: "이윤기"
+  - title: "출판"
+    children:
+      - title: "열린책들"
+  - title: "출간 정보"
+    children:
+      - title: "2018-07-25 출간"
+  - title: "추가 정보"
+    children:
+      - title: "912쪽"
+
 # 호밀밭의 파수꾼
 the-catcher-in-the-rye:
   - title: "저자"

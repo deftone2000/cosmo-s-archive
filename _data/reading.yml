@@ -3,6 +3,26 @@ list:
   - year: "2021"
     books:
 
+      - title: "장미의 이름"
+        ori_title: Il Nome della Rosa
+        author: 움베르토 에코
+        post_title: 종교에서 과학으로
+        cover:
+        trans: 이윤기
+        pub: 열린책들
+        pub_info:
+        post_link: /책리뷰/il-nome-della-rosa/
+
+      - title: "리바이어던"
+        ori_title: Leviathan
+        author: 토마스 홉스
+        post_title:
+        cover:
+        trans: 신재일
+        pub: 서해문집
+        pub_info:
+        post_link:
+
       - title: "플라톤 국가 강의"
         ori_title:
         author: 이종환
@@ -26,7 +46,7 @@ list:
       - title: "호밀밭의 파수꾼"
         ori_title: The Catcher in the Rye
         author: 제롬 데이비드 샐린저
-        post_title:
+        post_title: 마지막 일탈
         cover:
         trans: 공경희
         pub: 민음사
