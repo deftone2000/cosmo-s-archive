@@ -45,6 +45,25 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 군주론
+il-principe:
+  - title: "저자"
+    children:
+      - title: "니콜로 마키아벨리"
+        url:
+  - title: "번역"
+    children:
+      - title: "강정인,김경희"
+  - title: "출판"
+    children:
+      - title: "까치(까치글방)"
+  - title: "출간 정보"
+    children:
+      - title: "2015-02-10 출간"
+  - title: "추가 정보"
+    children:
+      - title: "267쪽"
+
 # 장미의 이름
 il-nome-della-rosa:
   - title: "저자"
