@@ -45,6 +45,25 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 로빈슨 크루소
+robinson-crusoe:
+  - title: "저자"
+    children:
+      - title: "다니엘 디포"
+        url:
+  - title: "번역"
+    children:
+      - title: "류경희"
+  - title: "출판"
+    children:
+      - title: "열린책들"
+  - title: "출간 정보"
+    children:
+      - title: "2011-03-20 출간"
+  - title: "추가 정보"
+    children:
+      - title: "454쪽"
+
 # 군주론
 il-principe:
   - title: "저자"

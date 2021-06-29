@@ -4,6 +4,16 @@ list:
   - year: "2021"
     books:
 
+      - title: "세계의 역사 1"
+        ori_title:
+        author: 윌리엄 맥닐
+        post_title:
+        cover:
+        trans: 김우영
+        pub: 이산
+        pub_info: 2011-03-20
+        post_link:
+
       - title: "로빈슨 크루소"
         ori_title:
         author: 다니엘 디포
@@ -12,7 +22,7 @@ list:
         trans: 류경희
         pub: 열린책들
         pub_info:
-        post_link:
+        post_link: /책리뷰/robinson-crusoe/
 
       - title: "군주론"
         ori_title: Il Principe
@@ -21,7 +31,7 @@ list:
         cover:
         trans: 강정인,김경희
         pub: 까치(까치글방)
-        pub_info:
+        pub_info: 2015-02-10
         post_link: /책리뷰/il-principe/
 
       - title: "장미의 이름"
