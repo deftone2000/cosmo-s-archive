@@ -1,8 +1,58 @@
-lastupdate: 2021-06-28
+lastupdate: 2021-07-14
 
 list:
   - year: "2021"
     books:
+
+      - title: "법의 정신"
+        ori_title:
+        author: 몽테스키외
+        post_title:
+        cover:
+        trans: 이재형
+        pub: 문예출판사
+        pub_info:
+        post_link:
+
+      - title: "곰브리치 세계사"
+        ori_title:
+        author: 에른스트 H. 곰브리치
+        post_title:
+        cover:
+        trans: 박민수
+        pub: 비룡소
+        pub_info:
+        post_link:
+
+      - title: "세상에서 가장 짧은 세계사"
+        ori_title:
+        author: 존 허스트
+        post_title:
+        cover:
+        trans: 김종원
+        pub: 위즈덤하우스
+        pub_info:
+        post_link:
+
+      - title: "공부머리 독서법"
+        ori_title:
+        author: 최승필
+        post_title:
+        cover:
+        trans:
+        pub: 책그루
+        pub_info:
+        post_link:
+
+      - title: "조국의 시간"
+        ori_title:
+        author: 조국
+        post_title:
+        cover:
+        trans:
+        pub: 한길사
+        pub_info:
+        post_link:
 
       - title: "세계의 역사 1"
         ori_title:
