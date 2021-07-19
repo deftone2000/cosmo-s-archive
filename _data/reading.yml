@@ -4,6 +4,26 @@ list:
   - year: "2021"
     books:
 
+      - title: "내내 읽다가 늙었습니다"
+        ori_title:
+        author: 몽테스키외
+        post_title:
+        cover:
+        trans: 박홍규, 박지원
+        pub: 도서출판 사이드웨이
+        pub_info:
+        post_link:
+
+      - title: "에밀"
+        ori_title:
+        author: 장 자크 루소
+        post_title:
+        cover:
+        trans: 이환
+        pub: 돋을새김
+        pub_info:
+        post_link:
+
       - title: "법의 정신"
         ori_title:
         author: 몽테스키외
