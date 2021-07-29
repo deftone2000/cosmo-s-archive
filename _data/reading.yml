@@ -4,6 +4,26 @@ list:
   - year: "2021"
     books:
 
+      - title: "월든"
+        ori_title: Walden
+        author: 헨리 데이비드 소로우
+        post_title:
+        cover:
+        trans: 강승영
+        pub: 은행나무
+        pub_info:
+        post_link:
+
+      - title: "고대 로마사"
+        ori_title: Ancient Rome
+        author: 토마스 R. 마틴
+        post_title:
+        cover:
+        trans: 이종인
+        pub: 책과함께
+        pub_info:
+        post_link:
+
       - title: "내내 읽다가 늙었습니다"
         ori_title:
         author: 박홍규, 박지원
