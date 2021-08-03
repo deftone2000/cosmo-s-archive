@@ -4,6 +4,26 @@ list:
   - year: "2021"
     books:
 
+      - title: "스토너"
+        ori_title:
+        author: 존 윌리엄스
+        post_title:
+        cover:
+        trans:
+        pub:
+        pub_info:
+        post_link:
+
+      - title: "인간 실격"
+        ori_title:
+        author: 다자이 오사무
+        post_title:
+        cover:
+        trans:
+        pub:
+        pub_info:
+        post_link:
+
       - title: "월든"
         ori_title: Walden
         author: 헨리 데이비드 소로우
