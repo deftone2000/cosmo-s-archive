@@ -1,8 +1,18 @@
-lastupdate: 2021-07-14
+lastupdate: 2021-08-04
 
 list:
   - year: "2021"
     books:
+
+      - title: "아침에는 죽음을 생각하는 것이 좋다"
+        ori_title:
+        author: 김영민
+        post_title:
+        cover:
+        trans:
+        pub:
+        pub_info:
+        post_link:
 
       - title: "스토너"
         ori_title:
