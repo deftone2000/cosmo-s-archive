@@ -23,6 +23,7 @@ list:
         pub:
         pub_info:
         post_link:
+        star: true
 
       - title: "인간 실격"
         ori_title:
@@ -63,6 +64,7 @@ list:
         pub: 도서출판 사이드웨이
         pub_info:
         post_link:
+        star: true
 
       - title: "에밀"
         ori_title:
@@ -93,6 +95,7 @@ list:
         pub: 비룡소
         pub_info:
         post_link:
+        star: true
 
       - title: "세상에서 가장 짧은 세계사"
         ori_title:
@@ -183,6 +186,7 @@ list:
         pub: 김영사
         pub_info: 2019-05-03
         post_link:
+        star: true
 
       - title: "총, 균, 쇠"
         ori_title: Guns, Germs, And Steel
@@ -193,6 +197,7 @@ list:
         pub: 문학사상
         pub_info: 2013-03-04
         post_link:
+        star: true
 
       - title: "호밀밭의 파수꾼"
         ori_title: The Catcher in the Rye
@@ -233,6 +238,7 @@ list:
         pub: 에이도스
         pub_info: 2020-01-17
         post_link:
+        star: true
 
       - title: "위대한 바다"
         ori_title: The Great Sea
@@ -303,6 +309,7 @@ list:
         pub: 반디
         pub_info:
         post_link:
+        star: true
 
       - title: "위대한 공존"
         ori_title: The Intimate Bond
