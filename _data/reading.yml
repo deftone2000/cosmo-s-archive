@@ -1,8 +1,29 @@
-lastupdate: 2021-08-04
+lastupdate: 2021-08-08
 
 list:
   - year: "2021"
     books:
+
+      - title: "멋진 신세계"
+        ori_title:
+        author: 올더스 헉슬리
+        post_title:
+        cover:
+        trans:
+        pub:
+        pub_info:
+        post_link:
+        star: true
+
+      - title: "미친 세상을 이해하는 척하는 방법"
+        ori_title: Pape Satàn Aleppe
+        author: 움베르토 에코
+        post_title:
+        cover:
+        trans:
+        pub:
+        pub_info:
+        post_link:
 
       - title: "아침에는 죽음을 생각하는 것이 좋다"
         ori_title:
