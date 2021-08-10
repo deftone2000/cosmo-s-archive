@@ -1,15 +1,25 @@
-lastupdate: 2021-08-08
+lastupdate: 2021-08-10
 
 list:
   - year: "2021"
     books:
+
+      - title: "외로움의 철학"
+        ori_title:
+        author: 라르스 스벤젠
+        post_title:
+        cover:
+        trans: 이세진
+        pub:
+        pub_info:
+        post_link:
 
       - title: "멋진 신세계"
         ori_title:
         author: 올더스 헉슬리
         post_title:
         cover:
-        trans:
+        trans: 안정효
         pub:
         pub_info:
         post_link:
@@ -20,7 +30,7 @@ list:
         author: 움베르토 에코
         post_title:
         cover:
-        trans:
+        trans: 박종대
         pub:
         pub_info:
         post_link:
