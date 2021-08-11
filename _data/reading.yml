@@ -1,8 +1,18 @@
-lastupdate: 2021-08-10
+lastupdate: 2021-08-11
 
 list:
   - year: "2021"
     books:
+
+      - title: "키르케"
+        ori_title:
+        author: 매들린 밀러
+        post_title:
+        cover:
+        trans: 이은선
+        pub:
+        pub_info:
+        post_link:
 
       - title: "외로움의 철학"
         ori_title:
