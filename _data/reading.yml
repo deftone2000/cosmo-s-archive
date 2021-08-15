@@ -4,6 +4,16 @@ list:
   - year: "2021"
     books:
 
+      - title: "연금술사"
+        ori_title: Alquimiste
+        author: 파울로 코엘료
+        post_title:
+        cover:
+        trans: 최정수
+        pub:
+        pub_info:
+        post_link:
+
       - title: "돈으로 살 수 없는 것들"
         ori_title:
         author: 마이클 샌델
