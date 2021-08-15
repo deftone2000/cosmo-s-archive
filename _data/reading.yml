@@ -1,8 +1,18 @@
-lastupdate: 2021-08-11
+lastupdate: 2021-08-15
 
 list:
   - year: "2021"
     books:
+
+      - title: "돈으로 살 수 없는 것들"
+        ori_title:
+        author: 마이클 샌델
+        post_title:
+        cover:
+        trans:
+        pub:
+        pub_info:
+        post_link:
 
       - title: "키르케"
         ori_title:
