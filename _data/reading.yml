@@ -43,6 +43,7 @@ list:
         pub:
         pub_info:
         post_link:
+        star: true
 
       - title: "키르케"
         ori_title:
