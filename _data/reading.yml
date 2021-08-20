@@ -1,8 +1,18 @@
-lastupdate: 2021-08-15
+lastupdate: 2021-08-21
 
 list:
   - year: "2021"
     books:
+
+      - title: "처음 읽는 로마의 역사"
+        ori_title:
+        author: 사이먼 베이커
+        post_title:
+        cover:
+        trans: 김병화
+        pub:
+        pub_info:
+        post_link:
 
       - title: "라쇼몽"
         ori_title: 羅生門
