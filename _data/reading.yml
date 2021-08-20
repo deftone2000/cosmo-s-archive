@@ -4,6 +4,26 @@ list:
   - year: "2021"
     books:
 
+      - title: "라쇼몽"
+        ori_title: 羅生門
+        author: 아쿠타가와 류노스케
+        post_title:
+        cover:
+        trans: 김영식
+        pub:
+        pub_info:
+        post_link:
+
+      - title: "지식 편의점"
+        ori_title:
+        author: 이시한
+        post_title:
+        cover:
+        trans:
+        pub:
+        pub_info:
+        post_link:
+
       - title: "연금술사"
         ori_title: Alquimiste
         author: 파울로 코엘료
