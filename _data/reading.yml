@@ -1,8 +1,28 @@
-lastupdate: 2021-08-21
+lastupdate: 2021-09-04
 
 list:
   - year: "2021"
     books:
+
+      - title: "책 읽는 뇌"
+        ori_title:
+        author: 매리언 울프
+        post_title:
+        cover:
+        trans: 이희수
+        pub:
+        pub_info:
+        post_link:
+
+      - title: "몸젠의 로마사 제1권"
+        ori_title:
+        author: 테오도어 몸젠
+        post_title:
+        cover:
+        trans: 김남우, 김동훈, 성중모
+        pub:
+        pub_info:
+        post_link:
 
       - title: "처음 읽는 로마의 역사"
         ori_title:
