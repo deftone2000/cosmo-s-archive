@@ -1,8 +1,28 @@
-lastupdate: 2021-09-04
+lastupdate: 2021-09-07
 
 list:
   - year: "2021"
     books:
+
+      - title: "시지프 신화"
+        ori_title:
+        author: 알베르 카뮈
+        post_title:
+        cover:
+        trans: 김화영
+        pub:
+        pub_info:
+        post_link:
+
+      - title: "빅 슬립"
+        ori_title:
+        author: 레이먼드 챈들러
+        post_title:
+        cover:
+        trans: 김진준
+        pub:
+        pub_info:
+        post_link:
 
       - title: "책 읽는 뇌"
         ori_title:
