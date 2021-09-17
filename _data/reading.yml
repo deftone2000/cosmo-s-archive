@@ -1,8 +1,18 @@
-lastupdate: 2021-09-14
+lastupdate: 2021-09-17
 
 list:
   - year: "2021"
     books:
+
+      - title: "다크호스"
+        ori_title:
+        author: 토드 로즈, 오기 오가스
+        post_title:
+        cover:
+        trans: 정미나
+        pub:
+        pub_info:
+        post_link:
 
       - title: "1만 시간의 재발견"
         ori_title:
