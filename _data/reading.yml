@@ -1,8 +1,18 @@
-lastupdate: 2021-09-17
+lastupdate: 2021-09-21
 
 list:
   - year: "2021"
     books:
+
+      - title: "페스트"
+        ori_title:
+        author: 알베르 카뮈
+        post_title:
+        cover:
+        trans: 김화영
+        pub:
+        pub_info:
+        post_link:
 
       - title: "다크호스"
         ori_title:
