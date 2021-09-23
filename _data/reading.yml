@@ -1,8 +1,18 @@
-lastupdate: 2021-09-21
+lastupdate: 2021-09-23
 
 list:
   - year: "2021"
     books:
+
+      - title: "몰입 flow"
+        ori_title:
+        author: 미하이 칙센트미하이
+        post_title:
+        cover:
+        trans: 최인수
+        pub:
+        pub_info:
+        post_link:
 
       - title: "페스트"
         ori_title:
