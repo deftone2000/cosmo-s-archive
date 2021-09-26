@@ -9,7 +9,7 @@ header:
 author_profile: false
 sidebar:
   - title: 1만 시간의 재발견
-    text: Peak: Secrets from the New Science of Expertise
+    text: Secrets from the New Science of Expertise
     image: https://img.ridicdn.net/cover/1780000045/xxlarge?dpi=xxhdpi#1
     nav: science-of-expertise
 category:
