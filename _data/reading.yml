@@ -12,7 +12,7 @@ list:
         trans:
         pub:
         pub_info:
-        post_link: /책리뷰/science-of-expertise/
+        post_link:
 
       - title: "몰입 flow"
         ori_title:
@@ -53,7 +53,7 @@ list:
         trans: 강혜정
         pub:
         pub_info:
-        post_link:
+        post_link: /책리뷰/science-of-expertise/
         star: true
 
       - title: "좋아하는 곳에 살고 있나요"
