@@ -1,8 +1,18 @@
-lastupdate: 2021-09-26
+lastupdate: 2021-09-28
 
 list:
   - year: "2021"
     books:
+
+      - title: "내일의 연인들"
+        ori_title:
+        author: 정영수
+        post_title:
+        cover:
+        trans:
+        pub:
+        pub_info:
+        post_link:
 
       - title: "헌법의 풍경"
         ori_title:
