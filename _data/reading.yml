@@ -1,8 +1,28 @@
-lastupdate: 2021-09-28
+lastupdate: 2021-10-02
 
 list:
   - year: "2021"
     books:
+
+      - title: "날씨가 좋으면 찾아가겠어요"
+        ori_title:
+        author: 이도우
+        post_title:
+        cover:
+        trans:
+        pub:
+        pub_info:
+        post_link:
+
+      - title: "시와 산책"
+        ori_title:
+        author: 한정원
+        post_title:
+        cover:
+        trans:
+        pub:
+        pub_info:
+        post_link:
 
       - title: "내일의 연인들"
         ori_title:
