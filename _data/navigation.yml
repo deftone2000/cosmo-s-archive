@@ -45,6 +45,22 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 사람, 장소, 환대
+person-place-hospitality:
+  - title: "저자"
+    children:
+      - title: "김현경"
+        url:
+  - title: "출판"
+    children:
+      - title: "문학과지성사"
+  - title: "출간 정보"
+    children:
+      - title: "2015-03-31 출간"
+  - title: "추가 정보"
+    children:
+      - title: "297쪽"
+
 # 1만 시간의 재발견
 science-of-expertise:
   - title: "저자"
