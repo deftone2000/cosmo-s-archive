@@ -23,6 +23,7 @@ list:
         pub:
         pub_info:
         post_link:
+        star: true
 
       - title: "날씨가 좋으면 찾아가겠어요"
         ori_title:
@@ -43,6 +44,7 @@ list:
         pub:
         pub_info:
         post_link:
+        star: true
 
       - title: "내일의 연인들"
         ori_title:
