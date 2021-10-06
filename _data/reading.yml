@@ -11,8 +11,8 @@ list:
         cover:
         trans:
         pub:
-        pub_info: /책리뷰/person-place-hospitality/
-        post_link:
+        pub_info:
+        post_link: /책리뷰/person-place-hospitality/
 
       - title: "슬픔을 공부하는 슬픔"
         ori_title:
