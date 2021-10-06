@@ -1,8 +1,28 @@
-lastupdate: 2021-10-02
+lastupdate: 2021-10-06
 
 list:
   - year: "2021"
     books:
+
+      - title: "사람, 장소, 환대"
+        ori_title:
+        author: 김현경
+        post_title:
+        cover:
+        trans:
+        pub:
+        pub_info:
+        post_link:
+
+      - title: "슬픔을 공부하는 슬픔"
+        ori_title:
+        author: 신형철
+        post_title:
+        cover:
+        trans:
+        pub:
+        pub_info:
+        post_link:
 
       - title: "날씨가 좋으면 찾아가겠어요"
         ori_title:
