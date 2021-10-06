@@ -2,7 +2,7 @@
 date: 2021-10-06
 last_modified_at: 2021-10-06T05:50:06+09:00
 
-title: "사람, 장소, 환대"
+title: "인간 vs 사람"
 excerpt:
 header:
   teaser: https://img.ridicdn.net/cover/754019622/xxlarge?dpi=xxhdpi#1
