@@ -1,8 +1,29 @@
-lastupdate: 2021-10-06
+lastupdate: 2021-10-14
 
 list:
   - year: "2021"
     books:
+
+      - title: "코스모스"
+        ori_title:
+        author: 칼 세이건
+        post_title:
+        cover:
+        trans: 홍승수
+        pub:
+        pub_info:
+        post_link:
+        star: true
+
+      - title: "운수 좋은 날"
+        ori_title:
+        author: 현진건
+        post_title:
+        cover:
+        trans:
+        pub:
+        pub_info:
+        post_link:
 
       - title: "사람, 장소, 환대"
         ori_title:
