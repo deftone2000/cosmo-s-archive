@@ -46,6 +46,25 @@ playground:
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
 # 사람, 장소, 환대
+cosmos2:
+  - title: "저자"
+    children:
+      - title: "칼 세이건"
+        url:
+  - title: "번역"
+    children:
+      - title: "홍승수"
+  - title: "출판"
+    children:
+      - title: "사이언스북스"
+  - title: "출간 정보"
+    children:
+      - title: "2006-12-20 출간"
+  - title: "추가 정보"
+    children:
+      - title: "719쪽"
+
+# 사람, 장소, 환대
 person-place-hospitality:
   - title: "저자"
     children:
