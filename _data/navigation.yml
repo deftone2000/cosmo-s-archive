@@ -45,7 +45,7 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
-# 사람, 장소, 환대
+# 코스모스
 cosmos2:
   - title: "저자"
     children:
@@ -79,6 +79,22 @@ person-place-hospitality:
   - title: "추가 정보"
     children:
       - title: "297쪽"
+
+# 내일의 연일들
+tomorrow-lovers:
+  - title: "저자"
+    children:
+      - title: "정영수"
+        url:
+  - title: "출판"
+    children:
+      - title: "문학동네"
+  - title: "출간 정보"
+    children:
+      - title: "2020-10-20 출간"
+  - title: "추가 정보"
+    children:
+      - title: "236쪽"
 
 # 1만 시간의 재발견
 science-of-expertise:
