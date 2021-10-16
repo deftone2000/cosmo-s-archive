@@ -115,6 +115,25 @@ science-of-expertise:
     children:
       - title: "416쪽"
 
+# 페스트
+peste:
+  - title: "저자"
+    children:
+      - title: "알베르 카뮈"
+        url:
+  - title: "번역"
+    children:
+      - title: "김화영"
+  - title: "출판"
+    children:
+      - title: "민음사"
+  - title: "출간 정보"
+    children:
+      - title: "2011.03.25 출간"
+  - title: "추가 정보"
+    children:
+      - title: "508쪽"
+
 # 로빈슨 크루소
 robinson-crusoe:
   - title: "저자"
