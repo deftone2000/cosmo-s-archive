@@ -1,8 +1,18 @@
-lastupdate: 2021-10-14
+lastupdate: 2021-10-17
 
 list:
   - year: "2021"
     books:
+
+      - title: "로마의 테라스"
+        ori_title:
+        author: 파스칼 키냐르
+        post_title:
+        cover:
+        trans: 송의경
+        pub: 문학과지성사
+        pub_info:
+        post_link:
 
       - title: "코스모스"
         ori_title:
