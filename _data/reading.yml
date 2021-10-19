@@ -1,8 +1,18 @@
-lastupdate: 2021-10-17
+lastupdate: 2021-10-19
 
 list:
   - year: "2021"
     books:
+
+      - title: "서평 글쓰기 특강"
+        ori_title:
+        author: 김민영, 황선애
+        post_title:
+        cover:
+        trans:
+        pub:
+        pub_info:
+        post_link:
 
       - title: "로마의 테라스"
         ori_title:
