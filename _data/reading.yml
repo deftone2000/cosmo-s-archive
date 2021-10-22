@@ -1,8 +1,18 @@
-lastupdate: 2021-10-19
+lastupdate: 2021-10-22
 
 list:
   - year: "2021"
     books:
+
+      - title: "생각을 넓혀주는 독서법"
+        ori_title:
+        author: 모티머 J. 애들러, 찰스 반 도렌
+        post_title:
+        cover:
+        trans: 독고 앤
+        pub:
+        pub_info:
+        post_link:
 
       - title: "서평 글쓰기 특강"
         ori_title:
