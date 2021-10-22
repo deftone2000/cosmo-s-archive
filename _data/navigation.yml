@@ -45,6 +45,25 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 생각을 넓혀주는 독서법
+how-to-read-a-book:
+  - title: "저자"
+    children:
+      - title: "모티머 J. 애들러, 찰스 반 도렌"
+        url:
+  - title: "번역"
+    children:
+      - title: "독고 앤"
+  - title: "출판"
+    children:
+      - title: "멘토"
+  - title: "출간 정보"
+    children:
+      - title: "2012-12-15 출간"
+  - title: "추가 정보"
+    children:
+      - title: "462쪽"
+
 # 코스모스
 cosmos2:
   - title: "저자"
