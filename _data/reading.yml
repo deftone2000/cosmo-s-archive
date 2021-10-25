@@ -4,6 +4,17 @@ list:
   - year: "2021"
     books:
 
+      - title: "호랑이를 덫에 가두면"
+        ori_title: When You Trap a Tiger
+        author: 태 켈러
+        post_title:
+        cover:
+        trans: 강나은
+        pub:
+        pub_info:
+        post_link: /책리뷰/when-you-trap-a-tiger/
+        star: true
+
       - title: "생각을 넓혀주는 독서법"
         ori_title:
         author: 모티머 J. 애들러, 찰스 반 도렌
