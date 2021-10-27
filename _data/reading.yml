@@ -1,8 +1,18 @@
-lastupdate: 2021-10-22
+lastupdate: 2021-10-27
 
 list:
   - year: "2021"
     books:
+
+      - title: "그들은 어떻게 세상의 중심이 되었는가"
+        ori_title:
+        author: 김대식
+        post_title:
+        cover:
+        trans:
+        pub:
+        pub_info:
+        post_link:
 
       - title: "호랑이를 덫에 가두면"
         ori_title: When You Trap a Tiger
