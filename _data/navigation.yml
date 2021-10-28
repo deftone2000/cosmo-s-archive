@@ -207,6 +207,25 @@ darkhorse:
     children:
       - title: "396쪽"
 
+# 키르케
+circe:
+  - title: "저자"
+    children:
+      - title: "매들린 밀러"
+        url:
+  - title: "번역"
+    children:
+      - title: "이은선"
+  - title: "출판"
+    children:
+      - title: "이봄"
+  - title: "출간 정보"
+    children:
+      - title: "2020.05.28 출간"
+  - title: "추가 정보"
+    children:
+      - title: "524쪽"
+
 # 로빈슨 크루소
 robinson-crusoe:
   - title: "저자"
