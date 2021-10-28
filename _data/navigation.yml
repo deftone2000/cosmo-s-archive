@@ -172,6 +172,25 @@ peste:
     children:
       - title: "508쪽"
 
+# 다크호스
+darkhorse:
+  - title: "저자"
+    children:
+      - title: "토드 로즈, 오기 오가스"
+        url:
+  - title: "번역"
+    children:
+      - title: "정미나"
+  - title: "출판"
+    children:
+      - title: "20세기북스"
+  - title: "출간 정보"
+    children:
+      - title: "2019.08.07 출간"
+  - title: "추가 정보"
+    children:
+      - title: "396쪽"
+
 # 로빈슨 크루소
 robinson-crusoe:
   - title: "저자"
