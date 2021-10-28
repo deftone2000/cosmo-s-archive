@@ -83,6 +83,22 @@ how-to-read-a-book:
     children:
       - title: "462쪽"
 
+# 서평 글쓰기 특강
+book-review-writing-special-lecture:
+  - title: "저자"
+    children:
+      - title: "김민영, 황선애"
+        url:
+  - title: "출판"
+    children:
+      - title: "한국출판마케팅연구소"
+  - title: "출간 정보"
+    children:
+      - title: "2015-06-02 출간"
+  - title: "추가 정보"
+    children:
+      - title: "252쪽"
+
 # 코스모스
 cosmos2:
   - title: "저자"
