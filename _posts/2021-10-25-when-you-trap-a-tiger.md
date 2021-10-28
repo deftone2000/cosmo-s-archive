@@ -9,7 +9,7 @@ header:
 author_profile: false
 sidebar:
   - title: 호랑이를 덫에 가두면
-    text: How to Read a Book
+    text: When You Trap a Tiger
     image: https://img.ridicdn.net/cover/1568000081/xxlarge?dpi=xxhdpi#1
     nav: when-you-trap-a-tiger
 category:
