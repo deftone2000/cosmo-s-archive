@@ -283,6 +283,25 @@ il-nome-della-rosa:
     children:
       - title: "912쪽"
 
+# 총, 균, 쇠
+guns-germs-steel:
+  - title: "저자"
+    children:
+      - title: "재레드 다이아몬드"
+        url:
+  - title: "번역"
+    children:
+      - title: "김진준"
+  - title: "출판"
+    children:
+      - title: "문학사상"
+  - title: "출간 정보"
+    children:
+      - title: "2013-03-04 출간"
+  - title: "추가 정보"
+    children:
+      - title: "760쪽"
+
 # 호밀밭의 파수꾼
 the-catcher-in-the-rye:
   - title: "저자"
