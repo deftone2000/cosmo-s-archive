@@ -25,12 +25,16 @@ tags:
 
 이러한 **<u>'다크호스형 사고방식'</u>**은 다음과 같이 네가지 특성으로 요약할 수 있다.
 
-[자신의 미시적 동기 깨닫기(know your micro-motive)](#){: .btn .btn--success}
+[자신의 미시적 동기 깨닫기(know your micro-motive)](#)
+{: .notice--info}
 
-[자신의 선택 분간하기(know your choices)](#){: .btn .btn--warning}
+[자신의 선택 분간하기(know your choices)](#)
+{: .notice--warning}
 
-[자신의 전략 알기(know your strategies)](#){: .btn .btn--danger}
+[자신의 전략 알기(know your strategies)](#)
+{: .notice--success}
 
-[목적지를 무시하라(ignore the destinaiton)](#){: .btn .btn--info}
+[목적지를 무시하라(ignore the destinaiton)](#)
+{: .notice--danger}
 
 우리는 '하고 싶은 것'과 '해야 하는 것' 사이에서 항상 고민한다. 돌이켜 생각해 보면, '해야 하는 이유'는 결국 돈과 연관된 문제가 대부분이었지 결코 나의 '행복, 희망, 꿈, 가치'와는 상관없는 이유였다. '하고 싶은 것'에 집중하는 것이 중요하다는 것은 알지만 망설이는 독자가 있다면 꼭 이책을 읽어보길 바란다.
