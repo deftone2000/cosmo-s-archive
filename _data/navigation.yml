@@ -45,6 +45,25 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 탤런트 코드
+talent-code:
+  - title: "저자"
+    children:
+      - title: "대니얼 코일"
+        url:
+  - title: "번역"
+    children:
+      - title: "윤미나"
+  - title: "출판"
+    children:
+      - title: "웅진지식하우스"
+  - title: "출간 정보"
+    children:
+      - title: "2021년 03월 01일"
+  - title: "추가 정보"
+    children:
+      - title: "392쪽"
+
 # 호랑이를 덫에 가두면
 when-you-trap-a-tiger:
   - title: "저자"
@@ -56,7 +75,7 @@ when-you-trap-a-tiger:
       - title: "강나은"
   - title: "출판"
     children:
-      - title: "돌베개 "
+      - title: "돌베개"
   - title: "출간 정보"
     children:
       - title: "2021.04.26. 종이책 출간"
