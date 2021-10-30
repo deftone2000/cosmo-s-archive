@@ -188,6 +188,22 @@ science-of-expertise:
     children:
       - title: "416쪽"
 
+# 헌법의 풍경
+constitutional-landscape:
+  - title: "저자"
+    children:
+      - title: "김두식"
+        url:
+  - title: "출판"
+    children:
+      - title: "교양인"
+  - title: "출간 정보"
+    children:
+      - title: "2011년 12월 19일"
+  - title: "추가 정보"
+    children:
+      - title: "352쪽"
+
 # 페스트
 peste:
   - title: "저자"
