@@ -242,6 +242,25 @@ darkhorse:
     children:
       - title: "396쪽"
 
+# 시지프 신화
+le-mythe-de-sisyphe:
+  - title: "저자"
+    children:
+      - title: "알베르 까뮈"
+        url:
+  - title: "번역"
+    children:
+      - title: "김화영"
+  - title: "출판"
+    children:
+      - title: "민음사"
+  - title: "출간 정보"
+    children:
+      - title: "2016년 06월 17일"
+  - title: "추가 정보"
+    children:
+      - title: "332쪽"
+
 # 키르케
 circe:
   - title: "저자"
