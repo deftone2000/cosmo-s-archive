@@ -1,6 +1,6 @@
 ---
 date: 2021-09-07
-last_modified_at: 22021-09-07T10:37:50+09:00
+last_modified_at: 2021-09-07T10:37:50+09:00
 
 title: "삶과 부조리 그리고 반항"
 excerpt:
