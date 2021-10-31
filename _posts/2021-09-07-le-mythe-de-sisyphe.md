@@ -41,7 +41,7 @@ tags:
 </div>
 
 <figure class="align-center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Punishment_sisyph.jpg/520px-Punishment_sisyph.jpg" alt="시지프 신화">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Punishment_sisyph.jpg/440px-Punishment_sisyph.jpg" alt="시지프 신화">
 </figure>
 
 의미 없는 하루하루, 결국 죽기 위해 달려가는 우리는 산으로 바위를 밀어 올리는 무의미한 반복으로 시간을 낭비하고 있는 시지프의 모습과 비슷한 점이 많아 보인다. 이제 카뮈의 대답을 알아보자.
