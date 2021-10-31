@@ -33,9 +33,8 @@ tags:
 
 제우스는 결국 자신의 전령 헤르메스를 지상으로 보내 시시포스를 찾아 지하세계로 끌고 와서는 끔찍한 형벌을 내렸다. 그때부터 [**시시포스는 지하세계의 어떤 높은 산기슭에서 커다랗고 둥근 바위 하나를 그 산 정상까지 굴려 올려놓아야 했다. 그런데 시시포스가 낑낑대며 바위를 정상에 올려놓자마자 바위는 다시 산 밑으로 저절로 굴러떨어졌다. 그러면 시시포스는 터벅터벅 산 밑으로 내려와 다시 바위를 정상으로 굴려야 했으며, 시시포스가 정상에 다시 힘들여 올린 바위는 다시 밑으로 떨어져 그의 노역은 절대 끝이 나지 않은 채 영원히 계속되어야 했다.**]()
 
-<figure class="align-center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Punishment_sisyph.jpg/440px-Punishment_sisyph.jpg" alt="시지프 신화">
-</figure>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Punishment_sisyph.jpg/440px-Punishment_sisyph.jpg" class="align-center" alt="시지프 신화">
+
 
 {% endcapture %}
 
