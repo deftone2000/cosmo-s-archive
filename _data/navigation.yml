@@ -375,6 +375,25 @@ the-catcher-in-the-rye:
     children:
       - title: "279쪽"
 
+# 어떻게 민주주의는 무너지는가
+how-democracies-die:
+  - title: "저자"
+    children:
+      - title: "스티븐 레비츠키, 대니얼 지블랫"
+        url:
+  - title: "번역"
+    children:
+      - title: "박세연"
+  - title: "출판"
+    children:
+      - title: "어크로스"
+  - title: "출간 정보"
+    children:
+      - title: "2018년 10월 02일"
+  - title: "추가 정보"
+    children:
+      - title: "352쪽"
+
 # 살라미스 해전
 the-battle-of-salamis:
   - title: "저자"
