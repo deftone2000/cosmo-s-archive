@@ -470,6 +470,22 @@ peloponnesian-war:
     children:
       - title: "리디북스, 약 42.5만 자"
 
+# 문재인, 김인회의 검찰을 생각한다
+think-of-the-prosecution:
+  - title: "저자"
+    children:
+      - title: "문재인, 김인회"
+        url:
+  - title: "출판"
+    children:
+      - title: "오월의봄"
+  - title: "출간 정보"
+    children:
+      - title: "2011.11.23. 전자책, 종이책 동시 출간"
+  - title: "추가 정보"
+    children:
+      - title: "리디북스, 약 22.8만 자"
+
 # 1984
 nineteen-eighty-four:
   - title: "저자"
