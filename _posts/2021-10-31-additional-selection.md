@@ -12,7 +12,7 @@ category:
 tags:
   - 월말정산
 ---
-<img src="http://image.yes24.com/goods/90881010/XL" style="width: 140px" class="align-left" alt=""/> 시와 산책
+<img src="http://image.yes24.com/goods/90881010/XL" style="width: 100px" class="align-left" alt=""/> 시와 산책
 : 한정원
 
 잔잔한 단어와 문장 그리고 문단들이 조화롭게 이어지면 아름다운 시와 산책이라는 ‘선물’이 된다.
@@ -23,7 +23,7 @@ tags:
 
 ------
 
-<img src="https://img.ridicdn.net/cover/862001286/xxlarge?dpi=xxhdpi#1" style="width: 140px" class="align-left" alt=""/> 날씨가 좋으면 찾아가겠어요
+<img src="https://img.ridicdn.net/cover/862001286/xxlarge?dpi=xxhdpi#1" style="width: 100px" class="align-left" alt=""/> 날씨가 좋으면 찾아가겠어요
 : 이도우
 
 그림과 책 그리고 사람
@@ -34,7 +34,7 @@ TV에서 방영하는 흔한 드라마를 보는 듯한 플롯이 단조롭게 �
 
 ------
 
-<img src="https://img.ridicdn.net/cover/4321000099/xxlarge?dpi=xxhdpi#1" style="width: 140px" class="align-left" alt=""/> 슬픔을 공부하는 슬픔
+<img src="https://img.ridicdn.net/cover/4321000099/xxlarge?dpi=xxhdpi#1" style="width: 100px" class="align-left" alt=""/> 슬픔을 공부하는 슬픔
 : 신형철
 
 신형철 교수의 글은 '비범하게 평범해서' 매력적이다. 무엇인가 새롭고 독창적인 것을 갈망하며 치열하게 고민하는 그의 태도는 한편으로 '위로'를 한편으로는 '반성'을 끌어내는 힘이 있다. 그래서 타인의 슬픔도 '공부 혹은 배움'의 대상이 된 거라 생각한다. 타인을 진정으로 완벽하게 '이해, 인식'하는 것은 불가능에 가깝다. 하지만 그 노력이 멈추는 순간, 우리는 '사람'이 아닌 어떤 것으로 존재할 것이다.
@@ -43,7 +43,7 @@ TV에서 방영하는 흔한 드라마를 보는 듯한 플롯이 단조롭게 �
 
 ------
 
-<img src="https://img.ridicdn.net/cover/2745000122/xxlarge?dpi=xxhdpi#1" style="width: 140px" class="align-left" alt=""/> 운수 좋은 날
+<img src="https://img.ridicdn.net/cover/2745000122/xxlarge?dpi=xxhdpi#1" style="width: 100px" class="align-left" alt=""/> 운수 좋은 날
 : 현진건
 
 추적추적 내리는 반쯤은 언 비, 평소에는 상상도 할 수 없는 선물 같은 돈, 귀가한 집에서 들리는 어린 아기의 울음과 아내의 침묵 그리고 화자의 이름인 ‘김첨지’마저 ‘대비’의 의미를 정확하고 처참하게 보여준다.
@@ -52,7 +52,7 @@ TV에서 방영하는 흔한 드라마를 보는 듯한 플롯이 단조롭게 �
 
 ------
 
-<img src="http://image.yes24.com/momo/TopCate07/MidCate01/608260.jpg" style="width: 140px" class="align-left" alt=""/> 로마의 테라스
+<img src="http://image.yes24.com/momo/TopCate07/MidCate01/608260.jpg" style="width: 100px" class="align-left" alt=""/> 로마의 테라스
 : 파스클 키냐르
 
 바로크 시대 예술가(판화가)의 삶. 동판과 종이에 선각한다는 차이뿐, 몸므는 저자인 키냐르 그 자체이다. 모자이크 판화를 바라보듯 부분과 전체를 한눈에 아우르는 노력을 진행시킬 때 그 자체로 한 점의 메조틴트 판화인 47개의 장들이 모여서 다시 한 점의 판화를 구성하고 있다는 사실을 깨닫게 된다. 솔직히 『로마의 테라스』는 설명하기 힘든 소설이다. 어쩌면 설명하기 힘든 그 점이 이 소설을 아름답게 만들고 있는지도 모르겠다.
@@ -61,7 +61,7 @@ TV에서 방영하는 흔한 드라마를 보는 듯한 플롯이 단조롭게 �
 
 ------
 
-<img src="https://img.ridicdn.net/cover/222002184/xxlarge?dpi=xxhdpi#1" style="width: 140px" class="align-left" alt=""/> 그들은 어떻게 세상의 중심이 되었는가
+<img src="https://img.ridicdn.net/cover/222002184/xxlarge?dpi=xxhdpi#1" style="width: 100px" class="align-left" alt=""/> 그들은 어떻게 세상의 중심이 되었는가
 : 김대식
 
 영원할 것 같았던 로마제국도 결국 '멸망'하였다. 이러한 역사의 흐름을 깊이 있게 이해하고, 다가올 21세기의 여러 문제점을 극복할 방안을 고민해 보자. 그동안 몰랐던 '단편적 지식(단어의 어원 등)'을 얻을 수 있었다는 것을 제외하면 정확히 무엇을 위해 집필했는지 알 수 없는 책이다. 결론도 명확하게 제시되지 않고 '실패의 역사를 반복하지 말아야 한다.'는 너무 상식적인 내용이기 때문에 과연 '전문가'의 저서인지 의심될 정도이다. 올해 읽은 책 중에서 가장 실망스러운 책이었다. 
