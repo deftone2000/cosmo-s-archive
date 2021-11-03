@@ -261,6 +261,25 @@ le-mythe-de-sisyphe:
     children:
       - title: "332쪽"
 
+# 연금술사
+alchemist:
+  - title: "저자"
+    children:
+      - title: "파울로 코엘료"
+        url:
+  - title: "번역"
+    children:
+      - title: "최정수"
+  - title: "출판"
+    children:
+      - title: "문학동네"
+  - title: "출간 정보"
+    children:
+      - title: "2001년 12월 01일"
+  - title: "추가 정보"
+    children:
+      - title: "284쪽"
+
 # 키르케
 circe:
   - title: "저자"

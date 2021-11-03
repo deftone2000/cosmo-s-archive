@@ -290,7 +290,8 @@ list:
         trans: 최정수
         pub:
         pub_info:
-        post_link:
+        post_link: /책리뷰/alchemist/
+        star: true
 
       - title: "돈으로 살 수 없는 것들"
         ori_title:
