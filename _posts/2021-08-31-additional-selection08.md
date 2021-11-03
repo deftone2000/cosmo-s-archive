@@ -68,16 +68,6 @@ tags:
 
 ------
 
-<img src="https://img.ridicdn.net/cover/259000011/xxlarge?dpi=xxhdpi#1" style="width: 100px" class="align-left" alt=""/> 멋진 신세계
-: 올더스 헉슬리
-
-💡인간은 스스로 이룩한 문명의 발달만큼 성숙한 것일까? 그리고 문명이 발달한다는 것의 진정한 '의미'는 무엇일까? 『멋진 신세계』는 100년의 세월을 건너 우리에게 다시 묻고 있다. 
-
-🔑 **\#유토피아 #디스토피아 #문명의발달 #자유의지**
-{: .notice--success}
-
-------
-
 <img src="https://img.ridicdn.net/cover/593000231/xxlarge?dpi=xxhdpi#1" style="width: 100px" class="align-left" alt=""/> 돈으로 살 수 없는 것들
 : 마이클 샌델
 
