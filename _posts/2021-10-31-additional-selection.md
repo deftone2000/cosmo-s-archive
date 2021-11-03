@@ -12,7 +12,7 @@ category:
 tags:
   - 월말정산
 ---
-<img src="http://image.yes24.com/goods/90881010/XL" style="width: 140px" class="align-left right" alt=""/> 시와 산책
+<img src="http://image.yes24.com/goods/90881010/XL" style="width: 140px" class="align-left" alt=""/> 시와 산책
 : 한정원
 
 잔잔한 단어와 문장 그리고 문단들이 조화롭게 이어지면 아름다운 시와 산책이라는 ‘선물’이 된다.
@@ -21,7 +21,7 @@ tags:
 
 <br/>
 
-<img src="https://img.ridicdn.net/cover/862001286/xxlarge?dpi=xxhdpi#1" style="width: 140px" class="align-left right" alt=""/> 날씨가 좋으면 찾아가겠어요
+<img src="https://img.ridicdn.net/cover/862001286/xxlarge?dpi=xxhdpi#1" style="width: 140px" class="align-left" alt=""/> 날씨가 좋으면 찾아가겠어요
 : 이도우
 
 그림과 책 그리고 사람
