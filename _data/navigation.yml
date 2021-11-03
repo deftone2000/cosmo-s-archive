@@ -45,6 +45,22 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 거꾸로 읽는 세계사
+world-history-read-backwards:
+  - title: "저자"
+    children:
+      - title: "유시민"
+        url:
+  - title: "출판"
+    children:
+      - title: "푸른나무"
+  - title: "출간 정보"
+    children:
+      - title: "2008-06-05"
+  - title: "추가 정보"
+    children:
+      - title: "400쪽"
+
 # 탤런트 코드
 talent-code:
   - title: "저자"
