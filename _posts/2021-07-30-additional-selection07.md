@@ -41,7 +41,7 @@ tags:
 
 💡유럽, 고전부터 근대까지 한번에 정리하기
 
-기존의 역사책과는 다른 구성으로 보다 흥미롭게 유럽의 역사를 접할 수 있다. 우리가 궁금해 하는 결론을 먼저 제시해서 유럽 역사의 뼈대를 먼저 보여준다. 그 다음 다시 처음으로 돌아가 주요한 역사적 변곡점을 재조명 함으로써 커다란 역사적 흐름과 맥락을 직관적으로 파악할 수 있는 책이다. 이책을 정리하기에 가자 좋은 것은 도표이다.(아래 첨부 이미지 참조)
+기존의 역사책과는 다른 구성으로 보다 흥미롭게 유럽의 역사를 접할 수 있다. 우리가 궁금해 하는 결론을 먼저 제시해서 유럽 역사의 뼈대를 먼저 보여준다. 그 다음 다시 처음으로 돌아가 주요한 역사적 변곡점을 재조명 함으로써 커다란 역사적 흐름과 맥락을 직관적으로 파악할 수 있는 책이다. 이책을 정리하기에 가장 좋은 것은 도표이다.(아래 첨부 이미지 참조)
 
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3079a3a9-c485-4654-95e5-933d0aa2d09f/19___.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211104%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211104T040647Z&X-Amz-Expires=86400&X-Amz-Signature=08b484c327adcd8236d87c1cebc8e63988161f8347b39a94506a08a90e09de7d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2219___.png%22" class="align-center" alt="">
 
