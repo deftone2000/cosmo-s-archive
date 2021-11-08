@@ -4,6 +4,16 @@ list:
   - year: "2021"
     books:
 
+      - title: "지리의 힘"
+        ori_title:
+        author: 팀 마샬
+        post_title:
+        cover:
+        trans: 김미선
+        pub: 사이
+        pub_info: 2016-08-10
+        post_link:
+
       - title: "거꾸로 읽는 세계사"
         ori_title:
         author: 유시민
@@ -13,6 +23,7 @@ list:
         pub: 푸른나무
         pub_info: 2008-06-05
         post_link: /책리뷰/world-history-read-backwards/
+        star: true
 
       - title: "탤런트코드"
         ori_title:
