@@ -1,5 +1,5 @@
 ---
-date: 2021-11-03-world-history-read-backwards
+date: 2021-11-03
 last_modified_at: 2021-11-03T20:43:07+09:00
 
 title: "유시민, 20세기를 정리하다"

@@ -45,6 +45,25 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 지리의 힘
+prisoners-of-geography:
+  - title: "저자"
+    children:
+      - title: "팀 마샬"
+        url:
+  - title: "번역"
+    children:
+      - title: "김미선"
+  - title: "출판"
+    children:
+      - title: "사이"
+  - title: "출간 정보"
+    children:
+      - title: "2016-08-16"
+  - title: "추가 정보"
+    children:
+      - title: "368쪽"
+
 # 거꾸로 읽는 세계사
 world-history-read-backwards:
   - title: "저자"
