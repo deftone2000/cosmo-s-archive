@@ -26,6 +26,8 @@ tags:
 
 정확하게 세상을 이해하는데 필요한 중요한 요소 중 '지리'만큼 중요한 것은 없다. 『지리의 힘』 에서도 저자 팀 마샬은 **<u>'지리를 알지 못하면 세상을 제대로 이해할 수 없는 시대'</u>**가 왔다고 주장한다. 이러한 지리적 특성에서 기인하고 있는 주요한 세계사적 문제(경제전쟁, 세계의 분열, 영유권 분쟁, 빈부 격차)들을 생각해 볼 수 있는 책이다. 
 
+<img src="https://images.unsplash.com/photo-1502920514313-52581002a659?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2934&q=80" class="align-center" alt="">
+
 **[책에서 다루는 지역]()**(전 세계를 10개의 지역으로 나누고 지리에서 비롯된 경제전쟁, 세계의 분열, 영유권 분쟁, 빈부 격차 등에 대해 살펴본다.)
 {: .notice--warning}
 
@@ -40,5 +42,3 @@ tags:
 - 인위적인 국경선이 분쟁의 씨앗이 되는, **중동**
 - 지리적으로 출발부터 서로 달랐던, **인도와 파키스탄**
 - 21세기 경제 및 외교의 각축장이 된, **북극** 
-
-<img src="https://images.unsplash.com/photo-1502920514313-52581002a659?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2934&q=80" class="align-center" alt="">
