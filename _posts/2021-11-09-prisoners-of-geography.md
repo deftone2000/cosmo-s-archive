@@ -9,7 +9,7 @@ header:
 author_profile: false
 sidebar:
   - title: 지리의 힘
-    text:
+    text: Prisoners of Geography
     image: https://img.ridicdn.net/cover/1014000010/xxlarge?dpi=xxhdpi#1
     nav: prisoners-of-geography
 category:
