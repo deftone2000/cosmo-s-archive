@@ -2,7 +2,7 @@
 date: 2021-11-09-the-selfish-gene2
 last_modified_at: 2021-11-09T02:23:13+09:00
 
-title: "서평의 제목"
+title: "[재독] 작성 중..."
 excerpt:
 header:
   teaser: https://img.ridicdn.net/cover/950000110/xxlarge?dpi=xxhdpi#1
