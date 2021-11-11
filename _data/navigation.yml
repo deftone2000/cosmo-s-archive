@@ -45,6 +45,25 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 이기적 유전자
+the-selfish-gene2:
+  - title: "저자"
+    children:
+      - title: "리처드 도킨스"
+        url:
+  - title: "번역"
+    children:
+      - title: "홍영남, 이상임"
+  - title: "출판"
+    children:
+      - title: "을유문화사"
+  - title: "출간 정보"
+    children:
+      - title: "2018.10.20"
+  - title: "추가 정보"
+    children:
+      - title: "632쪽"
+
 # 지리의 힘
 prisoners-of-geography:
   - title: "저자"

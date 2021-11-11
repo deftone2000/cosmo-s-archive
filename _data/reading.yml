@@ -4,6 +4,17 @@ list:
   - year: "2021"
     books:
 
+      - title: "이기적 유전자"
+        ori_title:
+        author: 리처드 도킨스
+        post_title:
+        cover:
+        trans: 홍영남, 이상임
+        pub: 을유문화사
+        pub_info: 2018.10.20
+        post_link: /책리뷰/the-selfish-gene/
+        star: true
+
       - title: "지리의 힘"
         ori_title:
         author: 팀 마샬
