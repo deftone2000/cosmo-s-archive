@@ -5,7 +5,7 @@ last_modified_at: 2021-11-12T07:46:39+09:00
 toc: true
 excerpt_separator: "<!--more-->"
 
-title: "[재독] 생물학적 진리"
+title: "[재독] 생명의 진리"
 excerpt:
 header:
   teaser: https://img.ridicdn.net/cover/950000110/xxlarge?dpi=xxhdpi#1
