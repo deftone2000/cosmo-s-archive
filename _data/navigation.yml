@@ -45,6 +45,22 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 나름 독서
+naleum-read:
+  - title: "저자"
+    children:
+      - title: "이채윤"
+        url:
+  - title: "출판"
+    children:
+      - title: "시그마북스"
+  - title: "출간 정보"
+    children:
+      - title: "2016년 03월 21일 출간"
+  - title: "추가 정보"
+    children:
+      - title: "262쪽"
+
 # 이기적 유전자
 the-selfish-gene2:
   - title: "저자"
