@@ -2,7 +2,7 @@
 date: 2021-10-25
 last_modified_at: 2021-10-25T10:37:50+09:00
 
-title: "호랑이의 의미"
+title: "가족의 의미"
 excerpt:
 header:
   teaser: https://img.ridicdn.net/cover/1568000081/xxlarge?dpi=xxhdpi#1
