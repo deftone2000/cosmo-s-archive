@@ -4,6 +4,16 @@ list:
   - year: "2021"
     books:
 
+      - title: "나름 독서"
+        ori_title:
+        author: 이채윤
+        post_title:
+        cover:
+        trans:
+        pub: 시그마북스
+        pub_info: 2016.03.21
+        post_link:
+
       - title: "이기적 유전자"
         ori_title:
         author: 리처드 도킨스
