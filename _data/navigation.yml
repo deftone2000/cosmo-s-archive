@@ -45,6 +45,25 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 왜 세계의 절반은 굶주리는가?
+faim-dans-le:
+  - title: "저자"
+    children:
+      - title: "장 지글러"
+        url:
+  - title: "번역"
+    children:
+      - title: "유영미"
+  - title: "출판"
+    children:
+      - title: "갈라파고스"
+  - title: "출간 정보"
+    children:
+      - title: "2016.03.21. 전자책 출간"
+  - title: "추가 정보"
+    children:
+      - title: "232쪽"
+
 # 나름 독서
 naleum-read:
   - title: "저자"
