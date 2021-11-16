@@ -41,4 +41,4 @@ tags:
 
 우리는 '하고 싶은 것'과 '해야 하는 것' 사이에서 항상 고민한다. 돌이켜 생각해 보면, '해야 하는 이유'는 결국 돈과 연관된 문제가 대부분이었지 결코 나의 '행복, 희망, 꿈, 가치'와는 상관없는 이유였다. '하고 싶은 것'에 집중하는 것이 중요하다는 것은 알지만 망설이는 독자가 있다면 꼭 이책을 읽어보길 바란다. 
 
-<img src="https://images.unsplash.com/photo-1540152939014-291e50952cb2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=996&q=80" class="align-center" alt="">
+<img src="https://images.unsplash.com/photo-1549737525-45c81177eef7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2070&q=80" class="align-center" alt="">
