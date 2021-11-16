@@ -25,13 +25,13 @@ tags:
 
 > 스킬은 신경 회로를 감싸고 있는 절연층이며, 그것은 특정한 신호에 반응할 때 두꺼워진다. 스킬 및 재능에 대한 이야기는 결국 미엘린에 대한 이야기다.
 
-<img src="https://images.unsplash.com/photo-1617791160536-598cf32026fb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1664&q=80" class="align-center" alt="">
-
 저자인 대니얼 코일은 재능에 관한 세가지 원칙 **1) 심화 연습deep practice 2) 동기 부여ignition 3) master coaching** 으로 구분한다. 이러한 원칙들 각각의 개념, 의미, 방법 등을 구체적으로 설명하는 것이 책의 주요 골자이다. 
 
 단지 심화 연습을 '목적의식 있는 연습'으로 표현했을 뿐, 기존에 보았던 안데르스 에릭슨의 『1만 시간의 재발견』과 일맥상통하는 부분이 많았다. 하지만 『탤런트 코드』는 이론보다는 '실천'과 구체적인 '적용 방법'에 좀 더 무게를 실었다고 할 수 있다. 책의 후반부에 '52가지 학습의 기술'은 재능을 향상 시키는 '방법'에 전적으로 집중한 것이 확실해 보인다. 
 
 매번 설정한 목표를 달성하는 데 실패한 원인이 자신의 '재능' 때문이라고 고민하고 있거나, 나보다 월등해 보이는 주변 사람들을 보면서 자신의 '재능'에 실망하는 사람이 읽으면 분명 많은 도움을 받을 수 있다고 생각한다. 또는 새로운 분야로 도전하고 싶지만, 용기가 부족해 고민만 하는 분들에게도 책의 실천방안을 적용해서 또 다른 분야를 개척하는 데 도움을 받을 수 있을 것이다. 
+
+<img src="https://images.unsplash.com/photo-1617791160536-598cf32026fb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1664&q=80" class="align-center" alt="">
 
 **재능을 지배하는 세가지 법칙**{: .btn .btn--success}
 
@@ -47,8 +47,6 @@ tags:
   - **지식** 매트릭스
   - (제자의 모든 것을) **파악**
   - GPS 처럼 **전달**
-
-
 
 **52가지 학습의 기술**{: .btn .btn--info}
 
