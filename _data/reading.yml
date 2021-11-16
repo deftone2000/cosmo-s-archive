@@ -4,6 +4,16 @@ list:
   - year: "2021"
     books:
 
+      - title: "왜 세계의 절반은 굶주리는가?"
+        ori_title:
+        author: 장 지글러
+        post_title:
+        cover:
+        trans: 유영미
+        pub: 갈라파고스
+        pub_info: 2016.03.21
+        post_link:
+
       - title: "나름 독서"
         ori_title:
         author: 이채윤
