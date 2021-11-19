@@ -32,10 +32,10 @@ tags:
 
 <img src="https://images.unsplash.com/photo-1502920514313-52581002a659?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2934&q=80" class="align-center" alt="">
 
-**책에서 다루는 지역**
+### 책에서 다루는 지역
 
-**Note :** 전 세계를 10개의 지역으로 나누고 지리에서 비롯된 경제전쟁, 세계의 분열, 영유권 분쟁, 빈부 격차 등에 대해 살펴본다.
-{: .notice--warning}
+**추가정보:** 전 세계를 10개의 지역으로 나누고 지리에서 비롯된 경제전쟁, 세계의 분열, 영유권 분쟁, 빈부 격차 등에 대해 살펴본다.
+{: .notice--info}
 
 - 4천 년 만에 대륙의 나라에서 해양 강국을 꿈꾸는, **중국**
 - 지리적 축복과 전략적 영토 구입으로 세계 최강국이 된, **미국**
