@@ -45,6 +45,24 @@ playground:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 자유론
+on-liberty2:
+  - title: "저자"
+    children:
+      - title: "존 스튜어트 밀"
+  - title: "번역"
+    children:
+      - title: "서병훈"
+  - title: "출판"
+    children:
+      - title: "책세상"
+  - title: "출간 정보"
+    children:
+      - title: "2018년 03월 30일 출간"
+  - title: "추가 정보"
+    children:
+      - title: "288쪽"
+
 # 왜 세계의 절반은 굶주리는가?
 faim-dans-le:
   - title: "저자"
