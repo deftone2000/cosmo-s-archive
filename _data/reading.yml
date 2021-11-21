@@ -4,6 +4,16 @@ list:
   - year: "2021"
     books:
 
+      - title: "공산당선언"
+        ori_title:
+        author: 칼 마르크스, 프리드리히 엥겔스
+        post_title:
+        cover:
+        trans: 이진우
+        pub: 책세상
+        pub_info: 2018.06.20.
+        post_link:
+
       - title: "자유론"
         ori_title:
         author: 존 스튜어트 밀
