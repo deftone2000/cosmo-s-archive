@@ -29,4 +29,4 @@ tags:
 
 『장미의 이름』에서 '장미'는 앞에서 언급한 중세 그 자체를 의미한다고 생각한다. 중세 말 종교의 부패, 탐욕, 권력, 부조리 등 화려한(?) 과거의 모습을 중의적으로 표현한 것이 장미라고 나는 생각한다. 그리고 '희곡'과 '웃음'은 근대의 정신 혹은 과거의 부조리를 벗어나기 위한 시대정신을 의미한다고 생각한다. 거대한 시대의 흐름에도 과거의 영광을 지키기 위해 '살인'까지 저지르는 종교의 행태는 21세기를 살아가는 우리에게 시사하는 바가 크다고 생각한다. 
 
-<img src="https://images.unsplash.com/photo-1609604935551-75642e366f7f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=987&q=80" class="align-center" alt="">
+<img src="https://images.unsplash.com/photo-1534289855405-ab820a118fc1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" class="align-center" alt="">
