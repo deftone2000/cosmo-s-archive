@@ -1,17 +1,17 @@
 ---
-date: 2021-10-31
-last_modified_at: 2021-10-31
-
 title: "10월 독서기록(한줄서평)"
 excerpt:
 header:
-  teaser:
+  teaser: https://images.unsplash.com/photo-1569348642938-46517ef6f177?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2128&q=80
 
 category:
   - 책리뷰
 tags:
   - 월말정산
+
+last_modified_at: 2021-10-31
 ---
+
 <img src="http://image.yes24.com/goods/90881010/XL" style="width: 100px" class="align-left" alt=""/> 시와 산책
 : 한정원
 
