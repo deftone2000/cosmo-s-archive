@@ -80,4 +80,6 @@ TV에서 방영하는 흔한 드라마를 보는 듯한 플롯이 단조롭게 �
 그동안 몰랐던 '단편적 지식(단어의 어원 등)'을 얻을 수 있었다는 것을 제외하면 정확히 무엇을 위해 집필했는지 알 수 없는 책이다. 결론도 명확하게 제시되지 않고 '실패의 역사를 반복하지 말아야 한다.'는 너무 상식적인 내용이기 때문에 과연 '전문가'의 저서인지 의심될 정도이다. 올해 읽은 책 중에서 가장 실망스러운 책이었다. 
 
 🔑 **\#로마**
-{: .notice--success}
+{: .notice--success} 
+
+<img src="https://images.unsplash.com/photo-1569348642938-46517ef6f177?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2128&q=80" class="align-center" alt="">

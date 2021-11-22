@@ -35,4 +35,8 @@ last_modified_at:
 하지만 이 두 가지 명제는 결국 마르크스 사상 비판의 핵심 전제이기도 하다. 공산주의는 생산 수단의 공유를 통해 지배 구조를 폐지하고 모든 개인의 자유를 실현하고자 했으나, 생산 수단을 공유하고 관리하고 독점하는 사회 조직이 오히려 더욱 폐쇄적인 절대주의 국가를 산출해냄으로써 그 한계가 역사적, 임상적으로 증명된 셈이다. 하지만 **'자유로운 발전이 모두의 자유로운 발전의 조건이 되는 연합체'**를 꿈꾸었던 공산주의는 결국 인간 해방을 지향했다고 볼 수 있다. 
 
 🔑 **\#공산주의 #프롤레타리아 #부르주아**
-{: .notice--danger}
+{: .notice--danger} 
+
+------
+
+<img src="https://images.unsplash.com/photo-1510828325835-5940110b482a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1728&q=80" class="align-center" alt="">
