@@ -1,5 +1,8 @@
 ---
 title: "11월 독서기록(한줄서평)"
+
+excerpt_separator: "<!--more-->"
+
 excerpt:
 header:
   teaser: https://images.unsplash.com/photo-1510828325835-5940110b482a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1728&q=80
@@ -21,6 +24,8 @@ last_modified_at:
 
 - **부르주아** : 사회적 생산 수단의 소유자이며 임금 노동을 착취하는 근대 자본주의자 계급으로 이해된다.
 - **프롤레타리아** : 근대 임금 노동자 계급을 말하는데, 이들에게는 자신의 생산 수단이 없기 때문에, 살기 위해 자신의 노동력을 파는 일에 의존한다. 
+
+<!--more-->
 
 또 이 선언문의 논리 전개에 앞서 마르크스와 엥겔스는 두 가지 명제를 전제한다. 
 
