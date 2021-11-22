@@ -1,5 +1,5 @@
 ---
-title: "11월 독서기록(한줄서평)"
+title: "11월 독서기록"
 
 excerpt_separator: "<!--more-->"
 
