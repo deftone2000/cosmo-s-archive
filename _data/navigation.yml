@@ -30,21 +30,6 @@ taxonomy_tag:
     - title: "정치, 경제"
       url: /tags/정치-경제/
 
-# playground sidebar navigation list
-playground:
-  - title: "보드게임"
-    children:
-      - title: "Path Finder"
-        url: /playground/path-finder/
-      - title: "Potion Explosion"
-        url: /playground/potion-explosion/
-      - title: "Imbroglio"
-        url: /playground/imbroglio/
-  - title: "플스3"
-    children:
-      - title: "NBA 2K19"
-        url: /playground/pure-slasher-mixtape/
-
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
 # 자유론
