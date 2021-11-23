@@ -36,11 +36,11 @@ taxonomy_tag:
 on-liberty2:
   - title: 도서 정보
     children:
-      - title: 저자 - 존 스튜어트 밀
-      - title: 번역 - 서병훈
-      - title: 출판 - 책세상
-      - title: 출간 - 2018년 03월 30일
-      - title: 추천 - ★★★★★
+    - title: 저자 - 존 스튜어트 밀
+    - title: 번역 - 서병훈
+    - title: 출판 - 책세상
+    - title: 출간 - 2018년 03월 30일
+    - title: 추천 - ★★★★★
 
 # 왜 세계의 절반은 굶주리는가?
 faim-dans-le:
