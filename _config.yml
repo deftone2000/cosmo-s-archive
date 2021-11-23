@@ -189,15 +189,15 @@ collections:
  # docs:
  #   output: true
  #   permalink: /:collection/:path/
-  travel:
-    output: true
-    permalink: /:collection/:path/
-  playground:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+ # travel:
+ #   output: true
+ #   permalink: /:collection/:path/
+ # playground:
+ #   output: true
+ #   permalink: /:collection/:path/
+ # portfolio:
+ #   output: true
+ #   permalink: /:collection/:path/
 
 
 # Defaults
