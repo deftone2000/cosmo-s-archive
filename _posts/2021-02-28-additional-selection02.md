@@ -3,9 +3,9 @@ date: 2021-02-28
 last_modified_at: 2021-02-28
 
 title: "2월 독서기록(한줄서평)"
-excerpt:
 header:
-  teaser:
+  teaser: https://images.unsplash.com/photo-1579343580826-6323adb66545?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+excerpt_separator: "<!--more-->"
 
 category:
   - 책리뷰
@@ -18,6 +18,8 @@ tags:
 💡아킬레우스의 분노와 용서
 
 자신의 아들을 죽인 적장에게 아들의 시체를 돌려달가고 호소하는 아버지 그리고 자신의 애인을 죽인 인간의 아버지를 용서하는 아킬레우스. 트로이 왕국의 유물은 실제로 발견되었지만 이 소설의 내용과는 다르게 그리스인의 일방적인 '약탈'로 알려지고 있다. 
+
+<!--more-->
 
 🔑 **\#서사시 #트로이 #아킬레우스 #헥토르**
 {: .notice--success}

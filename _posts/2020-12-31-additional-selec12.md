@@ -3,9 +3,9 @@ date: 2020-12-31
 last_modified_at: 2020-12-31
 
 title: "2020년 12월 독서기록(한줄서평)"
-excerpt:
 header:
-  teaser:
+  teaser: https://images.unsplash.com/photo-1604440976150-c12352c982ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+excerpt_separator: "<!--more-->"
 
 category:
   - 책리뷰
@@ -19,7 +19,9 @@ tags:
 
 인내라는 행동의 가장 큰 영향을 미치는 것은 우리의 '뇌'라는 사실을 잊지말자. 
 
-"당신이 성공을 연구한다면 인내, 집중적인 노력, 명확한 목적이 성공의 주요 원인이라는 결론에 반드시 도달할 것"
+"당신이 성공을 연구한다면 인내, 집중적인 노력, 명확한 목적이 성공의 주요 원인이라는 결론에 반드시 도달할 것" 
+
+<!--more-->
 
 🔑 **\#뇌과학 #인내 #집중**
 {: .notice--info}

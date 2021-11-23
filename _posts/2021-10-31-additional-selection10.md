@@ -83,5 +83,3 @@ TV에서 방영하는 흔한 드라마를 보는 듯한 플롯이 단조롭게 �
 
 🔑 **\#로마**
 {: .notice--success} 
-
-<img src="https://images.unsplash.com/photo-1569348642938-46517ef6f177?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2128&q=80" class="align-center" alt="">

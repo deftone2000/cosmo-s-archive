@@ -36,7 +36,3 @@ last_modified_at:
 
 🔑 **\#공산주의 #프롤레타리아 #부르주아**
 {: .notice--danger} 
-
-------
-
-<img src="https://images.unsplash.com/photo-1510828325835-5940110b482a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1728&q=80" class="align-center" alt="">

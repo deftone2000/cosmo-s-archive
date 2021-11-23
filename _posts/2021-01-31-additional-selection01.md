@@ -3,9 +3,9 @@ date: 2021-01-31
 last_modified_at: 2021-01-31
 
 title: "1월 독서기록(한줄서평)"
-excerpt:
 header:
-  teaser:
+  teaser: https://images.unsplash.com/photo-1608751444940-a8ea4c0696ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80
+excerpt_separator: "<!--more-->"
 
 category:
   - 책리뷰
@@ -17,7 +17,9 @@ tags:
 
 💡세상의 '진보'보다 항상 뒤처지는 경제적 '진부'의 원인
 
-헨리 조지는 진보적인 경제학자의 표본이라고 할 수 있다. "부의 불평등한 분배와 특권으로부터 나오는 죄악과 비참을 목격하고 좀 더 나은 사회 구조의 가능성을 깊이 생각하고 그것을 실현시키기 위해 치열하게 노력하는 사람들에게 이 책을 바친다." - 서문
+헨리 조지는 진보적인 경제학자의 표본이라고 할 수 있다. "부의 불평등한 분배와 특권으로부터 나오는 죄악과 비참을 목격하고 좀 더 나은 사회 구조의 가능성을 깊이 생각하고 그것을 실현시키기 위해 치열하게 노력하는 사람들에게 이 책을 바친다." - 서문 
+
+<!--more-->
 
 🔑 **\#진보 #토지개혁 #부의불평등**
 {: .notice--info}

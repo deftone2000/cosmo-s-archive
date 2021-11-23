@@ -3,9 +3,9 @@ date: 2021-08-31
 last_modified_at: 2021-08-31
 
 title: "8월 독서기록(한줄서평)"
-excerpt:
 header:
-  teaser:
+  teaser: https://images.unsplash.com/photo-1596467745359-80a83abb9477?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80
+excerpt_separator: "<!--more-->"
 
 category:
   - 책리뷰
@@ -17,7 +17,9 @@ tags:
 
 💡나는 과연 내 인생에서 무엇을 기대했나? 무엇을 기대하고 있나?
 
-스토너의 인생은 결코 실패가 아니었다. 그의 삶은 우리에게 자신의 인생에 더 근본적인 질문을 던져야 한다고 말한다. '내 인생에서 무엇을 기대하며 살고 있는가?' 이 책의 여운은 아주 길어질 것 같은 예감이 든다.
+스토너의 인생은 결코 실패가 아니었다. 그의 삶은 우리에게 자신의 인생에 더 근본적인 질문을 던져야 한다고 말한다. '내 인생에서 무엇을 기대하며 살고 있는가?' 이 책의 여운은 아주 길어질 것 같은 예감이 든다. 
+
+<!--more-->
 
 🔑 **\#인생 #성공 #실패**
 {: .notice--success}
