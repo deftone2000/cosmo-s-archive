@@ -13,8 +13,10 @@ main:
 
 # 주요범주별 바로가기 사이드바
 taxonomy_tag:
-  - title: "주제 바로가기"
+  - title: "바로가기"
     children:
+    - title: "서재"
+      url: /reading_list/
     - title: "인문, 사회"
       url: /tags/인문/
     - title: "과학"

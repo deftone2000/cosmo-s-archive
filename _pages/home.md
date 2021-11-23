@@ -56,6 +56,6 @@ feature_row:
 
 # 최근 글
 
-{% for post in site.posts limit: 5 %}
+{% for post in site.posts limit: 6 %}
   {% include archive-single.html %}
 {% endfor %}
