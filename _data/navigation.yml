@@ -33,6 +33,16 @@ taxonomy_tag:
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
 # 자유론
+kommunist2:
+  - title: 도서 정보
+    children:
+    - title: 저자 - 칼 마르크스, 프리드리히 엥겔스
+    - title: 번역 - 이진우
+    - title: 출판 - 책세상
+    - title: 출간 - 2018년 6월 20일
+    - title: 추천 - ★★★☆☆
+
+# 자유론
 on-liberty2:
   - title: 도서 정보
     children:
