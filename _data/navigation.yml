@@ -44,92 +44,51 @@ on-liberty2:
 
 # 왜 세계의 절반은 굶주리는가?
 faim-dans-le:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "장 지글러"
-        url:
-  - title: "번역"
-    children:
-      - title: "유영미"
-  - title: "출판"
-    children:
-      - title: "갈라파고스"
-  - title: "출간 정보"
-    children:
-      - title: "2016.03.21. 전자책 출간"
-  - title: "추가 정보"
-    children:
-      - title: "232쪽"
+    - title: 저자 - 장 지글러
+    - title: 번역 - 유영미
+    - title: 출판 - 갈라파고스
+    - title: 출간 - 2016.03.21. 전자책
+    - title: 추천 - ★★★☆☆
 
 # 나름 독서
 naleum-read:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "이채윤"
-        url:
-  - title: "출판"
-    children:
-      - title: "시그마북스"
-  - title: "출간 정보"
-    children:
-      - title: "2016년 03월 21일 출간"
-  - title: "추가 정보"
-    children:
-      - title: "262쪽"
+    - title: 저자 - 이채윤
+    - title: 출판 - 시그마북스
+    - title: 출간 - 2016년 03월 21일
+    - title: 추천 - ★★★☆☆
 
 # 이기적 유전자
 the-selfish-gene2:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "리처드 도킨스"
-        url:
-  - title: "번역"
-    children:
-      - title: "홍영남, 이상임"
-  - title: "출판"
-    children:
-      - title: "을유문화사"
-  - title: "출간 정보"
-    children:
-      - title: "2018.10.20"
-  - title: "추가 정보"
-    children:
-      - title: "632쪽"
+    - title: 저자 - 리처드 도킨스
+    - title: 번역 - 홍영남, 이상임
+    - title: 출판 - 을유문화사
+    - title: 출간 - 2018.10.20.
+    - title: 추천 - ★★★★★
 
 # 지리의 힘
 prisoners-of-geography:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "팀 마샬"
-        url:
-  - title: "번역"
-    children:
-      - title: "김미선"
-  - title: "출판"
-    children:
-      - title: "사이"
-  - title: "출간 정보"
-    children:
-      - title: "2016-08-16"
-  - title: "추가 정보"
-    children:
-      - title: "368쪽"
+    - title: 저자 - 팀 마샬
+    - title: 번역 - 김미선
+    - title: 출판 - 사이
+    - title: 출간 - 2016-08-16
+    - title: 추천 ★★★☆☆
 
 # 거꾸로 읽는 세계사
 world-history-read-backwards:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "유시민"
-        url:
-  - title: "출판"
-    children:
-      - title: "푸른나무"
-  - title: "출간 정보"
-    children:
-      - title: "2008-06-05"
-  - title: "추가 정보"
-    children:
-      - title: "400쪽"
+    - title: 저자 - 유시민
+    - title: 출판 - 푸른나무
+    - title: 출간 - 2008-06-05
+    - title: 추천 - ★★★★☆
 
 # 탤런트 코드
 talent-code:
