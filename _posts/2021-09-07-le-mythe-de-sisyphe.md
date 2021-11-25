@@ -3,8 +3,8 @@ date: 2021-09-07
 last_modified_at: 2021-09-07T10:37:50+09:00
 
 toc: true
-toc_label: "시지프 신화"
-toc_icon: "cogs"
+toc_label:
+toc_icon: "columns"
 toc_sticky: true
 excerpt_separator: "<!--more-->"
 

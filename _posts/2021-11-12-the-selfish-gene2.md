@@ -3,8 +3,8 @@ date: 2021-11-12
 last_modified_at: 2021-11-12T07:46:39+09:00
 
 toc: true
-toc_label: "생명의 진리"
-toc_icon: "cogs"
+toc_label:
+toc_icon: "columns"
 toc_sticky: true
 excerpt_separator: "<!--more-->"
 
