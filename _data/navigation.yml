@@ -32,7 +32,7 @@ taxonomy_tag:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
-# 자유론
+# 공산당선언
 kommunist2:
   - title: 도서 정보
     children:
@@ -102,41 +102,23 @@ world-history-read-backwards:
 
 # 탤런트 코드
 talent-code:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "대니얼 코일"
-        url:
-  - title: "번역"
-    children:
-      - title: "윤미나"
-  - title: "출판"
-    children:
-      - title: "웅진지식하우스"
-  - title: "출간 정보"
-    children:
-      - title: "2021년 03월 01일"
-  - title: "추가 정보"
-    children:
-      - title: "392쪽"
+    - title: 저자 - 대니얼 코일
+    - title: 번역 - 윤미나
+    - title: 출판 - 웅진지식하우스
+    - title: 출간 - 2021년 03월 01일
+    - title: 추천 - ★★★★☆
 
 # 호랑이를 덫에 가두면
 when-you-trap-a-tiger:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "태 켈러"
-        url:
-  - title: "번역"
-    children:
-      - title: "강나은"
-  - title: "출판"
-    children:
-      - title: "돌베개"
-  - title: "출간 정보"
-    children:
-      - title: "2021.04.26. 종이책 출간"
-  - title: "추가 정보"
-    children:
-      - title: "336쪽"
+    - title: 저자 - 태 켈러
+    - title: 번역 - 강나은
+    - title: 출판 - 돌베개
+    - title: 출간 - 2021.04.26.
+    - title: 추천 - ★★★★☆
 
 # 생각을 넓혀주는 독서법
 how-to-read-a-book:
