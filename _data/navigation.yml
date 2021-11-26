@@ -32,6 +32,16 @@ taxonomy_tag:
 
 # 책리뷰 사이드바용 정보(작성일자 역순정렬)
 
+# 파인만의 여섯가지 물리 이야기
+six-easy-pieces:
+  - title: 도서 정보
+    children:
+    - title: 저자 - 리처드 파인만
+    - title: 번역 - 박병철
+    - title: 출판 - 승산
+    - title: 출간 - 2003-01-06
+    - title: 추천 - ★★★☆☆
+
 # 공산당선언
 kommunist2:
   - title: 도서 정보
