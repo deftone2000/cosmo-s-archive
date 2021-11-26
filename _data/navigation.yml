@@ -394,166 +394,93 @@ how-to-live:
 
 # 내 문장이 그렇게 이상한가요?
 is-my-sentence-so-strange:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "김정선"
-        url: https://ridibooks.com/author/60291
-  - title: "출판"
-    children:
-      - title: "유유"
-  - title: "출간 정보"
-    children:
-      - title: "2016.01.24. 종이책 출간"
+    - title: 저자 - 김정선
+    - title: 출판 - 유유
+    - title: 출간 - 2016.01.24.
+    - title: 추천 - ★☆☆☆☆
 
 # 숨결이 바람 될 때
 when-breath-becomes-air:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "폴 칼라니티"
-        url: https://ridibooks.com/author/68834
-  - title: "번역"
-    children:
-      - title: "이종인"
-  - title: "출판"
-    children:
-      - title: "흐름출판"
-  - title: "출간 정보"
-    children:
-      - title: "2016.08.18. 종이책 출간"
-  - title: "추가 정보"
-    children:
-      - title: "리디북스, 약 11.6만 자"
+    - title: 저자 - 폴 칼라니티
+    - title: 번역 - 이종인
+    - title: 출판 - 흐름출판
+    - title: 출간 - 2016.08.18.
+    - title: 추천 - ★★★★★
 
 # 행복의 기원
 origin-of-happiness:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "서은국"
-        url: https://ridibooks.com/author/22541
-  - title: "출판"
-    children:
-      - title: "21세기북스"
-  - title: "출간 정보"
-    children:
-      - title: "2014.05.22. 전자책, 종이책 동시 출간"
-  - title: "추가 정보"
-    children:
-      - title: "리디북스, 약 8.4만 자"
+    - title: 저자 - 서은국
+    - title: 출판 - 21세기북스
+    - title: 출간 - 2014.05.22.
+    - title: 추천 - ★★★★☆
 
 # 메모독서법
 memo-reading:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "신정철"
-        url: https://ridibooks.com/author/60324
-  - title: "출판"
-    children:
-      - title: "위즈덤하우스"
-  - title: "출간 정보"
-    children:
-      - title: "2019.03.15. 전자책, 종이책 동시 출간"
-  - title: "추가 정보"
-    children:
-      - title: "리디북스, 약 6.9만 자"
+    - title: 저자 - 신정철
+    - title: 출판 - 위즈덤하우스
+    - title: 출간 - 2019.03.15.
+    - title: 추천 - ★★★☆☆
 
 # 나는 매일 책을 읽기로 했다
 read-a-book-every-day:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "김범준"
-        url: https://ridibooks.com/author/5584
-  - title: "출판"
-    children:
-      - title: "비즈니스북스"
-  - title: "출간 정보"
-    children:
-      - title: "2018.06.29. 종이책 출간"
-  - title: "추가 정보"
-    children:
-      - title: "리디북스, 약 8.1만 자"
+    - title: 저자 - 김범준
+    - title: 출판 - 비즈니스북스
+    - title: 출간 - 2018.06.29.
+    - title: 추천 - ★★☆☆☆
 
 # 독서는 절대 나를 배신하지 않는다
 reading-never-betrays-me:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "사이토 다카시"
-        url: https://ridibooks.com/author/6035
-  - title: "번역"
-    children:
-      - title: "김효진"
-  - title: "출판"
-    children:
-      - title: "걷는나무"
-  - title: "출간 정보"
-    children:
-      - title: "2015.05.30. 종이책 출간"
-  - title: "추가 정보"
-    children:
-      - title: "리디북스, 약 7.3만 자"
+    - title: 저자 - 사이토 다카시
+    - title: 번역 - 김효진
+    - title: 출판 - 걷는나무
+    - title: 출간 - 2015.05.30.
+    - title: 추천 - ★☆☆☆☆
 
 # 완벽한 공부법
 perfect-study:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "고영성, 신영준"
-        url: https://ridibooks.com/author/3645
-  - title: "출판"
-    children:
-      - title: "로크미디어"
-  - title: "출간 정보"
-    children:
-      - title: "2017.01.23. 전자책 출간"
-  - title: "추가 정보"
-    children:
-      - title: "리디북스,  27.5만 자"
+    - title: 저자 - 고영성, 신영준
+    - title: 출판 - 로크미디어
+    - title: 출간 - 2017.01.23.
+    - title: 추천 - ★★★☆☆
 
 # 스틱
 stick:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "칩 히스, 댄 히스"
-        url: https://ridibooks.com/author/10276
-  - title: "번역"
-    children:
-      - title: "박슬라, 안진환"
-  - title: "출판"
-    children:
-      - title: "웅진윙스"
-  - title: "출간 정보"
-    children:
-      - title: "2009.08.03. 전자책 출간"
-  - title: "추가 정보"
-    children:
-      - title: "리디북스, 약 25.1만 자"
+    - title: 저자 - 칩 히스, 댄 히스
+    - title: 번역 - 박슬라, 안진환
+    - title: 출판 - 웅진윙스
+    - title: 출간 - 2009.08.03.
+    - title: 추천 - ★★★☆☆
 
 # 경영학 콘서트
 business-admin-concert:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "장영재"
-        url: https://ridibooks.com/author/2050
-  - title: "출판"
-    children:
-      - title: "비즈니스북스"
-  - title: "출간 정보"
-    children:
-      - title: "2010.03.15. 전자책 출간"
-  - title: "추가 정보"
-    children:
-      - title: "리디북스, 약 20.2만 자"
+    - title: 저자 - 장영재
+    - title: 출판 - 비즈니스북스
+    - title: 출간 - 2010.03.15.
+    - title: 추천 - ★★★☆☆
 
 # 채식주의
 vegetarian:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "한강"
-        url: https://ridibooks.com/author/8136
-  - title: "출판"
-    children:
-      - title: "창비"
-  - title: "출간 정보"
-    children:
-      - title: "2014.07.31. 종이책 출간"
-  - title: "추가 정보"
-    children:
-      - title: "리디북스, 약 10.5만 자"
+    - title: 저자 - 한강
+    - title: 출판 - 창비
+    - title: 출간 - 2014.07.31.
+    - title: 추천 - ★★★☆☆
