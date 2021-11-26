@@ -1,6 +1,6 @@
 ---
 date: 2021-04-13-how-democracies-die
-last_modified_at: 2021-04-13T09:06:48+09:00
+last_modified_at: 2021-11-26
 
 title: "민주주의의 해체"
 excerpt:
