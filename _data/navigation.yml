@@ -122,508 +122,275 @@ when-you-trap-a-tiger:
 
 # 생각을 넓혀주는 독서법
 how-to-read-a-book:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "모티머 J. 애들러, 찰스 반 도렌"
-        url:
-  - title: "번역"
-    children:
-      - title: "독고 앤"
-  - title: "출판"
-    children:
-      - title: "멘토"
-  - title: "출간 정보"
-    children:
-      - title: "2012-12-15 출간"
-  - title: "추가 정보"
-    children:
-      - title: "462쪽"
+    - title: 저자 - 모티머 J. 애들러, 찰스 반 도렌
+    - title: 번역 - 독고 앤
+    - title: 출판 - 멘토
+    - title: 출간 - 2012-12-15
+    - title: 추천 - ★★★★☆
 
 # 서평 글쓰기 특강
 book-review-writing-special-lecture:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "김민영, 황선애"
-        url:
-  - title: "출판"
-    children:
-      - title: "한국출판마케팅연구소"
-  - title: "출간 정보"
-    children:
-      - title: "2015-06-02 출간"
-  - title: "추가 정보"
-    children:
-      - title: "252쪽"
+    - title: 저자 - 김민영, 황선애
+    - title: 출판 - 한국출판마케팅연구소
+    - title: 출간 - 2015-06-02
+    - title: 추천 - ★★★☆☆
 
 # 코스모스
 cosmos2:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "칼 세이건"
-        url:
-  - title: "번역"
-    children:
-      - title: "홍승수"
-  - title: "출판"
-    children:
-      - title: "사이언스북스"
-  - title: "출간 정보"
-    children:
-      - title: "2006-12-20 출간"
-  - title: "추가 정보"
-    children:
-      - title: "719쪽"
+    - title: 저자 - 칼 세이건
+    - title: 번역 - 홍승수
+    - title: 출판 - 사이언스북스
+    - title: 출간 - 2006-12-20
+    - title: 추천 - ★★★★★
 
 # 사람, 장소, 환대
 person-place-hospitality:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "김현경"
-        url:
-  - title: "출판"
-    children:
-      - title: "문학과지성사"
-  - title: "출간 정보"
-    children:
-      - title: "2015-03-31 출간"
-  - title: "추가 정보"
-    children:
-      - title: "297쪽"
-
-# 내일의 연일들
-tomorrow-lovers:
-  - title: "저자"
-    children:
-      - title: "정영수"
-        url:
-  - title: "출판"
-    children:
-      - title: "문학동네"
-  - title: "출간 정보"
-    children:
-      - title: "2020-10-20 출간"
-  - title: "추가 정보"
-    children:
-      - title: "236쪽"
-
-# 1만 시간의 재발견
-science-of-expertise:
-  - title: "저자"
-    children:
-      - title: "안데르스 에릭슨,로버트 풀"
-        url:
-  - title: "번역"
-    children:
-      - title: "강혜정"
-  - title: "출판"
-    children:
-      - title: "비즈니스북스"
-  - title: "출간 정보"
-    children:
-      - title: "2016-06-30 출간"
-  - title: "추가 정보"
-    children:
-      - title: "416쪽"
+    - title: 저자 - 김현경
+    - title: 출판 - 문학과지성사
+    - title: 출간 - 2015-03-31
+    - title: 추천 - ★★★★☆
 
 # 헌법의 풍경
 constitutional-landscape:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "김두식"
-        url:
-  - title: "출판"
+    - title: 저자 - 김두식
+    - title: 출판 - 교양인
+    - title: 출간 - 2011년 12월 19일
+    - title: 추천 - ★★★☆☆
+
+# 내일의 연일들
+tomorrow-lovers:
+  - title: 도서 정보
     children:
-      - title: "교양인"
-  - title: "출간 정보"
+    - title: 저자 - 정영수
+    - title: 출판 - 문학동네
+    - title: 출간 - 2020-10-20
+    - title: 추천 - ★★★☆☆
+
+# 1만 시간의 재발견
+science-of-expertise:
+  - title: 도서 정보
     children:
-      - title: "2011년 12월 19일"
-  - title: "추가 정보"
-    children:
-      - title: "352쪽"
+    - title: 저자 - 안데르스 에릭슨,로버트 풀
+    - title: 번역 - 강혜정
+    - title: 출판 - 비즈니스북스
+    - title: 출간 - 2016-06-30
+    - title: 추천 - ★★★★☆
 
 # 페스트
 peste:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "알베르 카뮈"
-        url:
-  - title: "번역"
-    children:
-      - title: "김화영"
-  - title: "출판"
-    children:
-      - title: "민음사"
-  - title: "출간 정보"
-    children:
-      - title: "2011.03.25 출간"
-  - title: "추가 정보"
-    children:
-      - title: "508쪽"
+    - title: 저자 - 알베르 카뮈
+    - title: 번역 - 김화영
+    - title: 출판 - 민음사
+    - title: 출간 - 2011.03.25.
+    - title: 추천 - ★★★★☆
 
 # 다크호스
 darkhorse:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "토드 로즈, 오기 오가스"
-        url:
-  - title: "번역"
-    children:
-      - title: "정미나"
-  - title: "출판"
-    children:
-      - title: "20세기북스"
-  - title: "출간 정보"
-    children:
-      - title: "2019.08.07 출간"
-  - title: "추가 정보"
-    children:
-      - title: "396쪽"
+    - title: 저자 - 토드 로즈, 오기 오가스
+    - title: 번역 - 정미나
+    - title: 출판 - 20세기북스
+    - title: 출간 - 2019.08.07.
+    - title: 추천 - ★★★☆☆
 
 # 시지프 신화
 le-mythe-de-sisyphe:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "알베르 까뮈"
-        url:
-  - title: "번역"
-    children:
-      - title: "김화영"
-  - title: "출판"
-    children:
-      - title: "민음사"
-  - title: "출간 정보"
-    children:
-      - title: "2016년 06월 17일"
-  - title: "추가 정보"
-    children:
-      - title: "332쪽"
+    - title: 저자 - 알베르 까뮈
+    - title: 번역 - 김화영
+    - title: 출판 - 민음사
+    - title: 출간 - 2016년 06월 17일
+    - title: 추천 - ★★★★★
 
 # 연금술사
 alchemist:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "파울로 코엘료"
-        url:
-  - title: "번역"
-    children:
-      - title: "최정수"
-  - title: "출판"
-    children:
-      - title: "문학동네"
-  - title: "출간 정보"
-    children:
-      - title: "2001년 12월 01일"
-  - title: "추가 정보"
-    children:
-      - title: "284쪽"
+    - title: 저자 - 파울로 코엘료
+    - title: 번역 - 최정수
+    - title: 출판 - 문학동네
+    - title: 출간 - 2001년 12월 01일
+    - title: 추천 - ★★★★☆
 
 # 키르케
 circe:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "매들린 밀러"
-        url:
-  - title: "번역"
-    children:
-      - title: "이은선"
-  - title: "출판"
-    children:
-      - title: "이봄"
-  - title: "출간 정보"
-    children:
-      - title: "2020.05.28 출간"
-  - title: "추가 정보"
-    children:
-      - title: "524쪽"
+    - title: 저자 - 매들린 밀러
+    - title: 번역 - 이은선
+    - title: 출판 - 이봄
+    - title: 출간 - 2020.05.28.
+    - title: 추천 - ★★★★☆
 
 # 로빈슨 크루소
 robinson-crusoe:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "다니엘 디포"
-        url:
-  - title: "번역"
-    children:
-      - title: "류경희"
-  - title: "출판"
-    children:
-      - title: "열린책들"
-  - title: "출간 정보"
-    children:
-      - title: "2011-03-20 출간"
-  - title: "추가 정보"
-    children:
-      - title: "454쪽"
+    - title: 저자 - 다니엘 디포
+    - title: 번역 - 류경희
+    - title: 출판 - 열린책들
+    - title: 출간 - 2011-03-20
+    - title: 추천 - ★★★☆☆
 
 # 군주론
 il-principe:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "니콜로 마키아벨리"
-        url:
-  - title: "번역"
-    children:
-      - title: "강정인,김경희"
-  - title: "출판"
-    children:
-      - title: "까치(까치글방)"
-  - title: "출간 정보"
-    children:
-      - title: "2015-02-10 출간"
-  - title: "추가 정보"
-    children:
-      - title: "267쪽"
+    - title: 저자 - 니콜로 마키아벨리
+    - title: 번역 - 강정인,김경희
+    - title: 출판 - 까치(까치글방)
+    - title: 출간 - 2015-02-10
+    - title: 추천 - ★★★☆☆
 
 # 장미의 이름
 il-nome-della-rosa:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "움베르트 에코"
-        url:
-  - title: "번역"
-    children:
-      - title: "이윤기"
-  - title: "출판"
-    children:
-      - title: "열린책들"
-  - title: "출간 정보"
-    children:
-      - title: "2018-07-25 출간"
-  - title: "추가 정보"
-    children:
-      - title: "912쪽"
+    - title: 저자 - 움베르트 에코
+    - title: 번역 - 이윤기
+    - title: 출판 - 열린책들
+    - title: 출간 - 2018-07-25
+    - title: 추천 - ★★★★☆
 
 # 총, 균, 쇠
 guns-germs-steel:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "재레드 다이아몬드"
-        url:
-  - title: "번역"
-    children:
-      - title: "김진준"
-  - title: "출판"
-    children:
-      - title: "문학사상"
-  - title: "출간 정보"
-    children:
-      - title: "2013-03-04 출간"
-  - title: "추가 정보"
-    children:
-      - title: "760쪽"
+    - title: 저자 - 재레드 다이아몬드
+    - title: 번역 - 김진준
+    - title: 출판 - 문학사상
+    - title: 출간 - 2013-03-04
+    - title: 추천 - ★★★★★
 
 # 호밀밭의 파수꾼
 the-catcher-in-the-rye:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "제롬 데이비드 샐린저"
-        url:
-  - title: "번역"
-    children:
-      - title: "공경희"
-  - title: "출판"
-    children:
-      - title: "민음사"
-  - title: "출간 정보"
-    children:
-      - title: "2001-05-30 출간"
-  - title: "추가 정보"
-    children:
-      - title: "279쪽"
+    - title: 저자 - 제롬 데이비드 샐린저
+    - title: 번역 - 공경희
+    - title: 출판 - 민음사
+    - title: 출간 - 2001-05-30
+    - title: 추천 - ★★★★☆
 
 # 어떻게 민주주의는 무너지는가
 how-democracies-die:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "스티븐 레비츠키, 대니얼 지블랫"
-        url:
-  - title: "번역"
-    children:
-      - title: "박세연"
-  - title: "출판"
-    children:
-      - title: "어크로스"
-  - title: "출간 정보"
-    children:
-      - title: "2018년 10월 02일"
-  - title: "추가 정보"
-    children:
-      - title: "352쪽"
+    - title: 저자 - 스티븐 레비츠키, 대니얼 지블랫
+    - title: 번역 - 박세연
+    - title: 출판 - 어크로스
+    - title: 출간 - 2018년 10월 02일
+    - title: 추천 - ★★★☆☆
 
 # 살라미스 해전
 the-battle-of-salamis:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "배리 스트라우스"
-        url:
-  - title: "번역"
-    children:
-      - title: "이순호"
-  - title: "출판"
-    children:
-      - title: "갈라파고스"
-  - title: "출간 정보"
-    children:
-      - title: "2006-01-03 출간"
-  - title: "추가 정보"
-    children:
-      - title: "451쪽"
+    - title: 저자 - 배리 스트라우스
+    - title: 번역 - 이순호
+    - title: 출판 - 갈라파고스
+    - title: 출간 - 2006-01-03
+    - title: 추천 - ★★★★☆
 
 # 페르시아 전쟁
 the-persian-fire:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "톰 홀랜드"
-        url:
-  - title: "번역"
-    children:
-      - title: "이순호"
-  - title: "출판"
-    children:
-      - title: "책과함께"
-  - title: "출간 정보"
-    children:
-      - title: "2006-12-11 출간"
-  - title: "추가 정보"
-    children:
-      - title: "644쪽"
+    - title: 저자 - 톰 홀랜드
+    - title: 번역 - 이순호
+    - title: 출판 - 책과함께
+    - title: 출간 - 2006-12-11
+    - title: 추천 - ★★★☆☆
 
 # 고대 그리스사
 ancient-greece:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "토마스 R. 마틴"
-        url:
-  - title: "번역"
-    children:
-      - title: "이종인"
-  - title: "출판"
-    children:
-      - title: "책과함께"
-  - title: "출간 정보"
-    children:
-      - title: "2015.10.15 출간"
-  - title: "추가 정보"
-    children:
-      - title: "488쪽"
+    - title: 저자 - 토마스 R. 마틴
+    - title: 번역 - 이종인
+    - title: 출판 - 책과함께
+    - title: 출간 - 2015.10.15
+    - title: 추천 - ★★★☆☆
 
 # 펠로폰네소스 전쟁사
 peloponnesian-war:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "도널드 케이건"
-        url: https://ridibooks.com/author/69444
-  - title: "번역"
-    children:
-      - title: "허승일, 박재욱"
-  - title: "출판"
-    children:
-      - title: "까치글방"
-  - title: "출간 정보"
-    children:
-      - title: "2016.09.06. 전자책 출간"
-  - title: "추가 정보"
-    children:
-      - title: "리디북스, 약 42.5만 자"
+    - title: 저자 - 도널드 케이건
+    - title: 번역 - 허승일, 박재욱
+    - title: 출판 - 까치글방
+    - title: 출간 - 2016.09.06.
+    - title: 추천 - ★★★☆☆
 
 # 문재인, 김인회의 검찰을 생각한다
 think-of-the-prosecution:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "문재인, 김인회"
-        url:
-  - title: "출판"
-    children:
-      - title: "오월의봄"
-  - title: "출간 정보"
-    children:
-      - title: "2011.11.23. 전자책, 종이책 동시 출간"
-  - title: "추가 정보"
-    children:
-      - title: "리디북스, 약 22.8만 자"
+    - title: 저자 - 문재인, 김인회
+    - title: 출판 - 오월의봄
+    - title: 출간 - 2011.11.23.
+    - title: 추천 - ★★★★★
 
 # 1984
 nineteen-eighty-four:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "조지 오웰"
-        url: https://ridibooks.com/author/3560
-  - title: "번역"
-    children:
-      - title: "박상곤"
-  - title: "출판"
-    children:
-      - title: "온스토리"
-  - title: "출간 정보"
-    children:
-      - title: "2013.05.30. 전자책, 종이책 동시 출간"
-  - title: "추가 정보"
-    children:
-      - title: "리디북스, 약 69.6만 자"
+    - title: 저자 - 조지 오웰
+    - title: 번역 - 박상곤
+    - title: 출판 - 온스토리
+    - title: 출간 - 2013.05.30.
+    - title: 추천 - ★★★★★
 
 # 동물농장
 animal-farm:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "조지 오웰"
-        url: https://ridibooks.com/author/3560
-  - title: "출판"
-    children:
-      - title: "온스토리"
-  - title: "출간 정보"
-    children:
-      - title: "2013.04.30. 전자책, 종이책 동시 출간"
-  - title: "추가 정보"
-    children:
-      - title: "리디북스, 약 21.4만 자"
+    - title: 저자 - 조지 오웰
+    - title: 번역 - 박상곤
+    - title: 출판 - 온스토리
+    - title: 출간 - 2013.04.30.
+    - title: 추천 - ★★★☆☆
 
 # 뼈가 들려준 이야기
 story-told-by-bone:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "진주현"
-        url: https://ridibooks.com/author/56906
-  - title: "출판"
-    children:
-      - title: "푸른숲"
-  - title: "출간 정보"
-    children:
-      - title: "2015.10.21. 종이책 출간"
-  - title: "추가 정보"
-    children:
-      - title: "리디북스, 약 14.3만 자"
+    - title: 저자 - 진주현
+    - title: 출판 - 푸른숲
+    - title: 출간 - 2015.10.21.
+    - title: 추천 - ★★★☆☆
 
 # 유시민의 경제학 카페
 economics-cafe:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "유시민"
-        url: https://ridibooks.com/author/508
-  - title: "출판"
-    children:
-      - title: "돌베개"
-  - title: "출간 정보"
-    children:
-      - title: "2002.01.28. 종이책 출간"
-  - title: "추가 정보"
-    children:
-      - title: "리디북스, 약 21만 자"
+    - title: 저자 - 유시민
+    - title: 출판 - 돌베개
+    - title: 출간 - 2002.01.28.
+    - title: 추천 - ★★★☆☆
 
 # 어떻게 살 것인가
 how-to-live:
-  - title: "저자"
+  - title: 도서 정보
     children:
-      - title: "유시민"
-        url: https://ridibooks.com/author/508
-  - title: "출판"
-    children:
-      - title: "생각의길"
-  - title: "출간 정보"
-    children:
-      - title: "2015.05.08. 전자책 출간"
-  - title: "추가 정보"
-    children:
-      - title: "리디북스, 약 17.6만 자"
+    - title: 저자 - 유시민
+    - title: 출판 - 생각의길
+    - title: 출간 - 2015.05.08.
+    - title: 추천 - ★★★☆☆
 
 # 내 문장이 그렇게 이상한가요?
 is-my-sentence-so-strange:
