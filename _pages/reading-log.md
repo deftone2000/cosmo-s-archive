@@ -1,7 +1,7 @@
 ---
 title: "Reading Log"
 layout: category
-permalink: /reading_list/
+permalink: /reading_log/
 taxonomy: 책리뷰
 entries_layout: grid
 classes: wide

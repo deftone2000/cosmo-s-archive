@@ -7,7 +7,7 @@ main:
   - title: "태그"
     url: /tags/
   - title: "서재"
-    url: /reading_list/
+    url: /reading_log/
  # - title: "안녕하세요"
  #   url: /collection-archive/
 
@@ -16,7 +16,7 @@ taxonomy_tag:
   - title: "바로가기"
     children:
     - title: "서재"
-      url: /reading_list/
+      url: /reading_log/
     - title: "인문, 사회"
       url: /tags/인문/
     - title: "과학"
