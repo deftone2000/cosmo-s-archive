@@ -1,6 +1,6 @@
 ---
 title: "Reading Log"
-layout: category
+layout: posts
 permalink: /reading_log/
 taxonomy: 책리뷰
 entries_layout: grid
