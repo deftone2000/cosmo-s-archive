@@ -54,11 +54,6 @@ feature_row:
 ---
 {% include feature_row %}
 # 최근 글
-<div class="grid__wrapper">
-  {% for post in site.posts limit:4 %}
-    {% if post.id == page.id %}
-      {% continue %}
-    {% endif %}
-    {% include archive-single.html type="grid" %}
+{% for post in site.posts limit: 5 %}
+  {% include archive-single.html %}
   {% endfor %}
-</div>
