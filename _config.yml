@@ -54,7 +54,7 @@ algolia:
   application_id         : T8RAY7L1MF # YOUR_APPLICATION_ID
   index_name             : cosmos_library # YOUR_INDEX_NAME
   search_only_api_key    : 82bad692b1d01d918b388e5dcbc4a3c5 # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : true # true (default), false
+  powered_by             : false # true (default), false
   files_to_exclude:
         - index.html
         - index.md
@@ -100,7 +100,7 @@ author:
   links:
     - label: "Brunch"
       icon: "far fa-keyboard"
-      url: "https://brunch.co.kr/@cosmoslib"
+      url: "https://brunch.co.kr/@cosmoslib#articles"
 #    - label: "Notion"
 #      icon: "fas fa-fw fa-book"
 #      url: "https://cosmoslib.notion.site/88edcb87a68345d98b55b460ba27e1e3?v=44d52f8a550049edbfd90d256d973e7a"
@@ -116,20 +116,26 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/deftone2000"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:deftone2000@gmail.com"
 
 
 # Site Footer
 footer:
   links:
+    - label: "Brunch"
+      icon: "far fa-keyboard"
+      url: "https://brunch.co.kr/@cosmoslib#articles"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/deftone2000"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/deftone2000"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/deftone2000"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/deftone2000"
 
 
 # Reading Files
@@ -188,73 +194,19 @@ kramdown:
 
 
 # Collections
-collections:
- # docs:
- #   output: true
- #   permalink: /:collection/:path/
- # travel:
- #   output: true
- #   permalink: /:collection/:path/
- # playground:
- #   output: true
- #   permalink: /:collection/:path/
- # portfolio:
- #   output: true
- #   permalink: /:collection/:path/
-
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      show_date: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-  # _travel
-  - scope:
-      path: ""
-      type: travel
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _playground
-  - scope:
-      path: ""
-      type: playground
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comment: false
-      sidebar:
-        title: Playground
-        nav: "playground"
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
+#collections:
+# docs:
+#   output: true
+#   permalink: /:collection/:path/
+# travel:
+#   output: true
+#   permalink: /:collection/:path/
+# playground:
+#   output: true
+#   permalink: /:collection/:path/
+# portfolio:
+#   output: true
+#   permalink: /:collection/:path/
 
 
 # Sass/SCSS
@@ -265,7 +217,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
+#paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -324,3 +276,57 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      show_date: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+  # _travel
+#  - scope:
+#      path: ""
+#      type: travel
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comments: true
+  # _playground
+#  - scope:
+#      path: ""
+#      type: playground
+#    values:
+#      layout: single
+#      read_time: false
+#      author_profile: false
+#      share: false
+#      comment: false
+#      sidebar:
+#        title: Playground
+#        nav: "playground"
+  # _portfolio
+#  - scope:
+#      path: ""
+#      type: portfolio
+#    values:
+#      layout: single
+#      author_profile: false
+#      share: true
