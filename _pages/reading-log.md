@@ -1,5 +1,5 @@
 ---
-title: "Reading Log"
+title: "The Writing Log"
 permalink: /reading_log/
 layout: posts
 entries_layout: grid
